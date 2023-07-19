@@ -1,0 +1,148 @@
+Character,scrpits_src folder,Art Folder Name,Head Define,Script Name,Generic Pronoun,Include Head in Build?,Include Voice in Build?
+A. Ron Meyers,sanfran,CAP,HEAD_CAP,FCRonMey,Wanderer,YES,NO
+Abbot,abbey,ABOTT,HEAD_ABOTT,ahmonk,Child,YES,NO
+AHS-7,sanfran,AHS7,HEAD_AHS7,FCOz7,Child,YES,NO
+AHS-9,sanfran,AHS9H,HEAD_AHS9H,FCOz9,Child,YES,NO
+Angela Bishop,newreno,ABSHP,HEAD_ABSHP,ncAngBis,You,YES,NO
+Ann,villout,ANNVV,HEAD_ANNVV,vilann,Stranger,YES,NO
+Anna Winslow,den,ANNA,HEAD_ANNA,DCANNA,Wanderer,YES,NO
+Ardin,klamath,ARDIN,HEAD_ARDIN,KCArdin,Stranger,YES,NO
+Badger,sanfran,BADGE,HEAD_BADGE,FCBadger,Dude,YES,NO
+Balthas,modoc,BAL,HEAD_BAL,mcBaltha,Stranger,YES,NO
+Barkus,valtcity,BARK,HEAD_BARK,vcbarkus,Citizen,YES,NO
+Ben Wade,redding,BEN,HEAD_BEN,RCWade,Wanderer,YES,NO
+Big Jesus Mordino,newreno,BGJES,HEAD_BGJES,ncBigJes,Kid,YES,NO
+Brother Matthew,abbey,BMATT,HEAD_BMATT,abmatt,Child,YES,NO
+Brother Paul,abbey,PAUL,HEAD_PAUL,amonk5,Child,YES,NO
+Cameron,arroyo,CAM,HEAD_CAM,ACTEMVIL,Chosen,YES,NO
+Cassidy,valtcity,CASDY,HEAD_CASDY,VCCASIDY,Friend,YES,NO
+Cat Jules,epa,CAT,HEAD_CAT,epac11,Friend,YES,NO
+Chad,brokhill,CHAD,HEAD_CHAD,hcchad,Friend,YES,NO
+Chancellor McClure,valtcity,MCCLR,HEAD_MCCLR,VCMClure,Citizen,YES,NO
+Chieftain,prmtribe,CHIEF,HEAD_CHIEF,tribec12,Chosen,YES,NO
+Chip,sanfran,CHIP,HEAD_CHIP,fcchip,Dude,YES,NO
+Chris,navarro,CHRIS,HEAD_CHRIS,ccchris,Traveller,YES,NO
+Chrissy,vault15,CHRSY,HEAD_CHRSY,BCCrissy,Stranger,YES,NO
+Christopher Wright,newreno,CW,HEAD_CW,ncChrWri,Loser,YES,NO
+Connar,villout,CNR,HEAD_CNR,VCConnar ,Wanderer,YES,NO
+Cornelius,modoc,CORN,HEAD_CORN,mcCornel,Kiddo,YES,NO
+Dalia,vault13,DAL13,HEAD_DAL13,OCDalia,Wanderer,YES,NO
+Dalia,vault15,DALIA,HEAD_DALIA,bcDalia,Wanderer,YES,NO
+Dan McGrew,redding,DAN,HEAD_DAN,RCMcGrew,Stranger,YES,NO
+Darion,vault15,DARIO,HEAD_DARIO,BCDarion,Wanderer,YES,NO
+Dave,abbey,MERCH,HEAD_MERCH,abmerch1,Stranger,YES,NO
+Davin,modoc,DAVIN,HEAD_DAVIN,mcDavin,Lover,YES,NO
+Dex,epa,DEX,HEAD_DEX,epac10,Doll,YES,NO
+"Doc ""Painless"" Johnson",redding,DOCJ,HEAD_DOCJ,RCDrJohn,Traveller,YES,NO
+Dogmeat,rndenctr,DOGMT,HEAD_DOGMT,ECDogMet,Wanderer,YES,NO
+Don,den,DON,HEAD_DON,slvcc1,Tribal,YES,NO
+Dr Curling,enclave,CURL,HEAD_CURL,QCCurlng,Soldier,YES,NO
+Dr. Henry,ncr,HENRY,HEAD_HENRY,SCHenry,Friend,YES,NO
+Dr. Schreber,navarro,SCH,HEAD_SCH,CcDoctor,Soldier,YES,NO
+Dr. Troy,valtcity,Troy,HEAD_Troy,VCDrTroy,Citizen,YES,NO
+Dr. Wong,sanfran,WONG,HEAD_WONG,FCDrwong,Friend,YES,NO
+Dragon,sanfran,DRAGO,HEAD_DRAGO,fcdragon,Friend,YES,NO
+Elise,ncr,ELISE,HEAD_ELISE,SCElise,Outsider,YES,NO
+Enlightened One,ncr,EO,HEAD_EO,SCEnlOne,Child,YES,NO
+Ethyl Wright,newreno,EW,HEAD_EW,ncEthWri,Dear,YES,NO
+Fannie Mae,redding,FANNI,HEAD_FANNI,RCFannie,Lover,YES,NO
+Farrel,modoc,FAR,HEAD_FAR,mcFarrel,Kid,YES,NO
+Father Tully,newreno,TULLY,HEAD_TULLY,ncFTully,Kid,YES,NO
+Festus,gecko,FEST,HEAD_FEST,GCFestus,Smoothskin,YES,NO
+Francis,brokhill,FRANC,HEAD_FRANC,hcFranci,Normy,YES,NO
+Frankie,den,FRANK,HEAD_FRANK,dcfrankie,Wanderer,YES,NO
+Gordan,gecko,GORD,HEAD_GORD,GCGORDON,Smoothskin,YES,NO
+Goris,vault13,GORIS,HEAD_GORIS,OCGoris,Human,YES,NO
+Granite,enclave,GRANI,HEAD_GRANI,QCGRANIT,Soldier,YES,NO
+Grisham,modoc,GRISH,HEAD_GRISH,mcGrisha,Wanderer,YES,NO
+Gruthar,vault13,GRUTH,HEAD_GRUTH,OCGrutha,Human,YES,NO
+Happy Harry,valtcity,HHARY,HEAD_HHARY,vcharry,Friend,YES,NO
+Jacob,brokhill,JACOB,HEAD_JACOB,hcJacob,Traveller,YES,NO
+Jenny,klamath,JENNY,HEAD_JENNY,KCJenny,Lover,YES,NO
+Jimmy J,newreno,JIMMY,HEAD_JIMMY,ncJimmyJ,Friend,YES,NO
+Jo,modoc,JOMOD,HEAD_JOMOD,mcJo,Wanderer,YES,NO
+Joey,den,JOEYD,HEAD_JOEYD,DCJoey,Loser,YES,NO
+Jonny,modoc,JONNY,HEAD_JONNY,mcJonny,Stranger,YES,NO
+Jules,newreno,JULES,HEAD_JULES,ncJules,Friend,YES,NO
+K9,navarro,RDOG,HEAD_RDOG,CcK9,Human,YES,NO
+Kaga,arroyo,KAGA,HEAD_KAGA,eckaga1 & eckaga2 & eckaga3 & eckaga4 & eckaga5,Chosen,YES,NO
+Keith Wright,newreno,KEITH,HEAD_KEITH,ncKeiWri,Dimbulb,YES,NO
+Ken Lee,sanfran,KENSF,HEAD_KENSF,FCKenLee,Friend,YES,NO
+Kitsune,epa,KIT,HEAD_KIT,epac12,Wanderer,YES,NO
+Klint,arroyo,KLINT,HEAD_KLINT,ACKlint,Chosen,YES,NO
+Krom,prmtribe,KROM,HEAD_KROM,tribec1,Chosen,YES,NO
+Kurisu,prmtribe,KUR,HEAD_KUR,tribec7,Chosen,YES,NO
+Laddie the Dog,modoc,LAD,HEAD_LAD,mcLaddie,Wanderer,YES,NO
+Lao Chou,sanfran,LAO,HEAD_LAO,FCLaoCho,Friend,YES,NO
+Lara,den,LARAD,HEAD_LARAD,dcLara,Punk,YES,NO
+Lenny,gecko,LENNY,HEAD_LENNY,GCLenny,Friend,YES,NO
+Leslie Ann Bishop,newreno,LBSHP,HEAD_LBSHP,ncLABish,Traveller,YES,NO
+Lil Jesus Mordino,newreno,LJMRD,HEAD_LJMRD,ncLilJes,Cambron,YES,NO
+Lo Pan,sanfran,LOPAN,HEAD_LOPAN,FCLopan,Friend,YES,NO
+Louise,redding,LOU,HEAD_LOU,RCLou,Wanderer,YES,NO
+Lydia,valtcity,LYDIA,HEAD_LYDIA,VCDWNBAR,Dear,YES,NO
+Maida,klamath,MAIDA,HEAD_MAIDA,KCMaida,Tribal,YES,NO
+Marge LeBarge,redding,MARGE,HEAD_MARGE,RCMarge,Wanderer,YES,NO
+Marjorie Reed,newreno,MARJ,HEAD_MARJ,ncResear,Stranger,YES,NO
+Mason,newreno,MASON,HEAD_MASON,ncMason,Wanderer,YES,NO
+Matthew,sanfran,MAT,HEAD_MAT,FCFMatt,Wanderer,YES,NO
+Mayor Ascorti,redding,ASCOR,HEAD_ASCOR,RCAscort,Friend,YES,NO
+Merk,ncr,MERK,HEAD_MERK,SCMerk,Wanderer,YES,NO
+Metzger,den,METZG,HEAD_METZG,dcMetzge,Kid,YES,NO
+Mira,ncr,SKERI,HEAD_SKERI,SCMira,Friend,YES,NO
+Miria,modoc,MIRIA,HEAD_MIRIA,mcMiria,Cutie,YES,NO
+Mom,den,MOM,HEAD_MOM,DCMom,Dear,YES,NO
+Mr. Bishop,newreno,BISHP,HEAD_BISHP,ncBishop,Kid,YES,NO
+Ms. Kitty,newreno,KITTY,HEAD_KITTY,ncKitty,Lover,YES,NO
+Mynoc,arroyo,MYNOC,HEAD_MYNOC,ACMYNOC,Chosen,YES,NO
+Navarro Base CMDR,navarro,CMDR,HEAD_CMDR,CCMANDR,Soldier,YES,NO
+Nikki,newreno,NIKKI,HEAD_NIKKI,ncNikki,Champ,YES,NO
+Obidiah Hakeswill,redding,OBAD,HEAD_OBAD,RCHakes,Wanderer,YES,NO
+Old Joe,valtcity,IANOJ,HEAD_IANOJ,vcoldjoe,Wanderer,YES,NO
+Orville Wright,newreno,WRITE,HEAD_WRITE,ncOrvill,Kiddo,YES,NO
+Peterson,abbey,PET,HEAD_PET,abpetson,Stranger,YES,NO
+Phyllis,valtcity,PHL,HEAD_PHL,VCNancy,Citizen,YES,NO
+Proconsul Gregory,valtcity,GREG,HEAD_GREG,VCGREG,Citizen,YES,NO
+Quartermaster,navarro,QM,HEAD_QM,CCMASTER,Soldier,YES,NO
+Quartermaster2,navarro,QM2,HEAD_QM2,CCQMSTR,Soldier,YES,NO
+Quincy,navarro,QUIN,HEAD_QUIN,ccquincy,Soldier,YES,NO
+Raul,navarro,RAUL,HEAD_RAUL,ccraul,Soldier,YES,NO
+Rebecca,vault15,RB15,HEAD_RB15,BCRebecc,Stranger,YES,NO
+Rebecca Dyer,den,RBCCA,HEAD_RBCCA,dcRebecc,Sweetie,YES,NO
+Renesco,newreno,RENE,HEAD_RENE,ncRenesc,Wanderer,YES,NO
+Robodog,ncr,DOGR,HEAD_DOGR,SCRobo,Human,YES,NO
+Roger Westin,ncr,WEST,HEAD_WEST,SCWestin,Kid,YES,NO
+Rose,modoc,ROSE,HEAD_ROSE,mcRose,Kid,YES,NO
+Sally Dunton,klamath,SALLY,HEAD_SALLY,KCSally,Sweetie,YES,NO
+Salvatore,newreno,SALVA,HEAD_SALVA,ncSalvat,Traveller,YES,NO
+Seymore,brokhill,PLANT,HEAD_PLANT,hcSeymor,Wanderer,YES,NO
+Shaman,prmtribe,SHAM,HEAD_SHAM,tribec4,Chosen,YES,NO
+Sheila,den,SHELA,HEAD_SHELA,dcSheila,Wanderer,YES,NO
+Sheriff Dumont,ncr,DUM,HEAD_DUM,SCsherif,Stranger,YES,NO
+Sheriff Marion,redding,MARIN,HEAD_MARIN,RCMarion,Wanderer,YES,NO
+Skeeter,gecko,SKEET,HEAD_SKEET,GCSkeetr,Smoothskin,YES,NO
+Skynet,sierra,SKY,HEAD_SKY,WCBrnBot,Human,YES,NO
+Slim Pickett,klamath,SLIM,HEAD_SLIM,KCSlim,Friend,YES,NO
+Smiley,klamath,SMILEY,HEAD_SMILEY,KCSmiley,Buddy,YES,NO
+Smitty,den,SMIT,HEAD_SMIT,DCSmitty,Wanderer,YES,NO
+Stark,valtcity,STARK,HEAD_STARK,VCStark,Outsider,YES,NO
+Steve,brokhill,STEVE,HEAD_STEVE,hcSteve,Wanderer,YES,NO
+Stuart Little,newreno,STUL,HEAD_STUL,ncStuLit,Champ,YES,NO
+Suze,sanfran,SUZE,HEAD_SUZE,FCSuze,Stranger,YES,NO
+The Brain,gecko,BRAIN,HEAD_BRAIN,GCBrain,Human,YES,NO
+Thomas Moore,valtcity,MOORE,HEAD_MOORE,vcmoore,Stranger,YES,NO
+Torr Buckner,klamath,TORR,HEAD_TORR,KCTorr,Friend,YES,NO
+Tyler,den,TYLER,HEAD_TYLER,dcTyler,Freak,YES,NO
+Typhon,brokhill,TYPHN,HEAD_TYPHN,hcTyphon,Smoothskin,YES,NO
+Valerie,valtcity,VCVAL,HEAD_VCVAL,VCMainWk,Wanderer,YES,NO
+Vegeir,Ghost Farm,VEGER,HEAD_VEGER,modoc,Wanderer,YES,NO
+Vic,den,VIC,HEAD_VIC,DCVic,Buddy,YES,NO
+Vice President Bird,enclave,BIRD,HEAD_BIRD,QCBird,Soldier,YES,NO
+Vikki & Juan,sanfran,VAJ,HEAD_VAJ,FCJuaVki,Wanderer,YES,NO
+Vortis,ncr,VORT,HEAD_VORT,SCVortis,Wanderer,YES,NO
+Wallace,valtcity,WALL,HEAD_WALL,VCWALACE,Citizen,YES,NO
+Wooz,gecko,WOOZ,HEAD_WOOZ,gcwooz,Smoothskin,YES,NO
+Xarn,navarro,XARN,HEAD_XARN,ccxarn,Human,YES,NO
+Zaius,brokhill,ZAIUS,HEAD_ZAIUS,hcZaius,Normy,YES,NO
+Zeke,vault15,ZEKE,HEAD_ZEKE,BCZeke,Kid,YES,NO
+Zomak,gecko,ZOMAK,HEAD_ZOMAK,GCZomak,Wanderer,YES,NO
