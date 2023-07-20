@@ -1,0 +1,1 @@
+Hmmmm. It seems that during the start-up procedure, an operator priority override has caused the Auto-Doc to accidentally inject you with Sodium Tri-Ethylene.
