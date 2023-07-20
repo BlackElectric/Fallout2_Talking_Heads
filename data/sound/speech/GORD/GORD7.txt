@@ -1,0 +1,1 @@
+Well, I've calculated that if our reactor was running properly, we could generate an enormous amount of excess power -- far more than Gecko needs.
