@@ -54,7 +54,7 @@
 {274}{}{Co se týče té práce...}
 {275}{}{Nemáte pro mě nějakou další práci?}
 {276}{}{Nic. Nashle.}
-{277}{}{Whikí ňam ňam.}
+{277}{}{Whikí mňam ňam.}
 {278}{}{Maky maky?}
 {279}{}{Iho shasha.}
 {280}{}{Ee, pa.}
@@ -66,14 +66,14 @@
 {304}{}{Proč jsou tvoje drinky tak levné?}
 {305}{}{Dyer?}
 {306}{}{Můžu se na něco zeptat?}
-{307}{}{Nashle.}
+{307}{}{Čau.}
 {308}{}{Whikí.}
 {309}{}{Urka.}
 {320}{}{Och, to je rodinné jméno. Jméno Dyer je v barovém byznysu už léta... samozřejmě ještě z předválečné doby.}
 {321}{}{Jak jsem řekla, je to mé rodné příjmení. Kdysi byly Dyerovy hospody, salóny a podobně, po celém světě.}
 {322}{}{Dám si drink.}
 {323}{}{Můžu se ještě na něco zeptat?}
-{324}{}{Nashle.}
+{324}{}{Čau.}
 {330}{}{No, jelikož jste tak dobrý zákazník, svěřím se vám s malým tajemstvím. Je to opravdu jednoduché. Mám destilátor a přítel ze sousedního města mě naučil, jak pálit whiskey. Takže, dáte si ještě jednu?}
 {331}{}{Nezlobte se, ale to je obchodní tajemství a navíc vás až tak dobře neznám. Nechci, aby se to Frankie dozvěděl, už tak dělá dost problémů. Chcete ještě jednu? Je opravdu vynikající.}
 {332}{}{Jasně, dám si ještě jednu.}
@@ -92,7 +92,7 @@
 {355}{}{V čem je háček?}
 {356}{}{Povídej dál.}
 {357}{}{Můžu se tě na něco zeptat?}
-{358}{}{Nashle.}
+{358}{}{Čau.}
 {370}{}{Háček? No, kdo nezná Freda, nepochopí. Už pěkně dlouho mi dluží peníze. Odepsala bych to jako ztrátu, ale pokud to z něho dostanete, budu překvapená... a vděčná. Vím určitě, že je někde tady ve městě.}
 {371}{}{Ta kniha se jmenuje "Levandule". Derek by se měl vyskytovat někde u Mámy ve východní části.}
 {372}{}{Uvidím, co se dá dělat.}
@@ -153,10 +153,8 @@
 {532}{}{Mockrát děkuju.}
 {533}{}{Dík!}
 {534}{}{Uch! Cheská pani.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Jste úžasný muž. I přesto, že vám nemůžu prominout vaše činy, udělal jste pro svět velikou službu.}
+{541}{}{Jste úžasná žena. I přesto, že vám nemůžu prominout vaše činy, udělala jste pro svět velikou službu.}
 {542}{}{Díky.}
 {550}{}{Nechceme vás tu. Prosím, odejděte.}
 {551}{}{Odejděte prosím.}

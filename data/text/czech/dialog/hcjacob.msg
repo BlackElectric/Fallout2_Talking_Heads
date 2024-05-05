@@ -11,7 +11,7 @@
 {110}{}{Co mi můžete říct o Broken Hills?}
 {111}{}{Chci něco namíchat.}
 {112}{}{Chci s tebou mluvit o jisté záležitosti týkající se mutantů.}
-{113}{}{Nashle.}
+{113}{}{Čau.}
 {114}{}{::S odporem se na tebe podívá:: Zmiz odsud, nemám na tebe čas.}
 {115}{}{[KONEC]}
 {116}{}{Laboratoř. Jmenuje se to laboratoř. Podívej, chceš něco?}
@@ -29,8 +29,7 @@
 {150}{}{Nevím.}
 {151}{}{Jsou úžasní!}
 {152}{}{V tom případě ti řeknu pravdu.}
-{153}{}{A human named Jacob -- I was named after him -- founded this place. Then mutant Marcus came along
- and forced everyone under his rule. }
+{153}{}{Člověk, který se jmenoval Jacob, byl jsem pojmenován po něm, založil tohle místo. Pak přišel mutant Marcus a začal každému nutit svoje zákony.}
 {154}{}{To stačí. Jsi blázen. Sbohem.}
 {155}{}{Povídej dál.}
 {156}{}{Možná, když ti řeknu pravdu, změníš názor.}
@@ -40,7 +39,7 @@
 {160}{}{Ano.}
 {161}{}{Ne.}
 {162}{}{Výborně. Nashle.}
-{163}{}{Nashle.}
+{163}{}{Čau.}
 {164}{}{Když byl Vůdce zničen, začal tady vládnout. S každým, kdo s ním nesouhlasil, zatočil... nebo ho nechal "zmizet." Tohle město vypadá na první pohled civilizovaně, ale pravda je taková, že je to útočiště pro krvelačné mutanty. Znám přítele mého přítele, který zmizel potom, co vyslovil svůj názor.}
 {165}{}{Pokračuj.}
 {166}{}{To stačí. Jsi blázen. Sbohem.}
@@ -69,13 +68,13 @@
 {189}{}{Žádný problém, stejně jsou tam jen mutanti. Ale pokus se to udělat tiše.}
 {190}{}{Chápu. Mám další otázky.}
 {191}{}{Jasně. Zatím.}
-{192}{}{More questions?}
+{192}{}{Další otázky?}
 {193}{}{Mám nějakou rudu, kterou chci rafinovat a nechci platit ceny v rafinérii.}
 {194}{}{Co mi můžete říct o Broken Hills?}
 {195}{}{Chci něco namíchat.}
 {196}{}{Nic. Nashle.}
 {222}{}{Pěkně ses proti nám obrátil, mutantofile. Jak jsi to mohl Chadovi udělat? Je mi jedno, co jsi pro nás udělal. Jsi ostuda lidstva.}
-{223}{}{Nashle.}
+{223}{}{Čau.}
 {224}{}{To byl parádně provedený útěk z vězení!}
 {225}{}{Díky.}
 {226}{}{Opravdu jsi musel všechny zabít? Teď budeme mít víc starostí. No nevadí.}

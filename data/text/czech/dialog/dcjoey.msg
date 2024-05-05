@@ -15,14 +15,14 @@
 {162}{}{Ukradl jsi z toho strašidelného domu přívěsek?}
 {163}{}{O ničem. To je jedno.}
 {164}{}{Zapomeň na to. Teď tě zabiju a pak naporcuju.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{Já n-nevím, o čem to vlastně mluvíš.}
 {166}{}{Já myslím, že to moc dobře víš! Ukradl jsi té mrtvé dívce přívěsek a její duch teď nemůže odpočívat v pokoji.}
 {167}{}{Dobře, vezmu si ho tedy násilím.}
 {168}{}{T-to je k-kurva šílený! Nn-emáš v sso-bě nějakou ttu Tubb-yho ssra-čku? Já-já jsem t-tam žádnýho d-ducha neviděl, k-když jsem t-tam byl... byl jsem sjetej, t-to nebylo skutečný.}
 {169}{}{Poslyš, koupím ho od tebe.}
 {170}{}{Dej mi ho, nebo se k ní připojíš.}
 {171}{}{Když ho teď nevrátíš, tak tě bude pronásledovat. A ji nikdo nezastaví.}
-{172}{}{Cože? No jasně, jasně. Na t-to vezmi jed. Budeš muset vypláznout pár babek. Zadarmo ti ho nedám! $50, nebo nech bejt!}
+{172}{}{Cože? No jasně, jasně. N-na t-to vezmi jed. Budeš muset vypláznout pár babek. Zadarmo ti ho nedám! $50, nebo nech bejt!}
 {173}{}{Dobře, tady jsou peníze.}
 {174}{}{Tady máš $20 a buď rád, že si ho nevezmu z tvojí mrtvoly.}
 {175}{}{No, vlastně jsem si to rozmyslel. Zatím.}
@@ -102,16 +102,15 @@
 {249}{}{Jestli nemáš peníze, tak přijď, až si to budeš moct dovolit. Ne abych tě viděl, že kupuješ od někoho jinýho, nebo ti nakopu tu tvoji zasranou prdel. Já jedinej mám čistý neříznutý svinstvo, dovezený přímo z New Rena.}
 {250}{}{Počkej, koupím ho.}
 {251}{}{Můžu se ještě na něco zeptat?}
-{252}{}{Nashle.}
+{252}{}{Čau.}
 {253}{}{Dobře, snížím cenu na $350, ale to je maximum! To je moje konečná nabídka. Platíš velký prachy za dobrej fet. Nekupuj od Tubbyho nebo od jinejch jemu podobnejch zoufalců. Ti maj fet ředěnej. Já jsem jedinej na míle daleko, kterej může nabídnout ten nejlepší materiál.}
 {254}{}{Zapomeň na to. Můžu se ještě na něco zeptat?}
 {255}{}{Dobře, koupím ho.}
 {256}{}{Ale nic. Nashle.}
-{257}{}{Vault... Vault... Vault 13? Nope, never heard of it. Don't tell me they've come up
- with another new drug! Nothing can beat Jet!}
+{257}{}{Vault... Vault... Vault 13? O tom jsem určitě nikdy neslyšel. Neříkej mi, že přišli s další novou drogou! Nic nemůže být lepší než Jet!}
 {258}{}{Ne, ty debile.}
 {259}{}{Ne, to je místo. Můžu se ještě na něco zeptat?}
-{260}{}{Yes, a wonderful drug.}
+{260}{}{Ano, je to skvělá droga.}
 {261}{}{Ne, nashle.}
 {262}{}{Tady Joey toho moc nenakecá.}
 {300}{}{Pravděpodobně ne. Nashle.}

@@ -92,3 +92,15 @@
 {191}{}{Aha. Nebude vám vadit, když se ještě na něco zeptám?}
 {192}{}{Asi se po něm půjdu podívat.}
 {193}{}{! Výborně! Bravo!}
+{194}{}{Oh, zajisté budu! Kéž by na světě bylo více takových kteří by to dělali také.}
+{195}{}{Rozhodně sdílím tento pocit! Už dlouho jsem neviděl někoho, kdo by se o to alespoň trochu zajímal. Kdysi jsem ale znal jednoho obchodníka, který tu vášeň sdílel...}
+{196}{}{Vážně? Jak?}
+{197}{}{Je pěkné větět že je nás více. Nevadilo by ti kdybych se na zeptal na něco jiného?}
+{198}{}{No, doufám, že je nás venku více. Moc děkuji a na shledanou!}
+{199}{}{Ano, prodával alkoholické nápoje, ale kupoval si ode mě knihy. Ani jsem po něm nechtěl peníze, ale trval na tom. Říkal, že jeho lidé doma je zbožnují.}
+{200}{}{Páni, to je velmi potěšující zpráva! Odkud přišel?}
+{201}{}{Proč sem nechodíš častějc?}
+{202}{}{Říkal, že je to místo, kterému se říká Opatství, kousek na sever odtud. Dokonce mi ukázal, kde přesně, je to přímo... tady. Rád bych se tam podíval, ale stačí mi pohled na předměstí, abych zpanikařil.}
+{203}{}{No, myslím si, že zkoušel prodávat alkohol ve městě. Víš, to je zde nelegální.}
+{204}{}{To je velmi nemilé. Děkuji za informace. Můžu se vás ještě na něco zeptat?}
+{205}{}{Aha, pokoušel štěstí. Okud říkal že byl?}

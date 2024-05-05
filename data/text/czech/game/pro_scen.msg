@@ -398,9 +398,9 @@
 {20700}{}{Stará matrace}
 {20701}{}{I kdybys spal na této věci sám, nespal bys sám.}
 {20800}{}{Postel}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{Provizorní postel. Vyrobená z toho, co bylo zrovna po ruce.}
 {20900}{}{Postel}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{Provizorní postel. Vyrobená z toho, co bylo zrovna po ruce.}
 {21000}{}{Postel}
 {21001}{}{Tato postel už zažila lepší dny (a noci nejspíš taky.)}
 {21100}{}{Postel}
@@ -2270,7 +2270,7 @@
 {137600}{}{Pochodeň}
 {137601}{}{Do železného kruhu připevněného na zdi je zasazena hořící pochodeň.}
 {137700}{}{Vertibird}
-{137701}{}{Veliký vojenský létající prostředek.}
+{137701}{}{Velké vojenské letadlo.}
 {137800}{}{Zničené dveře}
 {137801}{}{Suť zcela blokuje vstup.}
 {137900}{}{Zničené dveře}
@@ -2604,12 +2604,12 @@
 {169400}{}{Stín}
 {169500}{}{Stín}
 {169600}{}{Stín}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Divný automat, rozbil se}
+{169800}{}{Divný automat, rozbil se}
+{169900}{}{Divný automat, rozbil se}
+{170000}{}{Divný automat, rozbil se}
+{170100}{}{Divný automat, rozbil se}
+{170200}{}{Divný automat, rozbil se}
 {170300}{}{Stín}
 {170400}{}{Stín}
 {170500}{}{Stín}
@@ -2634,9 +2634,9 @@
 {172200}{}{Neprůstřelné sklo}
 {172300}{}{Neprůstřelné sklo}
 {172400}{}{Těžká laserová věž}
-{172401}{}{Věž se výhružně otáčí.}
+{172401}{}{Věž se hrozivě otáčí.}
 {172500}{}{Těžká laserová věž}
-{172501}{}{Věž se výhružně otáčí.}
+{172501}{}{Věž se hrozivě otáčí.}
 {172600}{}{Kameny}
 {172700}{}{Kameny}
 {172800}{}{Kameny}
@@ -2944,7 +2944,7 @@
 {194700}{}{Monitor}
 {194701}{}{Velký černobílý monitor. Na tomto monitoru je uhlazený, ale prostě vyhlížející muž, který bez přestání žvaní.}
 {194800}{}{Monitor}
-{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
+{194801}{}{Velký černobílý monitor. Je na něm obrázek rotujícího kříže a kruhu.}
 {194900}{}{spare}
 {195000}{}{spare}
 {195100}{}{Stín}
@@ -3459,11 +3459,11 @@
 {229200}{}{Těžká laserová věž}
 {229201}{}{Laserová věž postavená na betonové věži.}
 {229300}{}{Těžká laserová věž}
-{229301}{}{Věž se výhružně otáčí.}
+{229301}{}{Věž se hrozivě otáčí.}
 {229400}{}{Těžká laserová věž}
 {229401}{}{Laserová věž postavená na betonové věži.}
 {229500}{}{Těžká laserová věž}
-{229501}{}{Věž se výhružně otáčí.}
+{229501}{}{Věž se hrozivě otáčí.}
 {229800}{}{Filmový plakát}
 {229801}{}{Starý otrhaný plakát s filmem "Somrák s brokárnou".}
 {229900}{}{Podivně vypadající tvor}

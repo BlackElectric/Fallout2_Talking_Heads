@@ -74,7 +74,7 @@
 {172}{}{Nepodařilo se ti dveře odemknout.}
 {173}{}{ úspěšně odemyká zámek dveří.}
 {174}{}{ nezkušenost způsobila zaseknutí zámku dveří.}
-{175}{}{ se nepodařilo dveře zamknout.}
+{175}{}{ selhal při pokusu odemknout dveře.}
 {176}{}{Podařilo se ti vypáčit zámek u dveří.}
 {177}{}{Při páčení zámku sis poranil záda a to ti způsobilo jeden bod poškození.}
 {178}{}{Při páčení zámku sis poranil záda a to ti způsobilo poškození za }
@@ -91,7 +91,7 @@
 {189}{}{Úspěšně zamykáš dveře.}
 {190}{}{Nepodařilo se ti zamknout dveře.}
 {191}{}{ úspěšně zamyká dveře.}
-{192}{}{ se nepodařilo dveře zamknout.}
+{192}{}{ selhal při pokusu zamknout dveře.}
 {193}{}{Nezanechalo to na dveřích ani škrábanec.}
 {194}{}{Nacházíš na dveřích past.}
 {195}{}{Nepodařilo se ti na dveřích najít past.}
@@ -125,8 +125,8 @@
 {501}{}{Vypadá to, že musíš nejdříve zprovoznit generátor.}
 {502}{}{Vidíš dveře od výtahu.}
 {503}{}{Vypadá to, že k otevření tohoto zámku budeš potřebovat nějaké elektrické zařízení.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the explosive goes off prematurely.}
-{611}{}{ fails spectacularly, and the explosive goes off prematurely.}
-{620}{}{You bend the crowbar beyond recognition. It's useless now.}
-{621}{}{ bends the crowbar beyond recognition. It's useless now.}
+{601}{}{Je otevřená, pitomče.}
+{610}{}{Okázale selžeš a výbušnina vybuchne předčasně.}
+{611}{}{ okázale selžeš a výbušnina vybuchne předčasně.}
+{620}{}{Páčidlo ohneš k nepoznání. Teď už je nepoužitelné.}
+{621}{}{ páčidlo ohneš k nepoznání. Teď už je nepoužitelné.}

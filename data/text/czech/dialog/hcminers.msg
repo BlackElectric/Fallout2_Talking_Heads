@@ -15,26 +15,26 @@
 {114}{}{Kde je ten salón?}
 {115}{}{Kde najdu někoho od karavan?}
 {116}{}{Kde je ten obchod?}
-{117}{}{Dík. Naskle.}
+{117}{}{Dík. Měj se.}
 {118}{}{Jsem jeden z horníků. Chceš něco důležitýho?}
 {119}{}{Ano.}
 {120}{}{Ne.}
-{121}{}{Nashle.}
+{121}{}{Čau.}
 {122}{}{Hlavní osoby v tomhle městě jsou Marcus, on je něco jako starosta a šerif, Zaius, hlavní důlmistr, a Chad, kterej řídí karavany. Barman Phil je šéf ghoulů, aspoň myslím... jestli vůbec maj nějakýho vůdce. Kde jsme to skončili?}
 {123}{}{Kde najdu Marcuse?}
 {124}{}{Kde najdu Zaiuse?}
 {125}{}{Kde najdu Camerona?}
 {126}{}{Kde najdu Chada?}
 {127}{}{Kde najdu Phila?}
-{128}{}{Dík. Naskle.}
+{128}{}{Dík. Měj se.}
 {129}{}{Jestli si myslíš, že nám můžeš pomoct s opravou dolu, tak si promluv se Zaiusem. Většinou je ve svý chýši poblíž dolu. Ale má špatnou náladu, protože nefunguje čistička vzduchu. Ještě něco?}
 {130}{}{Phil je ghoul a patří mu salón. Je něco jako místní ghoulí šéf. Najdeš ho na východ od banky. Ještě něco?}
 {131}{}{Chad řídí chod karavan a najdeš ho na jihozápadě města. Ještě něco?}
 {132}{}{Liz je jedna z mála slušných lidí. Patří jí obchod na západ od banky. Ještě něco?}
 {133}{}{Tak dobře. Uvidíme se později.}
 {134}{}{Cameron je vůdce všech normálních lidí ve městě. Nemá sice moc rád mutanty nebo ghouly, ale zachází s námi v pohodě. Je to politik, takže ho většinou najdeš v bance nebo v salónu. Občas ho taky najdeš v kovárně. Ještě něco? A kde jsem vlastně já? No jo vlastně... jo... ještě něco?}
-{135}{}{Marcus is our leader. He helped found Broken Hills. You can usually find him at the bank or
- the jail. Anything else?}
+{135}{}{Marcus je náš vůdce. Pomohl vybudovat Broken Hills. Obvykle ho najdeš někde kolem banky nebo vězení.
+Ještě něco?}
 {136}{}{Chamtivej parchante. Víš jak těžce musíme pracovat? Doufám, že shniješ v pekle.}
 {137}{}{Díky za rudu!}
 {138}{}{Pořád nemůžu uvěřit tomu, že důl vyletěl do povětří. Teď tu všichni umřeme hlady. Ten důl byl to jediný, co udržovalo tohle město při životě. No, aspoň budu moct jít do důchodu...}

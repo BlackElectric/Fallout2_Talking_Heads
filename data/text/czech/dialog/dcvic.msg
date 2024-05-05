@@ -32,7 +32,7 @@
 {177}{}{To je skvělý! Hned to rádio opravím.}
 {178}{}{Dobře, promluvím si s Metzgerem.}
 {179}{}{Díky.}
-{180}{}{Nashle.}
+{180}{}{Čau.}
 {181}{}{Cože? Je mi líto, ale nerozumím.}
 {182}{}{Hurm.}
 {183}{}{Děkuju ti! Jsem navěky tvým dlužníkem. Jak ti to můžu oplatit?}
@@ -43,7 +43,7 @@
 {189}{}{Vault 13? Na východ odtud je Vault City.
  Občas tam chodím obchodovat.}
 {190}{}{Chceš tam jít se mnou?}
-{191}{}{Dík. Naskle.}
+{191}{}{Dík. Měj se.}
 {192}{}{Jasně, rád se k tobě přidám! Tenhle prďola má před sebou ještě jedno velký dobrodružství, tím jsem si jistej! A taky jsem docela dobrej v opravování věcí, ať si Metzger říká, co chce.}
 {193}{}{Skvěle, můžeme vyrazit.}
 {194}{}{Vítej na palubě.}
@@ -98,7 +98,7 @@
 {803}{}{Tak to pochybuju. Hodně štěstí.}
 {810}{}{Proč jsi zabil chudinku Mámu... asi jsi pro to měl důvod... promiň, šéfe. Nejsem tu od toho, abych se vyptával. Tohle je hodně blbý město. Jsem si jistej, že udělala něco hodně škaredýho.}
 {811}{}{Hej, šéfe. Dík, že se ti podařilo mě dostat z tý šlamastiky s Metzgerem. Nepotřebuješ něco? Máma byla tak hodná, že mi dávala jídlo, když jsi byl pryč. Já ji tu pomáhám...}
-{812}{}{Nashle.}
+{812}{}{Čau.}
 {813}{}{Oooh.}
 {814}{}{Čaaauua.}
 {823}{}{Kde že je ten tvůj přítel Ed?}
@@ -109,7 +109,7 @@
 {834}{}{Vypadá to, že už vás je hodně, šéfe. Počkám tu na tebe, dokud si to nevyřešíš. Mámino vaření mi připomíná moji bývalou ženu... jenom si nejsem jistej, jestli je to dobře nebo špatně...}
 {835}{}{To bych hrozně rád, šéfe, ale vypadá to, že už nemáš žádný místo. Prostě půjdu k Mámě. Už jsem tam dlouho nebyl. Jestli u sebe najdeš místo, tak se pro mě zastav.}
 {840}{}{Ed je ve Vault City. Obchoduje s brahmínami. Byl jedním z mnoha mých dodavatelů. Vault City odtud není daleko.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{845}{}{Už jsem ti říkal, že je to tady. (Vic ukazuje místo na tvém Pip-Boyi 2000.)}
 {900}{}{Dozvídáš se o tom, že je Vic obchodník.}
 {1000}{}{Chci se tě na něco zeptat.}
 {1100}{}{Jsem úplně vyléčený, šéfe. Ještě něco?}

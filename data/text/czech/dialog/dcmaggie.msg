@@ -5,8 +5,8 @@
 {152}{}{[MLUVIT]}
 {153}{}{Dobrý den, cizinče. Vítej v mém salónu. Já jsem Becky.}
 {154}{}{Dobrý den, já jsem }
-{155}{}{. What's there to do around here?}
-{156}{}{Hi, I'm }
+{155}{}{. Je tu nějaká práce?}
+{156}{}{Ahoj. Já jsem}
 {157}{}{. Můžu ti položit několik otázek?}
 {158}{}{Mami?}
 {159}{}{Mag gah.}
@@ -19,7 +19,7 @@
 {166}{}{Můžu se na něco zeptat?}
 {167}{}{Dám si panáka!}
 {168}{}{Hmm, tyhle drinky jsou docela levné. Zkusím jeden.}
-{169}{}{Dík. Naskle.}
+{169}{}{Dík. Měj se.}
 {170}{}{Vault 13? Tak o tom jsem určitě neslyšela.}
 {171}{}{Hmm, můžu se ještě na něco zeptat?}
 {172}{}{Zatraceně, budu ho muset najít. Nashle.}
@@ -31,12 +31,12 @@
 {178}{}{Máma provozuje malou restauraci na druhé straně města.}
 {179}{}{Máma! Máma!}
 {180}{}{Ještě jeden dotaz.}
-{181}{}{Dík. Naskle.}
+{181}{}{Dík. Měj se.}
 {182}{}{Vypadni.}
 {183}{}{Gwah.}
 {184}{}{Já ti dám vypadnout.}
 {185}{}{Co takhle nejdřív jedna rychlá otázka?}
-{186}{}{Nashle.}
+{186}{}{Čau.}
 {187}{}{Panák whiskey je za $5. Platí se předem.}
 {188}{}{He?}
 {189}{}{Tady jsou peníze.}
@@ -73,11 +73,11 @@
 {221}{}{Proč? Proč jsi zničil můj destilátor? Ty bastarde!}
 {222}{}{Nic osobního. Dostal jsem za to zaplaceno.}
 {223}{}{To je mi líto.}
-{224}{}{Nashle.}
+{224}{}{Čau.}
 {225}{}{Postavím si jiný, abys věděl.}
 {226}{}{Já vím.}
 {227}{}{No, dobře ti tak.}
-{228}{}{Nashle.}
+{228}{}{Čau.}
 {232}{}{Proč? Proč jsi zničila můj destilátor? Ty děvko!}
 {233}{}{Kde jsi, miláčku?}
 {234}{}{Už jdeš?}

@@ -2,8 +2,7 @@
 {101}{}{Vidíš Metzgera, šéfa otrokářů.}
 {150}{}{Metzger, hlava Cechu otrokářů.}
 {200}{}{Za tohle zaplatíš.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{Co tu kurva chceš? Tohle je Cech otrokářů a ne nějakej úkryt pro posraný feťáky.}
 {211}{}{Co tu sakra chceš, ty hnusná děvko? Tohle je Cech otrokářů a ne nějakej posranej bordel.}
 {212}{}{Co tu sakra chceš, děvko? Tohle je Cech otrokářů a ne nějakej posranej bordel.}
 {213}{}{Začínáš mě srát. Co teď sakra chceš?}
@@ -66,7 +65,7 @@
 {302}{}{Mám další otázku.}
 {303}{}{Aha, dobře. Nashle.}
 {310}{}{No vida, a ani to moc nebolelo. Jsem na tebe fakt pyšnej... vlastně ti to tetování docela sekne. Pak na mě zařvi, až budeš chtít vyrazit na hon otroků.}
-{311}{}{Dík. Naskle.}
+{311}{}{Dík. Měj se.}
 {312}{}{Jsem připravený právě teď.}
 {313}{}{Já ZABÍJET TEĎ!}
 {314}{}{Dobře.}
@@ -231,9 +230,7 @@
 {911}{}{Poslyš, možná to bude trochu neobvyklý požadavek, ale chci vidět každé nové zboží jako první. Je nějaký způsob, jak se podívat na zboží v ostatních kempech? Samozřejmě zaplatím něco navíc.}
 {912}{}{Dobře, potom se na ně ještě podívám.}
 {913}{}{Dobře, ale příště mi udělej laskavost a neplýtvej mým časem, pokud nebudeš chtít vyřídit nějaký obchodní záležitosti.}
-{914}{}{Premium price, huh? Now you're talking my kinda language. We usually handle sales here, but I suppose an exception could be made,
- as long as you're serious. I'll tell you how to get there, but you better keep it to your fucking self. I swear, if you turn out to be a
- spy for them fucking Rangers, I'll hunt you down and skin you alive. [You listen to his directions, and note the Slaver Camp's location in your Pip-Boy.]}
+{914}{}{Něco navíc, jo? Ta slova se mi líbí. Obvykle tu děláme obchody zde, ale snad by se dala udělat výjimka, pokud to myslíš vážně. Řeknu ti, jak se tam dostaneš, ale radši si to nech pro sebe. Přísahám, že jestli se z tebe vyklube špión těch zasraných Rangerů, tak přísahám, že si tě najdu a stáhnu tě zaživa z kůže. (Posloucháš jeho pokyny a zaznamenáváš si polohu Tábora Otrokářů do svého Pip-Boye).}
 {915}{}{Mám to. Chci se ještě na něco zeptat.}
 {916}{}{Díky. Musím odejít. Nashle.}
 {1360}{}{. Co ty na to?}
