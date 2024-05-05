@@ -76,7 +76,7 @@
 {175}{}{Ha! To říká dědek, kterýmu je 70!}
 {176}{}{Hele dědku, stejně si od tebe žádný sračky nevezmu.}
 {177}{}{Ehmmm... jasně. Chci se zeptat.}
-{178}{}{Nashle.}
+{178}{}{Čau.}
 {179}{}{Vyhrožovat jedinému doktorovi ve městě není moc dobrý nápad. ::kašle:: Příteli, jestli ode mě něco chceš, tak se mnou mluv slušně. Jinak táhni z týhle nemocnice.}
 {180}{}{Polib si, dědku. Připrav se zemřít.}
 {181}{}{Jo, jasně.}
@@ -97,10 +97,10 @@
 {196}{}{Chci se ještě na něco zeptat.}
 {197}{}{Díky. Uvidíme se později.}
 {198}{}{Máš zranění? Tak ukaž, ošetřím tě.}
-{199}{}{Umm...}
+{199}{}{Mmmm...}
 {200}{}{Díky. Nashle!}
 {201}{}{Kdo má zranění? Aha, tak se postavte do řady a já se na vás podívám.}
-{202}{}{One more thing...}
+{202}{}{Ještě jednu věc...}
 {203}{}{Diky! Nashle!}
 {204}{}{Překvapivě málo. Promiň, ale když se soustředím na něčí léčbu, nevěnuji obvykle pozornost jeho nejintimnějším tajemstvím.}
 {205}{}{Aha. Můžu se ještě na něco zeptat?}

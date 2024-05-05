@@ -10,7 +10,7 @@
 {158}{}{Promiň, předtím jsem byl zfetovanej. Nemyslel jsem to tak.}
 {159}{}{Hele, co máš za problém?}
 {160}{}{Chci se na něco zeptat.}
-{161}{}{Už to tak vypadá. Nashle.}
+{161}{}{Už to tak vypadá. Nachle.}
 {162}{}{Coo?}
 {163}{}{No, tak na to už je moc pozdě. Vypadni.}
 {164}{}{Prosím, prosím, prosím, omlouvám se.}
@@ -21,7 +21,7 @@
 {169}{}{Jsem rád, že jsme si to vyříkali. Uvidíme se později.}
 {170}{}{Zdravím. Rád tě vidím.}
 {171}{}{Ahoj, Metzgere. Musíme si promluvit.}
-{172}{}{Nápodobně. Nashle.}
+{172}{}{Nápodobně. Nachle.}
 {173}{}{Škyt.}
 {174}{}{Jsem Metzger, šéf Cechu otrokářů. Co potřebuješ?}
 {175}{}{Ano, mám nějaké otázky.}
@@ -45,8 +45,7 @@
 {193}{}{Nic. Už musím jít.}
 {195}{}{Pochází ze starýho jazyka, z předválečný doby nebo tak nějak.}
 {196}{}{Metzger znamená řezník. Trefný, nemyslíš?}
-{197}{}{That was my great grandfather's name. He came from somewhere far to
- the east. Across a large body of water.}
+{197}{}{To bylo jméno mýho pradědy. Pocházel odněkud z východu, za velkou louží.}
 {198}{}{Četl jsem nějakou knihu o Metzgerovi. Byl prezident nebo něco takového.}
 {199}{}{To je mi ale náhodička, divochu.}
 {200}{}{Je to němacky, německy, nimecky nebo tak nějak. Takovej starobylej jazyk z dávný doby.}
@@ -54,8 +53,7 @@
 {202}{}{Aha. Mám ještě otázku.}
 {203}{}{To je ta nejblbější věc, kterou jsem kdy slyšel.}
 {204}{}{Fascinující. Už musím jít.}
-{205}{}{Our mission is to provide a steady and high-quality labor force to
- handle the ever-growing demands of the larger cities. Would you like to join?}
+{205}{}{Naším posláním je poskytovat spolehlivou a vysoce kvalitní pracovní sílu, která dokáže uspokojit stále rostoucí poptávku ve větších městech. Chceš se k nám přidat?}
 {206}{}{Jistě. Zní to skvěle.}
 {207}{}{Na to zapomeň.}
 {208}{}{Zpátky k mojí otázce. Jaká města kupují vaše otroky?}
@@ -89,7 +87,7 @@
 {236}{}{V žádném případě! Chci dvojnásobek!}
 {237}{}{Jsi pěknej vydřiduch. Tady jsou peníze!}
 {238}{}{Díky. Mám další otázky.}
-{239}{}{Dík. Naskle.}
+{239}{}{Dík. Měj se.}
 {240}{}{Ještě něco?}
 {241}{}{Ano, mám otázku.}
 {242}{}{Ne. Nashle.}

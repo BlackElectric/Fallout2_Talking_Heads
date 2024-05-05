@@ -35,27 +35,27 @@
 {131}{}{[KONEC]}
 {132}{}{Dobře. Dej nám den, dva a budeš to mít hotový.}
 {133}{}{Výborně. Nashle.}
-{134}{}{Good luck getting it refined any place else. The process is dangerous -- only a professional
- should do it. You want it or not?}
+{134}{}{V tom případě přeju hodně štěstí někde jinde. Ten proces je totiž nebezpečnej...
+ a měl by to dělat jen profesionál. Chceš to nebo ne?}
 {135}{}{Ano.}
 {136}{}{Ne.}
 {137}{}{Fajn, v tom případě tu nemáš co dělat. Odejdi prosím, mám ještě nějakou práci.}
-{138}{}{Nashle.}
+{138}{}{Čau.}
 {139}{}{To je směšný. Žádnou ti nedáme.}
 {140}{}{V tom případě chcípni.}
-{141}{}{Fajn. Nashle.}
+{141}{}{Fajn. Čau.}
 {142}{}{Hej! Vypadni odtamtud, nebo pocítíš následky!}
 {143}{}{Okamžitě vypadni z mojí rafinérie!}
 {144}{}{Pořád na tom děláme. Dej nám ještě čas. Není to hned.}
 {145}{}{Chci se na něco zeptat.}
-{146}{}{Fajn. Nashle.}
+{146}{}{Fajn. Čau.}
 {147}{}{Je to hotový, ale předtím, než si ji vezmeš, poslouchej. Naše město tuhle rudu opravdu potřebuje.
  Když ji vrátíš městu, dostaneš zpátky svý peníze. A jestli za to chceš víc peněz, tak ti můžu navrch přidat $500 jako kompenzaci za promrhanej čas.
  Prosím. Díky tomu fiasku v dole je potřeba, aby zase Broken Hills normálně fungovalo. Co říkáš?}
 {148}{}{Na to zapomeň.}
 {149}{}{Jasně. A těch $500 si nechte. Nejspíš je potřebujete víc než já.}
 {150}{}{Fajn. Ať je po tvým. Tady máš svoji rudu. A teď vypadni z mý rafinérie.}
-{151}{}{Nashle.}
+{151}{}{Čau.}
 {152}{}{Díky! Tady jsou tvý peníze. Broken Hills ti moc děkuje.}
 {153}{}{Žádný problém.}
 {154}{}{Řekl jsem ti, ať odsud vypadneš!}

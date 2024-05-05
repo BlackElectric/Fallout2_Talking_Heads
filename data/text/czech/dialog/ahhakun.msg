@@ -94,8 +94,8 @@
 {193}{}{He?}
 {194}{}{Uuuf! Béhéhé!}
 {195}{hak020}{Tvá slova mě naplňují radostí. Běda, bohové už mi šeptají do uší. Sbohem.}
-{196}{}{Nashle.}
-{197}{}{Pořád mícháme bylinky? Nashle.}
+{196}{}{Čau.}
+{197}{}{Pořád mícháme bylinky? Tak zatím.}
 {198}{hak021}{Každý z nás má svou zahradu. Kéž nikdy neztratíš z očí svůj cíl. A teď sbohem. Nesmím se opozdit na schůzku s bohy.}
 {199}{}{Zatím.}
 {200}{}{Vsadím se, že si ty své bohy nosíš pořád s sebou. Sbohem.}
@@ -190,5 +190,5 @@
 {289}{}{A potom?}
 {290}{hak122}{Příliš mnoho let a příliš mnoho zranění, Vyvolený. Teď mě musíš poslouchat.}
 {291}{}{Tak dobře.}
-{300}{}{Ti, kteří kradou, nesou těžké břímě. Pamatuj na to, Vyvolený.}
-{301}{}{Nyní musíš zaplatit za své hříchy, Vyvolený.}
+{300}{}{Ti, kdo kradou, nesou velké břímě. Pamatuj si to, Vyvolený.}
+{301}{}{Nyní musíš pykat za své hříchy, Vyvolený.}

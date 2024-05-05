@@ -12,7 +12,7 @@
 {200}{}{::Fandí::}
 {201}{}{::Tleská::}
 {202}{}{::Píská::}
-{203}{}{(Sings.) "We don't need another hero, we don't need to know the way home..."}
+{203}{}{(Zpívá.) "Nepotřebujeme dalšího hrdinu, nepotřebujeme znát cestu domů..."}
 {204}{}{Hej! }
 {205}{}{Takhle se ničí Enkláva, }
 {206}{}{Jseš určitě drsnější než Tommy Tvrďák, jinak by to s Enklávou nedopadlo tak špatně.}
@@ -21,7 +21,7 @@
 {209}{}{Dřív jsem si myslel, že je Prezident jenom pověra na strašení malejch dětí.}
 {210}{}{Vypadáš jako někdo, kdo se právě vrátil z pekla. Odpočiň si na chvíli. Zasloužíš si to.}
 {211}{}{Budeš hrát hru znova za jinou postavu? Doporučuju zálesáka.}
-{212}{}{F.E.V.? Co je to?}
+{212}{}{FEV? Co je to?}
 {213}{}{New Reno bylo navrženo Chrisem Avellonem a naskriptováno Tomem Frenchem. Tom hraje v kapele a Chris si hraje sám se sebou.}
 {214}{}{Doufám, že ve Falloutu 3 dostanu nějakou hlavní roli jako třeba Tandi nebo Ian. Bejt gangster je o ničem.}
 {215}{}{Prej se ti podařilo zničit Enklávu. Máš velkou odvahu.}
@@ -58,7 +58,7 @@
 {299}{}{Ať si ten tvůj mutant radši dává bacha, jasný?}
 {305}{}{Co chceš?}
 {306}{}{Potřebuješ něco?}
-{307}{}{Damn hot...}
+{307}{}{Zatracené vedro...}
 {308}{}{New Reno je každým dnem hroznější a hroznější..}
 {309}{}{Co tady děláš?}
 {310}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
@@ -78,7 +78,7 @@
 {340}{}{Táta říkal, že jestli se někdo z nás jenom dotkne Jetu, uškrtí nás.}
 {341}{}{Táta je pořád naštvanej, tak si dej pozor, až s ním budeš mluvit, slyšíš?}
 {342}{}{Chris dostane výprask, jestli bude pořád tajně chodit do bordelu.}
-{343}{}{Damn hot...}
+{343}{}{Zatracené vedro...}
 {344}{}{Kde je ta máma? Jestli ji náhodou uvidíš, neříkej jí nic o destilačce, jasný?}
 {345}{}{Keith minulej tejden rozebral piáno a pak ho zase složil dohromady. Chytrej kluk.}
 {346}{}{Za pár dní zase půjdeme lovit radškorpiony.}
@@ -103,7 +103,7 @@
 {368}{}{Táta říkal, že jestli se někdo z nás jenom dotkne Jetu, uškrtí nás.}
 {369}{}{Táta je pořád naštvanej, tak si dej pozor, až s ním budeš mluvit, slyšíš?}
 {370}{}{Chris dostane výprask, jestli bude pořád tajně chodit do bordelu.}
-{371}{}{Damn hot...}
+{371}{}{Zatracené vedro...}
 {372}{}{Keith minulej tejden rozebral piáno a pak ho zase složil dohromady. Chytrej kluk.}
 {373}{}{Za pár dní zase půjdeme lovit radškorpiony.}
 {374}{}{OPRAVDU mluvíš s bohem, když máš sex na place?}
@@ -119,7 +119,7 @@
 {394}{}{Dám si na tebe pozor, otrokáři, takže radši nic nezkoušej, slyšíš?}
 {395}{}{Šáhni na nějaký děcko, otrokáři, a rozstřílím tě na malý kousíčky.}
 {396}{}{Šáhni na nějaký děcko, otrokáři, a zabiju tě.}
-{397}{}{Jestli sháníš alkohol, tak se zastav v železniční stanici.}
+{397}{}{Jestli sháníš alkohol, otrokáři, tak se zastav v železniční stanici.}
 {398}{}{Udělej něco kterýmukoliv Wrightovi, otrokáři, a naše rodina ti nedá pokoj, dokud neskončíš v Golgotě.}
 {399}{}{Jdeš za tátou obchodně? Myslím, že táta neobchoduje s otrokářema. Radši zmiz.}
 {410}{}{Radši zmiz... bez urážky, ale táta nemá divochy moc v lásce.}

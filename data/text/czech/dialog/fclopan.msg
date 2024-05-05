@@ -50,7 +50,7 @@
 {149}{}{Jsem Lo Pan. Jsem také "úhlavní nepřítel" Dragona. Nechápu proč trvá na tom, aby měl úhlavního nepřítele. Bojuji stejně dobře jako on a myslím si, že je slabomyslný a umožňuje ostatním žít ve svém stínu. Jsme nepřátelé, protože bojujeme stejným stylem a ten, kdo zvítězí, převezme tradici.}
 {150}{}{Nejsem úplně nejhorší v pěstním souboji. Nechceš si mě vyzkoušet?}
 {151}{}{Zajímavé. To musí být opravdu prospěšné. Mám další otázky.}
-{152}{}{Dík. Naskle.}
+{152}{}{Dík. Měj se.}
 {153}{}{Možná jsem hajzl, ale nikdo nemůže říct, že se nezastávám svých lidí. Teď tě to bude pořádně bolet.}
 {154}{}{[KONEC]}
 {155}{}{Potom jsi hlupák a mizera, který skáče jak někdo jiný píská. Budu se smát až zemřeš.}
@@ -110,9 +110,9 @@
 {230}{}{Nejprve musíš prokázat, že to dokážeš. Postavím tě proti svým pěti bojovníkům -  postupně. Když je porazíš, čeká na tebe tvoje poslední zkouška.}
 {231}{}{Co to máš?}
 {232}{}{To zní moc obtížně. Nashle.}
-{233}{}{You will need to defeat my chosen apprentice. However, none of these battles will be to the death - to protect my men, of course. [he sneers]}
+{233}{}{Budeš muset porazit mého vybraného žáka. Nicméně žádný z těchto soubojů nebude na smrt... samozřejmě kvůli bezpečí mých mužů. (zachechtá se)}
 {234}{}{Jdeme na to!}
 {235}{}{Vyřiď si to s Dragonem sám.}
 {236}{}{(Lo Pan tě chvíli pozoruje a poté najednou rychle vymrští svoji pěst, která tě udeří do nosu ještě dřív, než stihneš vůbec zareagovat.) Nejsi dost dobrý.}
 {237}{}{Dobře, ale můžu se na něco zeptat?}
-{238}{}{Fajn. Nashle.}
+{238}{}{Fajn. Čau.}
