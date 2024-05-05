@@ -143,7 +143,7 @@ procedure talk_p_proc begin
    move_obj_inven_to_obj(den_tubby_box_obj,self_obj);
    GetReaction;
    ReactToLevel; //added by killap
-   start_gdialog(NAME,self_obj,4,-1,-1);
+   start_gdialog(NAME,self_obj,4,HEAD_TUBBY,13);
    gSay_Start;
       if (dude_is_stupid_talk) then begin
          call Node007;
