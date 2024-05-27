@@ -205,13 +205,13 @@ procedure talk_p_proc begin
    end else if (map_var(MVAR_Take_Slaves) == 1) then begin
       floater(800);
    end else if (local_var(LVAR_Told_To_Leave) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_DON,BACKGROUND_JUNKTOWN);
       gSay_Start;
          call Node012;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_DON,BACKGROUND_JUNKTOWN);
       gSay_Start;
          call Node001;
       gSay_End;

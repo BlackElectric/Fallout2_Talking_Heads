@@ -210,31 +210,31 @@ procedure talk_p_proc begin
    end else if (bos_state(BOS_COMPLETE)) then begin
       call Node023;
    end else if (bos_state(BOS_ACCEPT)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MAT,BACKGROUND_NECROPOLIS);
       gSay_Start;
          call Node018;
       gSay_End;
       end_dialogue;
    end else if (bos_state(BOS_REFUSE)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MAT,BACKGROUND_NECROPOLIS);
       gSay_Start;
          call Node017;
       gSay_End;
       end_dialogue;
    end else if (bos_state(BOS_KNOW)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MAT,BACKGROUND_NECROPOLIS);
       gSay_Start;
          call Node016;
       gSay_End;
       end_dialogue;
    end else if (local_var(LVAR_Herebefore) == 0) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MAT,BACKGROUND_NECROPOLIS);
       gSay_Start;
          call Node001;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MAT,BACKGROUND_NECROPOLIS);
       gSay_Start;
          call Node015;
       gSay_End;

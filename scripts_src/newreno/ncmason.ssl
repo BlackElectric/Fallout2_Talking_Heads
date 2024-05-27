@@ -144,6 +144,16 @@ procedure Node065; //added by killap - expansion pack
 #define inc_patience                      inc_local_var(LVAR_Patience)
 #define has_patience                      (local_var(LVAR_Patience) > 0)
 
+#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_MASON,BACKGROUND_HUB);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -245,33 +255,33 @@ procedure talk_p_proc begin
          call Node055;
       end else begin
          set_gave_made_man_goods;
-         start_dialog_at_node(Node053);
+         th_start_dialog_at_node(Node053);
       end
    end else if (get_track_lloyd(track_lloyd_mason)) then begin
-      start_dialog_at_node(Node017);
+      th_start_dialog_at_node(Node017);
    end else if (get_track_lloyd(track_lloyd_assigned)) then begin
-      start_dialog_at_node(Node026);
+      th_start_dialog_at_node(Node026);
    end else if ((get_track_lloyd(track_lloyd_salvatore)) or (get_tribute(tribute_salvatore))) then begin
       call Node032;
    end else if (get_tribute(tribute_mason)) then begin
       if (renesco_dead) then begin
-         start_dialog_at_node(Node061);
+         th_start_dialog_at_node(Node061);
       end else begin
-         start_dialog_at_node(Node033);
+         th_start_dialog_at_node(Node033);
       end
    end else if (get_tribute(tribute_failed)) then begin
-      start_dialog_at_node(Node041);
+      th_start_dialog_at_node(Node041);
    end else if ((get_tribute(tribute_assigned)) or (get_tribute(tribute_refused)) or (get_tribute(tribute_collected))) then begin
       if (renesco_dead) then begin
-         start_dialog_at_node(Node041);
+         th_start_dialog_at_node(Node041);
       end else begin
-         start_dialog_at_node(Node034);
+         th_start_dialog_at_node(Node034);
       end
    end else if (get_guard_assignment(guard_assignment_mason)) then begin
       if (secret_trade_disrupted) then begin
-         start_dialog_at_node(Node063);
+         th_start_dialog_at_node(Node063);
       end else begin
-         start_dialog_at_node(Node044);
+         th_start_dialog_at_node(Node044);
       end
    end else if (get_guard_assignment(guard_assignment_success)) then begin
       set_salvatore_permission
@@ -279,18 +289,18 @@ procedure talk_p_proc begin
    end else if (get_guard_assignment(guard_assignment_assigned)) then begin
       set_guard_time;
       if (secret_trade_disrupted) then begin
-         start_dialog_at_node(Node063);
+         th_start_dialog_at_node(Node063);
       end else if (guard_time_ok) then begin
-         start_dialog_at_node(Node049);
+         th_start_dialog_at_node(Node049);
       end else begin
-         start_dialog_at_node(Node050);
+         th_start_dialog_at_node(Node050);
       end
    end else if ((get_guard_assignment(guard_assignment_failed)) or (salvatore_done)) then begin
       call Node043;
    end else if (salvatore_permission) then begin
       call Node004;
    end else begin
-      start_dialog_at_node(Node005);
+      th_start_dialog_at_node(Node005);
    end
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    set_herebefore;

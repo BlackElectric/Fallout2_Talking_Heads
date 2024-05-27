@@ -331,7 +331,10 @@ procedure doSequence begin
    Face_Critter(dude_obj, self_obj);
    Face_Critter(self_obj, dude_obj);
 
-   start_gdialog(NAME,self_obj,4,-1,-1);
+   if night then
+      start_gdialog(NAME,self_obj,4,HEAD_KAGA,BACKGROUND_WASTELAND_NIGHT);
+      else
+      start_gdialog(NAME,self_obj,4,HEAD_KAGA,BACKGROUND_WASTELAND);
    gSay_Start;
       call Node001;
    gSay_End;

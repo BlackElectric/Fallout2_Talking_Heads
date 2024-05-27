@@ -25,6 +25,7 @@
 #include "../headers/command.h"
 #include "../headers/modoc.h"
 //#include "../headers/modreact.h"
+#include "../headers/partybkg.h"
 
 /* Standard Script Procedures */
 procedure start;
@@ -205,10 +206,11 @@ end
 
 procedure talk_p_proc begin
    script_overrides;
+   find_party_background;
    if ((jonny_at_home) or (dude_found_bb_gun)) then begin
       floater(random(150,152));
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LAD,PartyMemberBackground);
       gSay_Start;
          if (Laddie_In_Party) then begin
             if (laddie_at_well) then begin

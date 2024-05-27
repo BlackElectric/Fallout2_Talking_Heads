@@ -167,7 +167,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    if (lvar(LVAR_Herebefore) == 0) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_DARIO,BACKGROUND_VAULT);
        gSay_Start;
            call Node001;
        gSay_End;

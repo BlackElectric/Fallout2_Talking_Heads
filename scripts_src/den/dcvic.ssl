@@ -25,6 +25,7 @@
 #include "../headers/command.h"
 #include "../headers/modreact.h"
 #include "../headers/den.h"
+#include "../headers/partybkg.h"
 #include "../headers/newr1.h" //added by killap
 
 /* Standard Script Procedures */
@@ -160,6 +161,18 @@ import variable vic_door_obj; //added by killap
 #define PARTY_NODE_X                      Node110
 
 #define TIMER_ENSURE_ANIM     555 //added by killap
+
+//GoatboyAddendum
+#define th_start_dialog_at_node(x)                    if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_VIC,PartyMemberBackground);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+//EndAddendum
 
 variable did_node12:=0;
 
@@ -395,6 +408,7 @@ procedure talk_p_proc begin
    ndebug("party_max_formula == " + party_max_formula);
    ndebug("dude_at_max_party_size == " + dude_at_max_party_size);
    script_overrides;
+   find_party_background;
    if ((daughter_attacked) or (hostile)) then begin
       call Node1020;
    end else begin
@@ -402,7 +416,7 @@ procedure talk_p_proc begin
       set_global_var(GVAR_FIND_VIC, 2);
       set_vic_known(state_vic_known_name);
       if ((Vic_In_Party) or (party_is_waiting)) then begin
-         start_dialog_at_node(PARTY_NODE_X);
+         th_start_dialog_at_node(PARTY_NODE_X);
       end else if (vic_free) then begin
          //added by killap
          if (local_var(LVAR_Head_To_Mom) >= 1) then begin
@@ -410,20 +424,20 @@ procedure talk_p_proc begin
          end else
          //end added
          if (local_var(LVAR_Home_Tile) != vic_mom_tile) then begin
-            start_dialog_at_node(Node008);
+            th_start_dialog_at_node(Node008);
          end else begin
-            start_dialog_at_node(Node023);
+            th_start_dialog_at_node(Node023);
          end
       end else if (radio_fixed) then begin
          if (node_2) then begin
             call Node002b;
          end else begin
-            start_dialog_at_node(Node002);
+            th_start_dialog_at_node(Node002);
          end
       end else if (herebefore) then begin
-         start_dialog_at_node(Node003);
+         th_start_dialog_at_node(Node003);
       end else begin
-         start_dialog_at_node(Node001);
+         th_start_dialog_at_node(Node001);
       end
       set_herebefore;
    end

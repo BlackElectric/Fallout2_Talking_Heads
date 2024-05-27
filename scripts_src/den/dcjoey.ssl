@@ -104,6 +104,22 @@ procedure Node977;
 #define gave_locket                       lvar_bit(LVAR_Flags, gave_locket_bit)
 #define set_gave_locket                   set_lvar_bit_on(LVAR_Flags, gave_locket_bit)
 
+#define th_check_forced_dialog                           if (forced_node != 0) then begin          \
+                                                         ndebug("calling forced dialog: "+forced_node);\
+                                                         th_start_dialog_at_node(forced_node);     \
+                                                         forced_node := 0;                      \
+                                                         end
+
+#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_JOEYD,BACKGROUND_NECROPOLIS);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+
 variable locket_cost := 0;
 import variable joey_obj;
 
@@ -157,11 +173,11 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   check_forced_dialog
+   th_check_forced_dialog
    else begin
       GetReaction;
       ReactToLevel; //added by killap
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_JOEYD,BACKGROUND_NECROPOLIS);
       gSay_Start;
          if ((hostile) or (mom_attacked) or (mom_dead)) then begin
             call Node001;

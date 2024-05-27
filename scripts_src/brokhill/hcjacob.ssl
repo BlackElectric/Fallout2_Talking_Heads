@@ -251,7 +251,7 @@ procedure talk_p_proc begin
    else if (global_var(GVAR_BH_JAIL) == JAIL_REJECTED) then
       call Node066;
    else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_SUCCESSFUL) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node056;
        gSay_End;
@@ -260,7 +260,7 @@ procedure talk_p_proc begin
    else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_BROKEN_HERO) then
       call Node065;
    else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_ACCEPTED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node052;
        gSay_End;
@@ -269,7 +269,7 @@ procedure talk_p_proc begin
    else if( ( global_var(GVAR_BH_JAIL) == 0 ) and
             ( map_var( MVAR_Frank_Dead ) == 1 ) and
             ( map_var( MVAR_Manson_Dead ) == 1 ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node070;
        gSay_End;
@@ -278,42 +278,42 @@ procedure talk_p_proc begin
    else if( ( global_var(GVAR_BH_JAIL) == JAIL_ENLISTED ) and
             ( map_var( MVAR_Frank_Dead ) == 1 ) and
             ( map_var( MVAR_Manson_Dead ) == 1 ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node068;
        gSay_End;
        end_dialogue;
    end
    else if( global_var(GVAR_BH_JAIL) == JAIL_ENLISTED ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node067;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_JAIL) == JAIL_STEALTH) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node037;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_JAIL) == JAIL_FORCE) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node038;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_JAIL) == JAIL_CHARISMA) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node039;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_JAIL) == JAIL_COINCIDENTAL) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node075;
        gSay_End;
@@ -324,7 +324,7 @@ procedure talk_p_proc begin
    else if (global_var(GVAR_BH_CONSPIRACY) == CONSPIRACY_FAILED) then
       call Node057;
    else if ( (global_var(GVAR_BH_CHAD) == CHAD_ARRESTED) or (global_var(GVAR_BH_CHAD) == CHAD_KILLED) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node036;
        gSay_End;
@@ -332,7 +332,7 @@ procedure talk_p_proc begin
    end
 */
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JACOB,BACKGROUND_RAIDERS);
        gSay_Start;
              if (local_var(LVAR_Herebefore) == 0) then begin
                 call Node001;

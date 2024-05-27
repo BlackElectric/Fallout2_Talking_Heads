@@ -90,7 +90,7 @@ end
 procedure talk_p_proc
 begin
  if (not dude_is_stupid) then begin
-  start_gdialog(NAME,self_obj,4,-1,-1);
+  start_gdialog(NAME,self_obj,4,HEAD_PAUL,BACKGROUND_CATHEDRAL);
   gSay_start;
   if (local_var(LVAR_Herebefore) == 0) then begin
       call Node010;

@@ -227,7 +227,7 @@ procedure talk_p_proc begin
    end
 
    else if ((global_var(GVAR_FROG_MORTON) == FROG_DEAD) and (local_var(LVAR_Gave_Reward) != 3)) then begin //3 and not 0
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            set_local_var(LVAR_Said_3,1);//added by killap
            call Node002;
@@ -237,7 +237,7 @@ procedure talk_p_proc begin
    end
 
    else if ((global_var(GVAR_FROG_MORTON) == FROG_DEAD) and (local_var(LVAR_Gave_Reward) == 3)) then begin //3 and not 0
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node044;
        gSay_End;
@@ -245,7 +245,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_FROG_MORTON) == FROG_KNOWN) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node043;
        gSay_End;
@@ -253,7 +253,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_FROG_MORTON) == FROG_JOB_ACCEPTED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node053;
        gSay_End;
@@ -261,7 +261,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_KILLED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node042;
        gSay_End;
@@ -269,7 +269,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_JAILED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node041;
        gSay_End;
@@ -277,7 +277,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_LET_GO) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node040;
        gSay_End;
@@ -285,7 +285,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_CUT) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node039;
        gSay_End;
@@ -294,7 +294,7 @@ procedure talk_p_proc begin
 
 // Begin Seraph's Code
    else if (global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_BOTH) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node054;
        gSay_End;
@@ -303,7 +303,7 @@ procedure talk_p_proc begin
 // End Seraph's Code
 
    else if (global_var(GVAR_BAR_BRAWL) == BRAWL_KILLED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node038;
        gSay_End;
@@ -311,7 +311,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BAR_BRAWL) == BRAWL_BOTH_JAILED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node037;
        gSay_End;
@@ -319,7 +319,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BAR_BRAWL) == BRAWL_KOKOWEEF_JAILED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node036;
        gSay_End;
@@ -327,7 +327,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BAR_BRAWL) == BRAWL_MORNINGSTAR_JAILED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node035;
        gSay_End;
@@ -335,7 +335,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BAR_BRAWL) == BRAWL_NEITHER_JAILED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node034;
        gSay_End;
@@ -343,7 +343,7 @@ procedure talk_p_proc begin
    end
 
    else if ((global_var(GVAR_BAR_BRAWL) == BRAWL_JOB_ACCEPTED) or (global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_BETTE) or (global_var(GVAR_BAR_BRAWL) == BRAWL_TALKED_CAMINT)) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node052;
        gSay_End;
@@ -351,7 +351,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_KILLED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node033;
        gSay_End;
@@ -359,7 +359,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_PAID) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node032;
        gSay_End;
@@ -367,7 +367,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node031;
        gSay_End;
@@ -375,7 +375,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_JOB_ACCEPTED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node030;
        gSay_End;
@@ -383,7 +383,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_REDDING_SHERIFF) == SHERIFF_TURNED_DOWN) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node029;
        gSay_End;
@@ -393,7 +393,7 @@ procedure talk_p_proc begin
    /*
    //killap code --COMMENTED OUT SINCE IT DOESN'T MAKE SENSE TO BE ABLE TO HEAL HIS LEG - CONFLICTS WITH THE DIALOG
    else if (not(critter_state(self_obj) bwand DAM_CRIP_LEG_RIGHT)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node055;
       gSay_End;
@@ -403,7 +403,7 @@ procedure talk_p_proc begin
    */
 
    else if (global_var(GVAR_NCR_PLAYER_RANGER) == 1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node003;
        gSay_End;
@@ -411,7 +411,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARIN,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node002;
        gSay_End;

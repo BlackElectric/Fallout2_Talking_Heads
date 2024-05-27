@@ -210,13 +210,13 @@ procedure talk_p_proc begin
    GetReaction;
 
    if (lvar(LVAR_Herebefore) == 0 and not andV15Status(V15_RESCUED)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHRSY,BACKGROUND_JUNKTOWN);
       gSay_Start;
           call Node001;
       gSay_End;
       end_dialogue;
    end else if (andV15Status(V15_RESCUED)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHRSY,BACKGROUND_TENT);
       gSay_Start;
           call Node008;
       gSay_End;

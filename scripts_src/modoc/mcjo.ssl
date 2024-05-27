@@ -308,7 +308,7 @@ end
 procedure start_dialog_at(variable node) begin
    move_obj_inven_to_obj(self_obj, generic_temp_box);
    move_obj_inven_to_obj(modoc_jo_box_obj, self_obj);
-      start_gdialog(NAME, self_obj, 4, -1, -1);
+      start_gdialog(NAME, self_obj, 4, HEAD_JOMOD, BACKGROUND_JUNKTOWN);
       gSay_Start;
          call node;
       gSay_End;

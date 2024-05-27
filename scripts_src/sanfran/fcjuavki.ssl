@@ -311,31 +311,31 @@ procedure talk_p_proc begin
 
       if (noTalk == 0) then begin
          if (san_fran_flag(SF_ELRON_ENEMY)) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VAJ,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node023;
             gSay_End;
             end_dialogue;
          end else if (local_var(LVAR_Herebefore) == 1 and (elron_flag(EL_SPOKEN) or elron_flag(EL_REJECTED))) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VAJ,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node028;
             gSay_End;
             end_dialogue;
          end else if (local_var(LVAR_Herebefore) == 1 and elron_flag_any < EL_ACCEPTED) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VAJ,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node008;
             gSay_End;
             end_dialogue;
          end else if ((local_var(LVAR_Herebefore) == 1) and ((elron_flag_any >= EL_ACCEPTED) and (not (san_fran_flag(SF_ELRON_ENEMY))))) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VAJ,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node024;
             gSay_End;
             end_dialogue;
          end else begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VAJ,BACKGROUND_RAIDERS);
             gSay_Start;
                set_local_var(LVAR_Herebefore, 1); //added here by killap
                call Node001;
@@ -358,7 +358,7 @@ procedure talk_p_proc begin
       if (callIndoctranation == 1) then begin
          callIndoctranation := 0;
          call DoIndoctranation;
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_VAJ,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node021;
          gSay_End;
@@ -825,7 +825,7 @@ procedure doAdjustLesson1 begin
       add_timer_event(self_obj, game_ticks(2), TIMER_DOADJUST_LESSON1);
    end else if (adjustLesson == 3) then begin
       game_ui_enable;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_VAJ,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node003;
       gSay_End;

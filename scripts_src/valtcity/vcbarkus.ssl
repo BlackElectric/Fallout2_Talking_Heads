@@ -246,14 +246,14 @@ procedure talk_p_proc begin
    end
    //end added
    else if( ((Marcus_Ptr != 0) or (Lenny_Ptr != 0)) and (global_var(GVAR_VAULT_CITIZEN) != CITIZEN_CAPTAIN_GUARD) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_BARK,BACKGROUND_ADOBE);
        gSay_Start;
            call Node001;
        gSay_End;
        end_dialogue;
    end
    else if( ( map_var( MVAR_Player_As_Slave ) == SLAVE_SKEEV ) and dude_is_stupid ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_BARK,BACKGROUND_ADOBE);
        gSay_Start;
            call Node033;
        gSay_End;
@@ -263,7 +263,7 @@ procedure talk_p_proc begin
       call Node002;
    end
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_BARK,BACKGROUND_ADOBE);
        gSay_Start;
            call Node003;
        gSay_End;

@@ -172,7 +172,7 @@ procedure talk_p_proc begin
       kill_them_all_floater;
    end else if (local_var(LVAR_Yell_State) == 0) then begin
       script_overrides;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_FAR,BACKGROUND_RAIDERS);
       gSay_Start;
          if ((local_var(LVAR_Here_Before) == 0) and (family_feud_seed_unknown))then begin   //fix by killap: added (family_feud_seed_unknown)
             call Node000;

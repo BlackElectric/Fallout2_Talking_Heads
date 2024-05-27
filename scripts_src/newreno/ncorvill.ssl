@@ -184,7 +184,7 @@ end
 
 procedure talk_p_proc begin
    prev_node := 0;
-   start_gdialog(NAME,self_obj,4,-1,-1);
+   start_gdialog(NAME,self_obj,4,HEAD_WRITE,BACKGROUND_SHADY);
    gSay_Start;
       if (pissed) then begin
          call Node006;

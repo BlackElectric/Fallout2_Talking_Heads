@@ -189,7 +189,10 @@ procedure talk_p_proc begin
 
    if (Caught_Stealing) then begin
        Caught_Stealing:=0;
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,7,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,7,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node017;
        gSay_End;
@@ -202,7 +205,10 @@ procedure talk_p_proc begin
 
    else if ((global_var(GVAR_ARROYO_SPEAR) == SPEAR_GET_POWDER) and
             (local_var(LVAR_Gave_Flint) == 0)) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,7,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,7,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node006;
        gSay_End;
@@ -211,7 +217,10 @@ procedure talk_p_proc begin
 
    else if ( (global_var(GVAR_ARROYO_SPEAR) == SPEAR_GET_FLINT) and
               (local_var(LVAR_Stole_Flint) == 0)) then begin //edit by killap LVAR_Stole_Flint
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,7,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,7,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node002;
        gSay_End;
@@ -219,7 +228,10 @@ procedure talk_p_proc begin
    end
 
    else if (reached_tl_4) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node014;
        gSay_End;
@@ -227,7 +239,10 @@ procedure talk_p_proc begin
    end
 
    else if (reached_tl_3) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node013;
        gSay_End;
@@ -235,7 +250,10 @@ procedure talk_p_proc begin
    end
 
    else if (reached_tl_2) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node011;
        gSay_End;
@@ -243,7 +261,10 @@ procedure talk_p_proc begin
    end
 
    else if (reached_tl_1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node009;
        gSay_End;
@@ -251,7 +272,10 @@ procedure talk_p_proc begin
    end
    //code by Darek
    else if ((global_var(GVAR_ARROYO_SPEAR) == SPEAR_GET_FLINT) and (local_var(LVAR_Stole_Flint) == 1) and (local_var(LVAR_Said_17) < 2)) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(NAME,self_obj,4,HEAD_MOR,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node002;
        gSay_End;
@@ -434,7 +458,6 @@ end
    else
        NOption(113,Node008,004);
 end*/
-
 
 
 procedure Node007 begin

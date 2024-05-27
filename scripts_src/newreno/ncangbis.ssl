@@ -106,6 +106,16 @@ procedure Node106;
 
 #define angela_in_bed                     ((self_tile == angela_bed_tile) and (self_elevation == angela_self_room_elev))
 
+#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_ABSHP,BACKGROUND_RAIDERS);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+
 variable prev_node;
 
 import variable angela_guard_obj;
@@ -225,25 +235,25 @@ procedure talk_p_proc begin
    end else if ((angela_rejected) and (dude_is_male)) then begin
       call Node002;
    end else if (angela_banged) then begin
-      start_dialog_at_node(Node027);
+      th_start_dialog_at_node(Node027);
    end else if (Fallout2_enclave_destroyed) then begin
       if (dude_is_female) then begin
          call Node003;
       end else begin
-         start_dialog_at_node(Node028);
+         th_start_dialog_at_node(Node028);
       end
    end else if (dude_wearing_power_armor) then begin
       call Node005;
    end else if (dude_is_male) then begin
       if ((dude_has_porn_star_rep) or (dude_is_prizefighter)) then begin
-         start_dialog_at_node(Node028);
+         th_start_dialog_at_node(Node028);
       end else begin
-         start_dialog_at_node(Node008);
+         th_start_dialog_at_node(Node008);
       end
    end else if (herebefore) then begin
       call Node046;
    end else begin
-      start_dialog_at_node(Node030);
+      th_start_dialog_at_node(Node030);
    end
    set_herebefore;
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);
@@ -371,8 +381,8 @@ procedure Node008 begin
       Reply(241);
    end else begin
       Reply(240);
-      NOption(242, Node009, -003);
-      NOption(243, Node009, -003);
+      GOption(242, Node009, -003);
+      GOption(243, Node009, -003);
    end
    NOption(244, Node009, -003);
    NOption(245, Node012, -003);
@@ -396,7 +406,7 @@ procedure Node009 begin
 end
 procedure Node010 begin
    Reply(270);
-   NOption(271, Node011, -003);
+   GOption(271, Node011, -003);
    BOption(272, Node012, -003);
    prev_node := 10;
 end
@@ -408,7 +418,7 @@ end
 procedure Node012 begin
    Reply(290);
    BOption(291, Node013, -003);
-   NOption(292, Node990, -003);
+   GOption(292, Node990, -003);
    BOption(293, Node013, -003);
    prev_node := 12;
 end
@@ -452,7 +462,7 @@ procedure Node016 begin
    if (check_general_rep >= 0) then begin
       NOption(343, Node017, 004);
    end
-   NOption(344, Node018, 004);
+   GOption(344, Node018, 004);
    BOption(345, Node014, 004);
    BOption(535, Node014, 004);
    prev_node := 16;
@@ -476,8 +486,8 @@ procedure Node018 begin
    end else begin
       Reply(361);
    end
-   NOption(362, Node990, 004);
-   NOption(363, Node990, 004);
+   GOption(362, Node990, 004);
+   GOption(363, Node990, 004);
    if (angela_warned) then begin
       BOption(364, Node025, 004);
    end
@@ -515,7 +525,7 @@ procedure Node021 begin
 end
 procedure Node022 begin
    Reply(400);
-   NOption(401, Node990, 004);
+   GOption(401, Node990, 004);
    BOption(402, Node989, 004);
    prev_node := 22;
 end
@@ -555,7 +565,7 @@ end
 procedure Node027 begin
    Reply(450 + (Fallout2_enclave_destroyed == false));
    BOption(452, Node999, 004);
-   NOption(453, Node990, 004);
+   GOption(453, Node990, 004);
    prev_node := 27;
 end
 procedure Node028 begin
@@ -712,7 +722,7 @@ procedure Node046 begin
 end
 procedure Node047 begin
    Reply(670);
-   NOption(671 + has_rep_champion, Node990, 004);
+   GOption(671 + has_rep_champion, Node990, 004);
    if (check_general_rep >= 0) then begin
       BOption(468, Node989, 004);
    end else begin

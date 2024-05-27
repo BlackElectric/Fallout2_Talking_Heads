@@ -313,7 +313,7 @@ procedure talk_p_proc begin
    From_24:=0;
    From_27:=0;
 
-   start_gdialog(NAME,self_obj,4,-1,-1);
+   start_gdialog(NAME,self_obj,4,HEAD_ANDR,BACKGROUND_JUNKTOWN);
    gSay_Start;
       call Node001;
    gSay_End;

@@ -185,7 +185,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_REDDING_EXCAVATOR_CHIP) != CHIP_NONE) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARGE,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node002;
        gSay_End;
@@ -194,7 +194,7 @@ procedure talk_p_proc begin
 
    else if (global_var(GVAR_BAR_BRAWL) >= BRAWL_NEITHER_JAILED) then begin //edit by killap
    //else if (map_var(MVAR_Bar_Brawl) != BRAWL_NONE) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARGE,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node003;
        gSay_End;
@@ -202,7 +202,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MARGE,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node004;
        gSay_End;

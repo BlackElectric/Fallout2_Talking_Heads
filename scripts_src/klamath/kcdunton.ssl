@@ -479,7 +479,7 @@ procedure talk_p_proc begin
    end
 
    else if ((dude_iq <= (0-LOW_IQ))) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_RAIDERS);
       gSay_Start;
       call Node032;
       gSay_End;
@@ -487,7 +487,10 @@ procedure talk_p_proc begin
    end
 
    else if (area == PASTURE) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         if night then
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND);
          gSay_Start;
          if (global_var(GVAR_RUSTLE_FAIL) == 1) then
             call Node007;
@@ -504,7 +507,10 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_RUSTLE_FAIL_VIOLENT) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND);
       gSay_Start;
       call Node004;
       gSay_End;
@@ -512,7 +518,10 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_RUSTLE_FAIL) == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         if night then
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND);
          gSay_Start;
          call Node007;
          gSay_End;
@@ -520,7 +529,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_RUSTLE_SUCCESS) == 2) then begin //edit by killap - was == 1
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_RAIDERS);
       gSay_Start;
       call Node008;
       gSay_End;
@@ -528,7 +537,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_RUSTLE_REFUSE) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_RAIDERS);
       gSay_Start;
       call Node012;
       gSay_End;
@@ -537,7 +546,7 @@ procedure talk_p_proc begin
 
    else if ( (global_var(GVAR_RUSTLE_ACCEPT) == 1) and
              (global_var(GVAR_RUSTLE_OVER) == 0) ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_RAIDERS);
       gSay_Start;
       call Node014;
       gSay_End;
@@ -548,7 +557,7 @@ procedure talk_p_proc begin
              (global_var(GVAR_RUSTLE_OVER) == 1) and
              (local_var(LVAR_warned_dude) == 0) ) then begin
       set_local_var(LVAR_warned_dude,1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_RAIDERS);
       gSay_Start;
       call Node031;
       gSay_End;
@@ -556,7 +565,10 @@ procedure talk_p_proc begin
    end
 
    else if (area == GOLDENGECKO) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_WASTELAND);
       gSay_Start;
       call Node015;
       gSay_End;
@@ -564,7 +576,7 @@ procedure talk_p_proc begin
    end
 
    else if (area == SHOP) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_BUCK,BACKGROUND_RAIDERS);
       gSay_Start;
       call Node021;
       gSay_End;

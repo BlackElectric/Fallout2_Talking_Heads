@@ -58,7 +58,9 @@ procedure Node025;
 procedure Node026;
 procedure Node027;
 procedure Node028;
-
+//Added by GoatBoy
+procedure Node029;
+//End Added
 procedure Node090;
 procedure Node090a;
 procedure Node091;
@@ -263,9 +265,9 @@ procedure talk_p_proc begin
       call Node013;
    end else if (global_var(GVAR_SULIK_SISTER) == 1 ) then begin
       set_global_var(GVAR_SULIK_SISTER,2);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_JUNKTOWN);
       //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND1);
-      //start_gdialog(NAME,self_obj,4,-1,-1);
+      //start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_JUNKTOWN);
        //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND_TENT);
       //start_gdialog(NAME,self_obj,4,HEAD_SULIK_SIS,BACKGROUND_WASTELAND);
       gSay_Start;
@@ -283,19 +285,19 @@ procedure talk_p_proc begin
       end_dialogue;
    end else if (global_var(GVAR_SULIK_SISTER) == 2 ) then begin
       if (local_var(LVAR_Wait) == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_JUNKTOWN);
          gSay_Start;
             call Node014;
          gSay_End;
          end_dialogue;
       end else if (local_var(LVAR_Wait) == 2) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_JUNKTOWN);
          gSay_Start;
             call Node026;
          gSay_End;
          end_dialogue;
       end else if (local_var(LVAR_Wait) == 3) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_JUNKTOWN);
          gSay_Start;
             call Node028;
          gSay_End;
@@ -304,13 +306,13 @@ procedure talk_p_proc begin
    end else if (global_var(GVAR_SULIK_SISTER) >= 4) then begin
       if (global_var(GVAR_FIND_SULIK) == 1) then begin
          if (Sulik_In_Party) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
             gSay_Start;
                call Node023;
             gSay_End;
             end_dialogue;
          end else begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
             gSay_Start;
                call Node025;
             gSay_End;
@@ -319,10 +321,19 @@ procedure talk_p_proc begin
       end else begin
          if (Fallout2_enclave_destroyed) then
             floater(random(2000,2001+Sulik_In_Party));
-         else if (global_var(GVAR_SULIK_DEAD) == 2) then
-            floater(701);
-         else
-            floater(700);
+         else if (global_var(GVAR_SULIK_DEAD) == 2) then begin
+            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
+            gSay_Start;
+               call Node029;
+            gSay_End;
+            end_dialogue;
+        end else begin
+            start_gdialog(NAME,self_obj,4,HEAD_KUR,BACKGROUND_WASTELAND);
+            gSay_Start;
+               call Node029;
+            gSay_End;
+            end_dialogue;
+         end
       end
    end
 
@@ -681,6 +692,14 @@ procedure Node028 begin
       NOption(533,Node999,004);
       NLowOption(961,Node999);
    end
+end
+
+procedure Node029 begin
+   if (global_var(GVAR_SULIK_DEAD) == 2) then
+   Reply(701);
+   else
+   Reply(700);
+   NOption(150,Node999,001);
 end
 
 procedure Node099 begin

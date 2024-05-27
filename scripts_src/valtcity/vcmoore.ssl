@@ -228,7 +228,7 @@ procedure talk_p_proc begin
    GetReaction;
 
    if (local_var(LVAR_Pissed) == 1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MOORE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node026;
        gSay_End;
@@ -236,7 +236,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_HAPPY) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MOORE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node027;
        gSay_End;
@@ -244,7 +244,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_DEATH) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MOORE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node019;
        gSay_End;
@@ -256,7 +256,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_MOORE_REFUSE_DELIVERY) == 1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MOORE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node018;
        gSay_End;
@@ -264,7 +264,7 @@ procedure talk_p_proc begin
    end
 
    else if (has_rep_slaver) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MOORE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node024;
        gSay_End;
@@ -273,7 +273,7 @@ procedure talk_p_proc begin
 
    else if ((dude_iq < 4) or (local_var(LVAR_Herebefore) == 0)) then begin
        set_local_var(LVAR_Herebefore,1);
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MOORE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node001;
        gSay_End;
@@ -281,7 +281,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_MOORE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node020;
        gSay_End;

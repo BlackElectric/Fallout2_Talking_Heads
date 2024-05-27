@@ -189,7 +189,7 @@ procedure talk_p_proc begin
 
    //if Low INT
    else if ((dude_iq <= (0-LOW_IQ))) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SALLY,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node001;
        gSay_End;
@@ -198,7 +198,7 @@ procedure talk_p_proc begin
 
    //add this mapvar -nbk
    else if ( (global_var(GVAR_RUSTLE_FAIL) == 1) and (global_var(GVAR_SCARE_DUNTONS) == 0) ) then begin //killap: added (global_var(GVAR_SCARE_DUNTONS) == 0) (expansion)
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SALLY,BACKGROUND_RAIDERS);
        gSay_Start;
           call Node004;
        gSay_End;
@@ -207,7 +207,7 @@ procedure talk_p_proc begin
 
    //need check to ignore dogmeat -nbk
    else if (party_member_count(DONT_LIST_HIDDEN_MEMBERS) > 1) then begin//this counts dude
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SALLY,BACKGROUND_RAIDERS);
        gSay_Start;
           call Node027;
        gSay_End;
@@ -217,7 +217,7 @@ procedure talk_p_proc begin
    else if (local_var(LVAR_Herebefore) == 0) then begin
 //else if ((local_var(LVAR_Herebefore) == 0) and (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
        set_local_var(LVAR_Herebefore,1);
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SALLY,BACKGROUND_RAIDERS);
        gSay_Start;
           if (dude_is_male) then call Node005;
           else call Node006;
@@ -226,7 +226,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SALLY,BACKGROUND_RAIDERS);
        gSay_Start;
           call Node025;
        gSay_End;

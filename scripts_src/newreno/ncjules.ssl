@@ -297,7 +297,7 @@ end
 procedure talk_p_proc begin
    move_obj_inven_to_obj(self_obj, new_reno_temp_box);
    move_obj_inven_to_obj(new_reno_jules_box, self_obj);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_JULES,BACKGROUND_NECROPOLIS);
       gSay_Start;
          if (jules_killed_cody) then begin
             call Node081;

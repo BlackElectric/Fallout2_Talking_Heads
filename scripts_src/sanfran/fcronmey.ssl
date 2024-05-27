@@ -194,7 +194,7 @@ procedure talk_p_proc begin
    end else if ( /*(not good_critter_reaction) and */(not local_var(LVAR_Girl_Reaction)) and (not local_var(LVAR_Spleen_Reaction))) then begin
       call Node001;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CAP,BACKGROUND1);
       gSay_Start;
          call Node002;
       gSay_End;

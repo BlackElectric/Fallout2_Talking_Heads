@@ -192,7 +192,7 @@ procedure talk_p_proc begin
       floater_rand(150, 152);
    end else if (jonny_at_home) then begin
       if (jonny_sad_laddie_died) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_JONNY,BACKGROUND_JUNKTOWN);
          gSay_Start;
             call Node004;
          gSay_End;
@@ -204,7 +204,7 @@ procedure talk_p_proc begin
       floater(153);
       Flee_From_Dude
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_JONNY,BACKGROUND_CAVE);
       gSay_Start;
          if (jonny_request_home) then begin
             call Node003;

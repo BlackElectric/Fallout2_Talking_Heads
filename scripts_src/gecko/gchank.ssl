@@ -250,7 +250,7 @@ procedure talk_p_proc begin
       if (local_var(LVAR_Herebefore) == 0) then begin
 //else if ((local_var(LVAR_Herebefore) == 0) and (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
        set_local_var(LVAR_Herebefore,1);
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_HANK,BACKGROUND_MILITARYBS);
        gSay_Start;
            call Node005;
        gSay_End;
@@ -258,7 +258,7 @@ procedure talk_p_proc begin
       end
 
       else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_HANK,BACKGROUND_MILITARYBS);
        gSay_Start;
            call Node007;
        gSay_End;
@@ -268,7 +268,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_HANK,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node001;
        gSay_End;

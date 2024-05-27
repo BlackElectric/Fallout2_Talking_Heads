@@ -207,49 +207,49 @@ procedure talk_p_proc begin
        call Node998;
    end
    else if (global_var(GVAR_BH_MINE) == MINE_OFFERED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node023;
        gSay_End;
        end_dialogue;
    end
    else if ( (global_var(GVAR_BH_MINE) == MINE_REWARD_CASH) or (global_var(GVAR_BH_MINE) == MINE_REWARD_FREE) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node024;
        gSay_End;
        end_dialogue;
    end
    else if ( ( global_var(GVAR_BH_MINE) == MINE_HAS_PARTS_CASH ) or ( global_var(GVAR_BH_MINE) == MINE_HAS_PARTS_FREE ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node025;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MINE) == MINE_FIXED_FREE) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node027;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MINE) == MINE_FIXED_CASH) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node028;
        gSay_End;
        end_dialogue;
    end
    else if( global_var( GVAR_READ_FRANCIS_NOTE ) == 2 ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node038;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MINE) == MINE_REWARDED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node022;
        gSay_End;
@@ -259,7 +259,7 @@ procedure talk_p_proc begin
       call Node029;
    end
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ZAIUS,BACKGROUND_JUNKTOWN);
        gSay_Start;
              if (local_var(LVAR_Herebefore) == 0) then begin
                 call Node001;

@@ -33,7 +33,7 @@
 #define NAME                    SCRIPT_WCBRNBOT
 
 #include "../headers/command.h"
-
+#include "../headers/partybkg.h"
 
 /* Standard Script Procedures */
 procedure start;
@@ -272,9 +272,9 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-
+   find_party_background;
    if (local_var(LVAR_In_Party) == 0) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node001;
        gSay_End;
@@ -282,7 +282,7 @@ procedure talk_p_proc begin
    end
 
    else if (local_var(LVAR_Wait) == 1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node007;
        gSay_End;
@@ -290,7 +290,7 @@ procedure talk_p_proc begin
    end
 
    else if (local_var(LVAR_Wait) == 2) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node008;
        gSay_End;
@@ -298,7 +298,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_ABNORMAL) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node002;
        gSay_End;
@@ -306,7 +306,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CHIMP) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node003;
        gSay_End;
@@ -314,7 +314,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_HUMAN) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node004;
        gSay_End;
@@ -322,7 +322,7 @@ procedure talk_p_proc begin
    end
 
    else if ((global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) and (global_var(GVAR_SIERRA_BASE_ENEMY) == 1) and (local_var(LVAR_Hostile) == 0)) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node005;
        gSay_End;
@@ -330,7 +330,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_BRAIN_BOT_BRAIN) == BRAIN_CYBERNETIC) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKY,PartyMemberBackground);
        gSay_Start;
            call Node006;
        gSay_End;
