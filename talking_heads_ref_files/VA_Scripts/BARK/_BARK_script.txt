@@ -1,0 +1,55 @@
+BARK1 - What th--?! A mutant! In Vault City! Guards! Guards!
+BARK2 - What th--?! A ghoul! In Vault City! Guards! Guard!
+BARK3 - Yes, Captain?
+BARK4 - Yes, Citizen?
+BARK5 - Yes, what is it? I'm behind in my assignments.
+BARK6 - This? Why, this is the Servant Assignment Center. Were you in need of a servant?
+BARK7 - This is the Servant Assignment Center.
+BARK8 - The Vault? It's that huge hole in the mountain on the east side of the city. Head out the front door, turn left and walk straight ahead. You can't miss it.
+BARK9 - What th-? Are you one of the new Servants?
+BARK10 - You must be new around here. I'll explain it... slowly. Citizens who need help with menial tasks come here to have a Servant assigned to them for the day.
+BARK11 - Citizens who need help with menial tasks come here to have a Servant assigned to them for the day.
+BARK12 - I'm tired of Servants being sent over with no clearance... *sigh*... let's see, you said you were looking for the Vault? That must be your assignment for the day. Very well. I will have someone escort you there.
+BARK13 - I'd watch that kind of talk if I were you. It is NOT slavery. We take care of these refugees, and they have a good life... better than they would get in the wastes.
+BARK14 - No, you need to be a Citizen in order to be allowed into the Vault. Now, look, I happen to be very busy at the moment, so if you would please excuse me...
+BARK15 - Our Servants are usually refugees from raider attacks or contractual prisoners who wish to work off their sentence in a productive manner.
+BARK16 - No, not scripters, you moron.
+BARK17 - You're a fine one to make moral judgments, slaver. Get out of here.
+BARK18 - You sound a lot like that idiot Moore... just what Vault City needs. Look, whoever you are, I have work to do, so if you'll kindly remove yourself...
+BARK19 - Joshua? Yes, we do have a Servant by that name, but you wouldn't want him assigned to you. Training him has been... difficult. I'm not certain he can be trained.
+BARK20 - I don't think it's a good idea. Wait until he has undergone some more training first, then I'll consider it.
+BARK21 - Yes, he's more stubborn than almost any Servant we've ever had here. If I didn't know better, I'd assume his father was a brahmin.
+BARK22 - That's true. I have had to separate him from some of the others... and just yesterday one of the Servants actually had the audacity to question one of my requests.
+BARK23 - Joshua? Yes, we do have a Servant by that name. He was recently transferred from the Corrections Center. Your interest in him is...?
+BARK24 - Oh, really? And what makes you think I would release him?
+BARK25 - No, I was thinking of a more sizeable donation.
+BARK26 - Hmmn. Donations are indeed welcome to insure the smooth operation of the Center, but it would require a sizeable donation before I could release Joshua into your care.
+BARK27 - Well... that's not as much of a donation as I would like, but it will do. I shall see to it that this Joshua you have requested is shipped to the Courtyard for processing. Let me make the necessary arrangements.
+BARK28 - It is done. Joshua is no longer a servant of Vault City, and he has been moved into the Courtyard with the rest of the Outworlders.
+BARK29 - Is that so? Are you aware that each Servant is thoroughly checked before being admitted into the Allocation Center?
+BARK30 - That is utter nonsense. Now if you are quite done with wasting my time with your lies...
+BARK31 - Infected? Infected with what?
+BARK32 - Symptoms? What kind of symptoms?
+BARK33 - Hmmmm. It wouldn't do if Citizens began to report problems with the Servants... very well, I shall release Joshua at once. If you would give me a moment to make the arrangements...
+BARK34 - Yes... I have noticed those symptoms in the Servants of late. Contagious, you say? Hmmm. Well, if this Joshua is a carrier, I shall release him at once. Give me a moment to make the arrangements...
+BARK35 - Of course, Captain. I will take care of it right now.
+BARK36 - Perhaps. Do you have some you wish to sell?
+BARK37 - Hmmm. That woman there, Miria, is it? She has strong arms... and nice hips. I will buy her from you for $250.
+BARK38 - Hmmm. that boy there, Davin, is it? He looks relatively free from Outworlder contamination. I will buy him from you for $200.
+BARK39 - Hmmm. That tribal you have. He smells... strongly. But he looks healthy. I'll take him for $100.
+BARK40 - Hmmm. That man there... Vic, is it? Even though he's old, he looks like a handyman. $100.
+BARK41 - Perhaps you should return when you have a servant of value to show me. Your current stock... is unimpressive.
+BARK42 - No, I don't think so...250 or nothing.
+BARK43 - No, the boy looks like he would be difficult to train...200 or nothing.
+BARK44 - Look. It'll take a week to wash the smell off that tribal. 100 or nothing.
+BARK45 - You can't even promise me that he won't have a heart attack once he leaves your care. He's old. 100 or nothing.
+BARK46 - Hmmmm... She does look like a healthy specimen... maybe I could put her to work around here. $500. And that's my final offer.
+BARK47 - Hmmmm. He is a healthy specimen. $400 for him, then.
+BARK48 - Hmmmm. All right. $200, then. And no more haggling.
+BARK49 - Hmmmmmmm. $200. And not a dollar more.
+BARK50 - Excellent. Here is your money. I will have her shipped off for medical tests and processing. Give me a moment to take care of the arrangements...
+BARK51 - Excellent. Here is your money. I will have him shipped off for medical tests and processing. Give me a moment to take care of the arrangements...
+BARK52 - Excellent. Here is your money. I will have the tribal shipped off for medical tests and processing. Give me a moment to take care of the arrangements...
+BARK53 - Excellent. Here is your money. I will have the old man shipped off for medical tests and processing. Give me a moment to take care of the arrangements...
+BARK54 - Very well. Your Servant has been relocated for medical testing and re-conditioning. Curious... the Servant seemed quite surprised by the whole affair. It took a few tranquilizer darts to smooth things over. I put everything the Servant was carrying in the box in my office.
+BARK55 - What are you doing back here? I sent you to the Vault! Of all the... very well, I will have someone escort you back there.

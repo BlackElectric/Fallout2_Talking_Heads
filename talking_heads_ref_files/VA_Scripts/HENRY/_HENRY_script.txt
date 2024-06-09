@@ -1,0 +1,25 @@
+HENRY1 - Excuse me, I'm Dr. Henry and I'm very busy. What do you want?
+HENRY2 - You again? What do you want?
+HENRY3 - Hmm, sub-par cranial development... Stunted intellectual development. No gross physical mutation, though. No, you just simply won't do, I'm afraid. Good day.
+HENRY4 - The Chosen One? Of course, that makes sense. Interesting... I'm afraid I can't help you. I was assigned to cyber-genetics research, not the Vault Behavioral Project.
+HENRY5 - Oh my, I've said more than I should already. Never mind, and if anybody asks I didn't say anything.
+HENRY6 - Something about extreme sociological conditioning. Mind you, I thought it was all so much mumbo-jumbo, no real science in it at all. But I did hear something about 13 having to be improvised during the course of the experiment. Sloppy work, I'd say.
+HENRY7 - Oh, it's a whole new field - very exciting. Why I'm working on some projects right now - a radical new concept for the mutant problem. You see, it's really quite simple - mutantcy isn't absolute. It can be cured.
+HENRY8 - Of course, my simple-minded colleagues were just trying to solve the whole problem the crudest way possible. Purification, indeed. I'll admit there were some early problems, but I've got them worked out now... I think.
+HENRY9 - In fact, you could help me perform the field testing. Interested?
+HENRY10 - I've prepared a small sample of the serum but it needs to be injected into a host.
+HENRY11 - You? Oh, no - the serum's not refined enough to handle such a low mutagenic quotient. It must be used on a super-mutant. Inject the serum into a super-mutant and then come back and report the results. I understand Broken Hills is full of them.
+HENRY12 - Well, it should cause a regression in the genetic matrix that results in the destabilization and assimilation of aberrant DNA, leaving the host free of mutagenic potential. If I knew for sure, I wouldn't need you to test it.
+HENRY13 - You'll be participating in an important experiment, in fact, the most important, scientific-oh, you mean money. Well, I do have a Cyber-Hound Mk. II, Personal Security Model that I brought with me. I suppose I could have it activated and on-line by the time you got back. Would that do?
+HENRY14 - Excellent. Here's the serum, fitted up in a stim hypo. All you have to do is use it on a super-mutant and then report back to me. Like I said, Broken Hills - that's the place to look. Good luck.
+HENRY15 - Tell your Mr. Merk that my answer hasn't changed. I have no interest in any of his "joint ventures." Thank you and good day.
+HENRY16 - It's no use, I'm not going back. None of you appreciated the work I was doing, so don't pretend to be my friend. Thank you very much!
+HENRY17 - Well then, we've nothing to talk about. Good day.
+HENRY18 - So, how did it go? Is the test done?
+HENRY19 - Well, if you don't mind, would you please get on with it? I'm not a young man anymore.
+HENRY20 - And... How did it work?
+HENRY21 - You misunderstood. I said it would remove their mutagenic potential. The process does seem violent on the system, though. Oh well, more refining to do.
+HENRY22 - Still some bugs, I see. Well, try and try again.
+HENRY23 - Of course. The cyberdog is all yours. Now, I have work to do.
+HENRY24 - Uh... Ok, the papers are in my desk over there. Take them; just don't hurt my hands. Ok?
+HENRY25 - Kiss my ass, you cretin! Guards! Guards!

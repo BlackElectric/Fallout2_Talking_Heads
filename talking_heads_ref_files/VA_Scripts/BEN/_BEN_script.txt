@@ -1,0 +1,17 @@
+BEN1 - Let's move 'em on out. Giddy-up!
+BEN2 - Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault City. I can usually use an extra guard, and we're ready to leave right now.
+BEN3 - Hello there. My name's Ben. Ben Wade. I'm in charge of trade caravans between Redding and Vault City. I can usually use an extra guard or two. We leave town on the 1st of every month. If you want to sign on, make sure you're here then.
+BEN4 - What do you want now?
+BEN5 - You're nothing but a thief. You've probably already taken your cut - now get out.
+BEN6 - If you had done your job and guarded my caravan, then I'd have enough money to pay you. As it is... well, you reap what you sow. You get nothing.
+BEN7 - That was a bad trip. I can only give you $500 - and even that will leave me broke. Sorry.
+BEN8 - That caravan was a success. Here's your $1000. Pleasure working with you. Hope to see you again sometime.
+BEN9 - Hoo-wee! That was a great run. $1000 for you, and another $200 as a bonus. You must be some kind of lucky charm. Join us again if you're going our way.
+BEN10 - Hard to say, really. I guess it depends upon how long it takes to get enough ore together. I'm no miner, but I'd guess it won't take longer than a couple of weeks.
+BEN11 - Well, because I'm not exactly sure how long it will take to get all the medical supplies together. Probably not much longer than a couple of weeks. Then we can go. Just keep checking back with me.
+BEN12 - We're usually looking for caravan guards, but this caravan won't be ready for a while yet. Feel free to check back with me, though.
+BEN13 - Sorry, pal, we've already got enough throwbacks working in this caravan.
+BEN14 - Well, we pick up mostly medical supplies in Vault City, and trade it to Redding in exchange for gold ore.
+BEN15 - You came along at a good time. We're ready to go right now. The job pays $1000, but I'm only paying you for the job since I only need one more guard. Ready to join us?
+BEN16 - You came along at a good time. We're ready to go right now. The job pays $1000. Ready to join us?
+BEN17 - You got safe transport and three hot meals a day. Now get out of here, you moron.

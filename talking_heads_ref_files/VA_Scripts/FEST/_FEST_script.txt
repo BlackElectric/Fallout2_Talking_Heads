@@ -1,0 +1,53 @@
+FEST1 - Hello there. I'm Festus. I run the whole reactor. Without me, this whole town would be shut down. I'm a very busy man. They really overwork me here.
+FEST2 - I've got so much to do here. I could really use a break. But, you know, nobody else can run the atomic power plant. I'm harnessing the power of the atom, you know. Really tires a fellow out.
+FEST3 - Well, it sure uses a lot of uranium. And it leaks some. You know, I've asked somebody to fix it, but no one listens to me.SmoothskinI've heard that it's leaking radiation into the groundwater. Is that true?
+FEST4 - The reactor's running pretty good now, all right. Could still do with a tiny bit of a tuneup mebbe, but I'd say it's a pretty good job all the same.
+FEST5 - Well, I supervise the atomic power plant. Really, though, I run the whole thing by myself.
+FEST6 - Yup, I run the whole thing -- in a supervisory capacity. All by myself. It would be impossible if I just weren't so darn good at it. It's a gift, really...
+FEST7 - Wastrels. That's all they are. They don't really understand what needs to be done. They're just placeholders. It irks me that they think they know something about atomic power plants. Why, if it weren't for me...
+FEST8 - Know about atomic power? Well, I almost invented it. I know more about atomic power than anyone alive. If it's atomic power -- I'm your man.
+FEST9 - You know, I really do run the whole thing. It's pretty tough. But I do have many years of experience. I'm all pro when it comes to running atomic power plants.
+FEST10 - Most people think it's easy. They think that just anyone can run an atomic reactor. But it's not for the untrained or faint of heart. I'm harnessing the power of the atom here!
+FEST11 - It sure would be nice to have some help. But, you see, no one else is qualified to do what I do. They don't even understand the basics of what I do.
+FEST12 - You know I am. I can tell that you really understand things like this. If I weren't so busy here I'd run Gecko. And let me tell you, I'd run it right.
+FEST13 - Well, there wouldn't be any of this trading with Broken Hills for uranium ore. We'd just trade them power for it, instead. They could run their city using the power of the atom.
+FEST14 - Well, I suppose so. Then we'd have them buy giant batteries from us. Yes, that's the beauty of it. Then they'd have to buy the batteries from us, too. And that's just to start; I have other big plans, like...
+FEST15 - I'm just multi-faceted. Really, I'm very good at whatever I try. Seldom is there anyone better. Of course, I just happen to prefer running the atomic power plant. But, if I wanted to, I could do anything else.
+FEST16 - What brings you to this part of my atomic reactor?
+FEST17 - You know, I'm not so sure that this is the right part after all. Maybe you should take it back to Vault City to check. I don't think I can help you with this, after all.
+FEST18 - I don't think that those people in Vault City really like us all that much. I wouldn't put it past them to booby-trap this part. Maybe it only looks like the right part, and it's really a bomb! You can't fool me that easily. I'm not installing this thing.
+FEST19 - Okay, I'm here. But I'm still not sure that this isn't the right part, or that it's not a trap somehow. You know, I'm much too valuable to waste. Maybe I should just let someone else do this... later... much later.
+FEST20 - Well, it sure uses a lot of uranium. And it leaks some. You know, I've asked somebody to fix it, but no one listens to me.
+FEST21 - Well, that's possible, but I don't think it would do any harm to anything. It's underground, after all.
+FEST22 - Not possible. No one would know more about it than me. They're just looking for someone to blame for their problem. We don't even draw from the same aquifer.
+FEST23 - Well, they're just a bunch of amateurs when it comes to atomic power. I'm the real expert here. You can take what I say to the bank. If there were any banks left, that is.
+FEST24 - You have a spare Hydroelectric Magnetosphere Regulator on you?
+FEST25 - Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.
+FEST26 - Of course I do. Why, that's just plain simple for someone of my experience and talent. I was weaned on Magnetosphere Regulators as a pup, you know.
+FEST27 - Well, I guess I could install it. I'm certainly the only one that could install it right. Installing a Hydroelectric Magnetosphere Regulator is pretty tricky.
+FEST28 - I guess I could install it. But, you know, installing a Hydroelectric Magnetosphere Regulator is pretty tricky. And it's dangerous. Not that I'm afraid for myself. But who could run the atomic power plant if something were to happen to me? I'm sorry, I can't help you.
+FEST29 - Oh yeah. Heh, heh. Sure, it's the right part. It's just, uh, a more primitive model than I'm used to. That's all.
+FEST30 - I guess they'd know better than to try and fool me with a bomb. I'm certain that they know just who they're dealing with here.
+FEST31 - Okay, that's got it. Hey! I did it. I really am that good.
+FEST32 - Damn, I'm good.
+FEST33 - It was difficult, but I did it. I'm a hero.
+FEST34 - I deserve a raise for the work I do.
+FEST35 - Gecko sure owes me now.
+FEST36 - Did you see me out there? Never even faltered.
+FEST37 - What do you want?
+FEST38 - You? What do you need one for?
+FEST39 - Well, okay. Here's your Part Requisition Form. I guess you have your reasons for needing it.
+FEST40 - Well, okay. Here's your... Hey? Where'd I put that darn thing? It must be here somewhere... Hmm, I guess I can't find it right now. It'll turn up, though.
+FEST41 - I don't care what you want. Those Part Requisition Forms are for official business only. They only entrust them to key personnel. That's why I have them. Get me? Key personnel, only. 
+FEST42 - Uh, well, it's supposed to be that way. I've got plenty of important work to do. If that's all you came in for...
+FEST43 - What do you mean? Oh, well, I guess I've been working pretty darn hard lately. Haven't had time to really take care of myself the way I should. Maybe the radiation just affects me a little differently.
+FEST44 - Well, I guess I should. Whenever I bathe, though, a lot of my skin sloughs off and all my scabs break open. And another thing, my fingernails keep tearing...
+FEST45 - I mean that the reactor's running now, but it sure could run better. I mean better by a long country mile, if we jist had a smidge more data. Now if you could get the optimization data, we'd be cooking with gas, uh, well, you know what I mean.
+FEST46 - Well, you could probably get the information from the Vault City central computer.
+FEST47 - I bet a clever one like you could jist sneak in there and use a holodisk with the reactor performance information on the central computer. Then sneak the disk right back here. That'd do it. I'd do it myself, but I'm just too valuable here to leave, even for a moment.
+FEST48 - That just might work. I guess some of my cleverness is rubbing off on you. Good, good. Say, you should prolly bring it to a feller named McClure. From what I hear, he's the only one there that'd bend an ear about anything but Vault City's precious citizens.
+FEST49 - That's the spirit. I was a-hopin' you'd say that. Great. Just use this disk here on Vault City's central computer and then git it right back here. We'll use less uranium, the core won't leak so bad, and this Vault City won't have any reason to come exterminate us.
+FEST50 - I sure wish I could spare the time to go do it myself but I can't. All I can say is thanks, kid. You'll be doing all of us here a big favor. (sniff, sniff) You make me so proud.
+FEST51 - Thanks for getting the data we needed from Vault City to optimize this leaky old beast. You're a sly one, no denying it, by cracky. Almost as good a job as I could have done myself. 'Course... if'n you wanna actually *finish* the dang job, just use that disk on the Robot Control Terminal. Understand me? Well, OK then.
+FEST52 - Okay, give it to me and I'll see what I can do.
+FEST53 - Okay. Looks good. Thanks for all your help.

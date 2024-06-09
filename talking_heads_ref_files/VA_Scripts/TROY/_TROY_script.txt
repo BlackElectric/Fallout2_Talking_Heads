@@ -1,0 +1,78 @@
+TROY1 - Hello, I'm Dr. Troy. How may I be of assistance?
+TROY2 - You are? It's a pleasure to meet you. If you have the time, perhaps we could compare notes? It is not often that I get the chance to speak to another physician.
+TROY3 - Excellent! Well, first, let me take you on a tour. Over here, we have the monitoring systems...
+TROY4 - ... and that is how we can clone cells to make replacement limbs. We have to be careful that the tissue cultures don't get contaminated, but... in any event, I think I've talked enough... hope it was informative.
+TROY5 - The main computer? It's down on the third level. Just take the elevator down, walk straight until you hit the T-intersection, then make the first left. That'll take you right to the control room.
+TROY6 - I am Vault City's primary physician. I take care of all the Citizens within Vault City and do my best to keep everyone healthy.
+TROY7 - Hold on a moment... I don't recall seeing you around before. Are you a Citizen?
+TROY8 - A pleasure to meet you, Citizen. If you are ever in need of my services, you can find me here.
+TROY9 - You're not a Vault City native, though, am I right? I'm certain I would remember someone like you. Where are you from?
+TROY10 - Hold on a moment... you're an Outsider, correct? Where are you from?
+TROY11 - Arroyo? I don't believe I've heard of it. I'm sorry to pry. I was just looking for someone who had traveled beyond the walls of Vault City... most Citizens here have never left the City.
+TROY12 - I'm sorry to pry. I was just looking for someone who had traveled beyond the walls of Vault City... most Citizens here have never left the City.
+TROY13 - You must have gotten turned around in the city streets... head back to the corridor you entered from, then make a right. That'll take you back to the surface, all right?
+TROY14 - I've been looking for someone who might be able to perform a special errand for me.
+TROY15 - Excellent! I'm glad you've reconsidered.
+TROY16 - It has come to my attention that there is a new drug in the wastes. It's called "Jet," I believe. I'm willing to pay a thousand dollars for a sample of this drug.
+TROY17 - I'm sorry to hear that. Return if you change your mind... I'll gladly reimburse you for your trouble.
+TROY18 - Hmmmmm. Considering the fact you have it on you, that is more than a fair price. Very well. Here is your money... and thank you.
+TROY19 - *Thank* you. You can leave now.
+TROY20 - What are you talking about?
+TROY21 - I think you must be... mistaken.
+TROY22 - Really? Hmmmmm. I suppose brahmin... excrement would make a good fertilizer. I hadn't considered that before. Thank you, friend. I was curious about the manufacturing process.
+TROY23 - That's... fascinating. Hmmmmm. Perhaps I could take blood samples from the brahmin in the courtyard, then... thank you, my friend. Thank you very much, indeed. I was curious about the manufacturing process.
+TROY24 - Endorphin blockers? Whatever for?
+TROY25 - We don't have endorphin blockers here, but I could program the Auto-Doc to manufacture some. Would you care to explain to me your theory?
+TROY26 - I'm... speechless. That's simply the most brilliant solution I have ever heard. I've been experimenting with methods of curing Jet addiction for months, and came up with nothing.
+TROY27 - Yes, that's what I needed a Jet sample for. This drug's stranglehold needs to be stopped before it can spread. Why... with the information you've provided, we could manufacture the antidote today! Hold on.
+TROY28 - Yes... and unsuccessfully. This drug's stranglehold needs to be stopped before it can spread. Why... with the information you've provided, we could manufacture the antidote today! Hold on.
+TROY29 - This young man here? He made Jet?
+TROY30 - Then I have some questions for this young man...
+TROY31 - Brahmin fumes? Not a conventional manufacturing process, but... hmmmmm. Perhaps I could take blood samples from the brahmin in the courtyard, then... thank you, my friend.
+TROY32 - You may also tell your little hooligan friend that he is wasting his considerable intellect manufacturing drugs. His manners and language also leave MUCH to be desired.
+TROY33 - Yes, I'm willing to pay you a thousand dollars for the sample... and your silence.
+TROY34 - It would be... helpful to me and my work if you could bring me a sample of this drug. I will pay you a thousand dollars for the delivery. But it is of utmost importance that you keep this transaction confidential.
+TROY35 - Uh, yes... confidential. As in, keep the matter between you and me. Tell no one.
+TROY36 - That is not your concern. Obtain a sample of Jet, bring it to me, and I will pay you a thousand dollars... and that price includes your silence.
+TROY37 - Wha --? You wouldn't! How *dare* you threaten me!
+TROY38 - I was a fool for trusting you! Very well... what is it you want?
+TROY39 - Are you insane?! There's no way I can afford that!
+TROY40 - Very well. Here is your first payment. I hope you choke on it.
+TROY41 - This is NOT something to be joking about; this is a very serious matter. I will pay a thousand dollars for the Jet, your silence... and no more questions. Do you want the job?
+TROY42 - You do? Excellent! Thank you, my friend... you have no idea how important this is to my work. Here is your payment, as promised.
+TROY43 - Excellent! Thank you, my friend... you have no idea how important this is to my work. Here is your payment, as promised.
+TROY44 - Hello, Captain. How may I be of assistance?
+TROY45 - Hello, Citizen. How may I be of assistance?
+TROY46 - How may I be of assistance?
+TROY47 - Yes?
+TROY48 - Certainly. I'm sorry... it's been some time since I actually had to administer them. Most Citizens received theirs many, many years ago. Let me prep the Auto-Doc for the procedure...
+TROY49 - All finished. A word of caution: This vaccination doesn't make you immune to poison and radiation, but it does bolster your natural resistance.
+TROY50 - Oh, it's you. What do you want?
+TROY51 - I haven't forgotten. Here is your money. Now leave.
+TROY52 - I haven't forgotten. You'll get your money. Now leave.
+TROY53 - I see. First, I'll need to check your vital signs... lean back and we'll hook you up to the Auto-Doc here...
+TROY54 - Hmmmm. It seems that during the start-up procedure, an operator priority override has caused the Auto-Doc to accidentally inject you with Sodium Tri-Ethylene.
+TROY55 - It means you have less than ten seconds to live. Your stupidity is really quite staggering. Blackmail someone, then put your life in their hands? Simply amazing. Goodbye... and good riddance.
+TROY56 - How did you get down here? I'm afraid you'll have to leave. Hold a moment while I summon some guards to escort you out.
+TROY57 - I have some good news. I was able to make an antidote from that sample of Jet you gave me. Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated with the drug.
+TROY58 - Good news... I was able to use the information you gave me to make an antidote. Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated with the drug.
+TROY59 - Of course. Here you go. Take it to one of my colleagues, Dr. Johnson, in Redding. He should be able to see that it gets to those that need it.
+TROY60 - Of course - here you go. I understand that the Jet problem is especially prevalent in Redding. If you take the antidote to the physician there, Dr. Johnson, he should be able to see that it gets to those that need it.
+TROY61 - Excellent! Return here when you have obtained the Jet sample, and I will have your payment ready.
+TROY62 - Yes, I'm familiar with them. It's an invasive procedure, where impact plates and thermal dissipater membranes are grafted to the skeleton to help protect against physical trauma and heat. Why do you ask?
+TROY63 - Yes, you mentioned the implants before. I will not perform the operation, I'm sorry. The procedure is irreversible, and the implants do more harm than good.
+TROY64 - No, I'm sorry... as I said, the implants are an invasive procedure and the recovery period is long and arduous. Patients undergoing the operation in the past have also frequently developed skeletal deformities.
+TROY65 - I would consider performing the operation only in the event of an emergency, not for the sake of convenience. The risk is too great, and the implants are not a substantial improvement over standard combat armor.
+TROY66 - I'm sorry. The facilities are only for Citizens, and a list of all patients is kept in the database... [Lowers voice.] However, the stimpaks in the lower level supply lockers would not be missed if you put them to good use.
+TROY67 - Of course, Captain. Let me see what I can do for you and your friends.
+TROY68 - Of course, Captain. Let me see what I can do for you and your friend.
+TROY69 - I just need to check your vital signs first... lean back and we'll hook you up to the Auto-Doc here...
+TROY70 - My, your mutant friend had a great deal of bullets and shrapnel lodged in his body. It's a wonder he didn't have lead poisoning. I finally managed to get it all out. Here it all is.
+TROY71 - That should take care of the problem. Let me know if you need any other healing.
+TROY72 - Of course, Citizen. What seems to be the problem?
+TROY73 - Of course, Captain. What seems to be the problem?
+TROY74 - Of course. What seems to be the problem?
+TROY75 - Very well. Just let me check your vital signs... lean back and we'll hook you up to the Auto-Doc here...
+TROY76 - That should fix you up nicely. How do you feel?
+TROY77 - Very well. Just let me check your vital signs... lean back and we'll hook you up to the Auto-Doc here...
+TROY78 - That should fix you up nicely. How do you feel?

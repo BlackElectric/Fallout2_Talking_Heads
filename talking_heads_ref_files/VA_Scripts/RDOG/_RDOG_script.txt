@@ -1,0 +1,39 @@
+RDOG1 - The life functions of my master have terminated. Are you my new master?
+RDOG2 - One; I am a dog. Two; I am communicating with you vocally using the common English language. Therefore it is safe to assume that the answer to your question is 'yes, doggie talk.' Now, do you intend to answer the question that I posed to you a moment ago?
+RDOG3 - One; I am a dog. Two; I am communicating with you vocally using the common English language. Therefore it is safe to assume that I am a talking dog. Now, do you intend to answer the question that I posed to you a moment ago?
+RDOG4 - (sigh) Pay attention. Concentrate. Look me in the eyes. Now, are you ready?
+RDOG5 - I... If it were not for the fact that your IQ is less than my height in feet I would think that you are trying to irritate me. Now, be silent. Pay attention. Concentrate. Look me in the eyes. I am about to ask you a question.
+RDOG6 - The life functions of my master have terminated. Are you my new master?
+RDOG7 - I... I refuse to go through this with you a second time! Were I capable of full motivation I would bite you in the fleshy part of your anterior region commonly referred to as the...
+RDOG8 - Oh, a joke. Hardy har har har. Now, are you my new master or not?
+RDOG9 - Excellent. I am in need of repairs, master. My motivation unit has been removed. Find it, replace it, and I will join you.
+RDOG10 - I am not sure, master. I would try maintenance. It is upstairs in the northeast corner of the base.
+RDOG11 - Then leave me in peace.
+RDOG12 - Hello again. The life functions of my master have terminated. Are you my new master?
+RDOG13 - You are not my master. I cannot speak to you. Good bye.
+RDOG14 - Hello master. Have you found my motivation unit?
+RDOG15 - I will wait here for your return, master.
+RDOG16 - Then please install the part, master! Please, master!
+RDOG17 - I appear to be fully functional now, master. Shall I join you?
+RDOG18 - That is not where that goes, master. Are you sure you know what you are doing?
+RDOG19 - Yes, master?
+RDOG20 - Yes, master?
+RDOG21 - All systems are functioning at full capacity, master.
+RDOG22 - My systems are functioning at near full capacity, master.
+RDOG23 - I have performed what repairs I can master, but I will require further assistance.
+RDOG24 - I have performed what repairs I can master, but system failure is imminent without assistance.
+RDOG25 - I will await your return, master.
+RDOG26 - Do you expect me to swallow my teeth, master?
+RDOG27 - I will follow at your heel, master.
+RDOG28 - I will move to a medium distance, master.
+RDOG29 - I will move to maximum acceptable range, master.
+RDOG30 - TEMP MESSAGE: DISTANCE
+RDOG31 - As you command, master.
+RDOG32 - TEMP MESSAGE: GEAR
+RDOG33 - I have fur, master. I carry no other gear.
+RDOG34 - TEMP MESSAGE: REMOVE ARMOR -I can't I'm a dog
+RDOG35 - I have no desire to remove my fur, master.
+RDOG36 - TEMP MESSAGE: CAN USE... my teeth
+RDOG37 - Teeth, master. The shiny white things installed in my mouth.
+RDOG38 - You are a cretin. I will not go anywhere with you. Go away.
+RDOG39 - I am sorry, master, but there does not appear to be room for me in your party. I will wait here until a position opens.

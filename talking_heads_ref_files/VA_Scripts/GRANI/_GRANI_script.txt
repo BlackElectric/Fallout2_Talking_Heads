@@ -1,0 +1,15 @@
+GRANI1 - Halt! What are you doing here?
+GRANI2 - Well, you know that freak, Agent Horrigan, just stormed past here. He's waiting for someone to try and make a break for it.
+GRANI3 - I think you're wrong on that one. Let's just say I'm making it my business. Now, just what the hell are you doing here?
+GRANI4 - Well, you just better make time.
+GRANI5 - Have it your way, but don't say we didn't try to warn ya.
+GRANI6 - He's some genetically engineered freak is what he is. Used to be the president's bodyguard. Secret Service agent Frank Horrigan. Now he's more than half machine.
+GRANI7 - Oh, that he is, and worse. He's going to mop the floor with you. He's tough, fast, and just plain mean. I've seen what he likes to do to mutants and it ain't pretty.
+GRANI8 - I don't like to talk about it. It gives me nightmares. Let's just say that those walls aren't covered with *rust* exactly.
+GRANI9 - That's the understatement of the year. I pity ya, pal, really do.
+GRANI10 - Unless what?!?
+GRANI11 - Oh, yeah. Tell me another one. If the reactor's scragged how come the light's are still on? Huh, smartie? Heh, heh, tell me another one.
+GRANI12 - Don't you tell a pretty story. You make me laugh. Y'know, I think you might even last over the one-minute mark with Horrigan. That'd be a new record. Good luck, mutie.
+GRANI13 - Okay, okay. I can't talk for everyone, but my squad and I will do our best to help you put that freak Horrigan away for good. I don't wanna drown like no rat.
+GRANI14 - Sergeant Granite of EC Company.
+GRANI15 - Enclave Control Company. We're responsible for perimeter defense, *usually* that is.

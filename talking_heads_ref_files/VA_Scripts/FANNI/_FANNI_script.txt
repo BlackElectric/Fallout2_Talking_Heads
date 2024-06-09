@@ -1,0 +1,33 @@
+FANNI1 - [Fannie looks distinctly unhealthy as she wobbles towards you] Hey there, lover. I'm feeling a little under the weather lately. Want to give me some money for a quick boost? I can make it worth your while. (grins)
+FANNI2 - (Fannie looks distinctly unhealthy as she wobbles towards you) Hey there, sister. Can you spare a few bucks to help a gal who's down on her luck? Just 'til I get back on my feet again.
+FANNI3 - (Fannie doesn't look very well at all) Hey there, pal. Ready for a li'l fun with Fannie? Half-price for you, lover. Where'd I put my Jet?
+FANNI4 - (Fannie doesn't look very well at all) Hey there, lady, spare some money? Or a bit o' Jet fuel even?
+FANNI5 - Jet's the only thing that makes me fly. ./~Come fly with me ./~ Give me a little something special, won'tcha?
+FANNI6 - Oh, you're just full of great ideas now, aren't you. Well, I don't need you. Plenty of people still want to pay for Fannie's charms. If you won't give me money for Jet, then just get out of my sight.
+FANNI7 - A cure? What, are you crazy? Do I look like I want to be cured? You want to make me feel better, sugar? Give me some more Jet.
+FANNI8 - Yeah, that's what I need. Oh yeah. What a rush. Mmmmm...
+FANNI9 - Hey there, sailor. Come here often? You come here to visit with Fannie Mae?
+FANNI10 - Hello, sister. Looking for work?
+FANNI11 - Well, aren't you sweet. Acting so bashful and all. It's going to cost you $60 for a visit with me, sugah.
+FANNI12 - Maybe you'll last a bit longer this time, honey. You'll get more of your $60 worth that way.
+FANNI13 - Nice and slow, baby. I'll show you a real nice time for your $60.
+FANNI14 - You've been so nice to me. I felt that you really meant something when you did that. (sob) I sure wish it was like that all the time.
+FANNI15 - I don't want to do this anymore. Me and my fella' are going to get away from here and live life straight. Just as soon as I can pay off Lou.
+FANNI16 - Come back anytime! Always nice to get some repeat business.
+FANNI17 - Yeah, well... I owe Lou some money and I can't leave until I pay her off. But as soon as I do (sniff) I'm going to take my beau and get myself as far away from this life as I can. If I could only raise a little extra dough.
+FANNI18 - All I need now is $200 and I'm in the clear. My man and I are out of here clean and free. No more strange, grubby, people pawing at me all day and night. Uh, I didn't mean no offense.
+FANNI19 - Oh thank you, thank you. I didn't think that there was anyone this kind outside of my dreams. You're the best. Thanks again. Hey, want a freebie? On the house?
+FANNI20 - He really wants to, but he's just barely getting by as a miner. We keep hoping he'll make a big strike but that hasn't happened yet. And last week a beam fell on him and broke his leg, so he can't work. Now I have to give him what little money I can spare 'til he gets better.
+FANNI21 - Thanks again. I can't wait to tell my guy. We'll be out of here as soon as his leg heals up.
+FANNI22 - Hey there. You want to spend some time with Fannie?
+FANNI23 - Well, yes... but it turns out that I owe Lou more than I thought.
+FANNI24 - Uh, I know, and I'm real grateful... but I guess I owed Lou more than I thought. I need more money.
+FANNI25 - That's okay, baby. You've already helped enough. (sniff) I only need another $150, though.
+FANNI26 - Hey there, you came back. Looking for a little fun, or did you come back to give me some money for Lou?
+FANNI27 - Always nice to get some repeat business. For you, I'll even change the sheets.
+FANNI28 - You know, back-floppin' work. With looks like yours, I bet you could make a good living.
+FANNI29 - You know, back-floppin' work. Even the way you look, you could make some money. Those miners ain't too particular, ya know.
+FANNI30 - Well it shore helps if'n your nose ain't to keen. Those miners ain't too fond of soap and water.
+FANNI31 - [Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer Jet since then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way. Whenever you're in the mood, just come on by; free of charge. (wink)
+FANNI32 - Thanks again. (smooch) Remember, it's always on the house for you. (wink)
+FANNI33 - Hey there! Lookin' to spend some time with Fannie? On the house, of course. (grin)

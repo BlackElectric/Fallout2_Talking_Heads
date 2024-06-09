@@ -1,0 +1,31 @@
+DUM1 - Welcome to NCR, stranger. Name's Dumont - Sheriff Dumont. Hope you're having a nice peaceful time here.
+DUM2 - Take a word of advice from Sheriff Dumont, stranger - this town don't care for your kind. Any trouble and I come down hard. Now, is there anything I can do for you?
+DUM3 - Well, spit it out.
+DUM4 - Hello again. Anything I can do for you?
+DUM5 - Primitive, eh? You. Questions? Ask me. Okay?
+DUM6 - No, I don't. That's something even President Tandi would like to know. Solve a lot of problems.
+DUM7 - Listen, I lead a clean and wholesome life! I don't have GECK or anything else.
+DUM8 - Anyone else of your stature would be leaving town, much less look for work.
+DUM9 - I can think of a couple of things, if you're really interested.
+DUM10 - You're joking right? After what you did with Jack? I suppose you could find some steady work.
+DUM11 - No Vault 13. Vault 15, yes.
+DUM12 - Yes, 15! You talk Tandi. Big chief NCR. Tandi know Vault. Want help. You go Tandi.
+DUM13 - Lis-ten. No Vault 13. No find. No see. No 13. Vault 15 - people find. People live Vault 15. You understand?
+DUM14 - Arrgh! THERE IS NO 13, YOU DUMB BOX OF ROCKS! No 13. No find. Never! Ever!
+DUM15 - Tandi big chief. Tandi want help. You talk to Tandi. Go Con-gress house. Okay?
+DUM16 - No GECK. Me healthy. Not sick.
+DUM17 - Look around you. NCR's a growing place. We need parts, computers, whatnot. Been a problem ever since those squatters moved into Vault 15.
+DUM18 - President of NCR, who else? Things have got her so worried she even asked to borrow one of my deputies for a special mission. Hated to turn her down, but I can't spare the manpower.
+DUM19 - You? Hmmm....I couldn't. Don't even know you - but she's looking to hire somebody so you can go talk to her yourself. Her office is in the Hall of Congress.
+DUM20 - Well, that's damn fine of you, stranger - and damn presumptuous, too. I don't know you from Adam and Eve and I don't like the way you look! I'm not recommending you to anybody. Now, I got work to do.
+DUM21 - Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.
+DUM22 - Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.
+DUM23 - Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.
+DUM24 - Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.
+DUM25 - Roger Westin. His spread's just out the west gate. He's been having some problem with varmints. He'd take care of it himself, but his health ain't what it used to be. Bad ticker, Doc Jubilee says.
+DUM26 - Yeah?
+DUM27 - Just make sure things stay that way. Goodbye.
+DUM28 - That's a damn fine piece of work you did with old Jack, stranger. As the sheriff, I'll take if from here.
+DUM29 - Well, I can't say that I've got any reward money to give. Best I can do is my thanks.
+DUM30 - Desert rats. You got to understand -- this town traces its roots back to 15. Seems there was some trouble there a long time ago and the survivors founded Shady Sands. So by right, Vault 15 is our property. Few years back some squatters moved in and there's been trouble ever since. You should talk to Tandi about it.
+DUM31 - There is no more work that I am aware of.

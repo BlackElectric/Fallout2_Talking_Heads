@@ -1,0 +1,94 @@
+STARK1 - It's past curfew. What are you still doing in the city?
+STARK2 - Is that so? Well, I know EVERY Citizen in Vault City, and I don't recognize you. Where's your papers?
+STARK3 - Then stop wasting my time, "Citizen." Come on, let's move it.
+STARK4 - Your business is over for the day. Come on, let's move it.
+STARK5 - Captain. Can I help you... sir?
+STARK6 - Captain. Can I help you... ma'am?
+STARK7 - Can I help you, Citizen?
+STARK8 - What do you want?
+STARK9 - Come with me, boy. NOW.
+STARK10 - Come with me, lady. NOW.
+STARK11 - You'll wish you left.
+STARK12 - Sergeant Stark... sir. Did you need something?
+STARK13 - Sergeant Stark... ma'am. Did you need something?
+STARK14 - I am Citizen SERGEANT Stark, Citizen. Was there something I could help you with?
+STARK15 - I am Citizen SERGEANT Stark, Outsider. What do you want?
+STARK16 - I do YOUR job, sir.
+STARK17 - I do YOUR job, ma'am.
+STARK18 - I run the Corrections Center. And obey your orders, sir.
+STARK19 - I run the Corrections Center. And obey your orders, ma'am.
+STARK20 - I run the Corrections Center. Keep the Outworlders in line. Make sure the Servants behave. Organize patrols. Try and protect the city from raiders.
+STARK21 - Permission to speak freely, sir.
+STARK22 - Permission to speak freely, ma'am.
+STARK23 - You don't DESERVE your post. I have lived in Vault City all my life. The men and women under MY command trust me and respect me, not you... sir.
+STARK24 - You don't DESERVE your post. I have lived in Vault City all my life. The men and women under MY command trust me and respect me, not you... ma'am.
+STARK25 - Understood, sir.
+STARK26 - Understood, ma'am.
+STARK27 - Yes, sir. I conducted an authorized raid on Mr. Cassidy's establishment.
+STARK28 - Yes, ma'am. I conducted an authorized raid on Mr. Cassidy's establishment.
+STARK29 - Maybe your friend Cassidy there didn't tell you that he had illegal substances on the premises, and his license for alcohol distribution had expired. You forget to tell your friend here that, Cassidy?
+STARK30 - No, sir. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.
+STARK31 - No, ma'am. Mr. Cassidy had not paid his licensing fee for alcohol for the month, yet was still selling it on the premises. His list of payments are logged in the computer.
+STARK32 - Cassidy was guilty of possession without a license. He doesn't like it, he can leave Vault City. That simple.
+STARK33 - Just try it. I'll look forward to putting trash like you and Cassidy in their place.
+STARK34 - Yes... SIR.
+STARK35 - Yes... MA'AM.
+STARK36 - Here you are, SIR.
+STARK37 - Here you are, MA'AM.
+STARK38 - Yeah, he was that drunk Outworlder who struck one of my guards in that brawl in the Spittoon. He's over at the Servant Allocation Center getting... broken in. It's just down the street.
+STARK39 - The Vault's right outside the door... sir.
+STARK40 - The Vault's right outside the door... ma'am.
+STARK41 - The Vault's right outside the door. Just tell the guards you're a Citizen, and they'll let you through.
+STARK42 - The Vault's right outside the door. Only Citizens are allowed in there, so I don't want to catch you bothering the guards.
+STARK43 - That so? I don't recognize you, and I know every Citizen in Vault City.
+STARK44 - Well, well, if it isn't those papers that were stolen last month. Looks like I finally found the culprit. Come with me, Outsider.
+STARK45 - I was BORN a Citizen. Interested in becoming a Citizen? Find a council member.
+STARK46 - Yeah, what about them?
+STARK47 - You did? Where is it?
+STARK48 - Yes, you said that before. You should tell the First Citizen if you haven't already.
+STARK49 - You wiped them out?
+STARK50 - You did? So, they will no longer be a threat to us?
+STARK51 - Yes, you said that before. You should tell the First Citizen if you haven't already.
+STARK52 - Go tell the First Citizen at once. She'll want to know about this immediately.
+STARK53 - Yeah, raiders. They've been hitting us pretty hard lately. (Frowns.) Why do you want to know about them?
+STARK54 - What, you some kind of good Samaritan? I don't buy it.
+STARK55 - What, you come in here to be a smartass? That it?
+STARK56 - Oh, yeah? Well, tackling this band of raiders may be more than you can handle.
+STARK57 - Hmmm. Well, I ain't going to turn down any help at this point. You find their base, or even better, wipe them out, go tell the First Citizen.
+STARK58 - Curious, huh? So am I. Now, what do you know about the raiders?
+STARK59 - Don't know anything? Maybe I'll keep you here in the Corrections Center until you REMEMBER something.
+STARK60 - You're already in trouble. You looking to make it worse?
+STARK61 - All right then...
+STARK62 - I don't think we'll be dropping the subject quite that easily. Now... what do you know about the raiders?
+STARK63 - I don't know. These raiders don't make much sense. IF they are raiders.
+STARK64 - They've got heavy firepower. Expensive firepower. They know military tactics. They stay in formation. They never cross their lines of fire. And they always stop short of breaking through our defenses.
+STARK65 - I've seen them do it. The last attack, they disabled a laser turret on the western perimeter. They had a clear shot into the city. Then I saw one of their "captains" ORDER them to fall back. Makes no sense.
+STARK66 - No. That's the most frustrating part. They keep retreating south. I can't spare any men to go and scout the area. I think the raiders have some native guide that leads them through the southern canyons.
+STARK67 - Plenty of places to hide if you don't know where to look. The place is riddled with caves.
+STARK68 - Go ahead and try. I'm betting the only way they'd let us find them is by giving us a map.
+STARK69 - Yeah, we have a small group of patrols. Can barely spare the men to protect Vault City, much less do all the reconnaissance that needs to be done.
+STARK70 - Scouting.
+STARK71 - What do you mean?
+STARK72 - No, you'd need a Pip-Boy to get the job done right, and I can't spare one right now.
+STARK73 - Yeah? Has it got a Northern California world map installed?
+STARK74 - I got a job for you, then. I need someone to scout the terrain around Gecko... that ghoul encampment to the northeast. Hit the eight sectors on the world map around the town, then report back.
+STARK75 - If they keep poisoning our groundwater, we may be forced to take military action. Now do you want the job or not?
+STARK76 - I want to see how much damage the plant meltdown caused to the area. Now do you want the job or not?
+STARK77 - We may be forced to take military action against them in the future, especially if they start poisoning the groundwater again. Now do you want the job or not?
+STARK78 - That so? Heh. Well... all right then. Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.
+STARK79 - Good job. Download the information into my Pip-Boy, and I'll log it into the patrol computers.
+STARK80 - This intelligence looks good. Well done. Here's your payment... three hundred dollars.
+STARK81 - Yeah, actually... I need someone to travel to NCR. Lately, I've been hearing reports that the Republic might be building up military strength. True or not, I need someone to plot a route to NCR and report back.
+STARK82 - That's all I need. I'm more interested in the route than the Republic itself, but I'll still need you to enter the city once you get there.
+STARK83 - That so? Heh. All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.
+STARK84 - All right then. Download the information into my Pip-Boy, and I'll log it into the patrol computers.
+STARK85 - This intelligence looks good. Well done. Here's payment for your services, five hundred dollars... plus, you might find this useful.
+STARK86 - It's a Vault-Tec Motion sensor. We were going to strip it for parts, since it's too old for our Pip-Boys, but it looks like it's compatible with your model.
+STARK87 - Keep it in your hand and it IDs hostiles in your immediate area when you use it. Or you can call up the Pip-Boy automap as normal, then just click the "scanner" button and they're lit up like a neon sign.
+STARK88 - Hello... Captain. Did you want something?
+STARK89 - Hello again, Citizen. Something I can help you with?
+STARK90 - You're back again? You lost, or do you need something?
+STARK91 - Like what... sir?
+STARK92 - Like what... ma'am?
+STARK93 - Yes, Citizen. What did you want to know?
+STARK94 - Like what?

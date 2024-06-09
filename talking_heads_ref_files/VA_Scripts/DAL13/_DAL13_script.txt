@@ -1,0 +1,10 @@
+DAL131 - Well, I'll be. How are you doing, Wanderer. I hope everything worked out for you at the Squat.
+DAL132 - Hey, I'm glad to hear that. It was my pleasure to do what I could for you. So, what can I help you with?
+DAL133 - What do you want to know?
+DAL134 - No, I'm not. I'm here of my own free will and I like it. I think this will be a safe place for me to stay for a while.
+DAL135 - Yeah, I've been told I'm free to go or stay. I'm staying for now.
+DAL136 - I don't know any more about them than you do, I guess. I'm still trying to get used to them talking to me instead of tearing my head off and using it for a golf ball. It's scary, you know?
+DAL137 - After I left the Squat I didn't know what to do with myself. I figured I'd just drift into another town and another hired gun job... so I was wandering the desert trying to decide exactly where I should go. Well, one day I was looking for a good place to camp. It was getting late, and I didn't want to be out in the open after dark. Off in the distance a ways, I thought I saw a campfire -- so I decided to see who was there.
+DAL138 - So, I sneak up on this camp site and there are these two deathclaws sitting around the fire just chatting away. Idiot that I am, I let out a little cry of surprise, jumped up, and turned to run -- right into the arms of another deathclaw standing right behind me. Anyway, to make a long story short, it took awhile for me to realize that I wasn't about to be put on a spit and barbecued. Instead, I was brought here and 'interviewed' by Gruthar. Now I can live here if I want.
+DAL139 - When I let you by me in the Squat, I broke my contract with my employer. I was sure that I'd be hunted down and killed because of it. Seeing you here convinces me that I don't have to worry about that. I can only assume that my previous employer is no longer in any condition to be concerned with me or my whereabouts.
+DAL1310 - Thanks, Wanderer. That takes a load off my mind.

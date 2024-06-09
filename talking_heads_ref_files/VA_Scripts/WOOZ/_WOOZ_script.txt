@@ -1,0 +1,60 @@
+WOOZ1 - Alright, enjoy. Anything else?
+WOOZ2 - Alright, done. Anything else?
+WOOZ3 - I am Wooz. What do you want?
+WOOZ4 - What do you want now? Are you dumb?
+WOOZ5 - Hello. What do you want?
+WOOZ6 - I just told you that every Vault has one. Does this look like a Vault to you? Are you dumb? Why are you looking for a GECK here? Try a Vault. 
+WOOZ7 - A Garden of Eden Creation Kit? You mean the device included with every vault that is supposed to be used when the people leave the vault in order to reestablish civilization?
+WOOZ8 - I run this place. Are you dumb? I sell drinks, trade for things, tell stories, and play Tragic.
+WOOZ9 - What do you want now?
+WOOZ10 - Trade? I'm always ready to trade Tragic cards. I've got a couple of old Vox Mubies, a Black Dahlia, and some Rare Earths.
+WOOZ11 - Not much to tell, really. Just a bunch of ghouls clinging tenaciously to the ass-end of life.
+WOOZ12 - You want a drink, huh? Well, we've got our very own Gamma Gulp Beer at $5/bottle and, for special occasions, our Roentgen Rum at $12/bottle.
+WOOZ13 - What'll it be?
+WOOZ14 - Yeah, Gamma Gulp Beer. You deaf or something?
+WOOZ15 - Yeah, it is. One Gamma Gulp coming right up.
+WOOZ16 - Special occasion, huh? Well lah-de-dah, aren't we special today. One Roentgen coming right up then.
+WOOZ17 - Heh, yeah I heard those assholes are getting attacked by molerats who're protecting those smoothskins. Serves 'em right for fucking with other people's business. I don't really know much more than that though. Lumpy over in the junkyard might know more. That smoothskin's always hearing things.
+WOOZ18 - You don't have enough money. Are you dumb?
+WOOZ19 - You want to buy a round of drinks for everyone here? You must really be hard up for friends. That'll cost you $35.
+WOOZ20 - I've got this great story. It's really funny. You see there's this head, right?
+WOOZ21 - Are you dumb? Tragic the Garnering is the most addictive thing since Jet.
+WOOZ22 - It's like I was saying. Tragic the Garnering is the game to play.
+WOOZ23 - Hmm, sorry. That's the only one I know of. By the way, have you seen an apple, lately?
+WOOZ24 - I just love apples, but there aren't many left anywhere. I hardly ever see them.
+WOOZ25 - Slow?!? You are dumb. Fuck you! Apples are just as fast to eat as any other fruit. Apples rule. If it weren't for a conspiracy on the part of fruit manufacturers we'd all have apples.
+WOOZ26 - I think we were able to come to an understanding. Need anything else?
+WOOZ27 - Oh, the Chosen One. Oh my, I didn't realize. I'll just try to stop shaking long enough to tell you something then. (Wooz smiles) Come closer and I'll whisper it to you.
+WOOZ28 - Nearest Vault? Gee, I don't know. Maybe you could ask the people in Vault City where a Vault might be. Vault City's just south of here. You are dumb, aren't you?
+WOOZ29 - (Wooz beckons you closer) Let me whisper in your ear...
+WOOZ30 - FUCK YOU!!! Now get out of my bar. Chosen one. Sheesh, what a loser.
+WOOZ31 - Fuck you! You're dumb. What the hell do you want here?
+WOOZ32 - Really? I didn't know that. Well, if you love apples, I guess you can't be all bad. Now, what the hell do you want?
+WOOZ33 - Zombies? Fuck you! We're ghouls. Zombies are a type of undead with no free will. Although we share certain physical characteristics -- most notably, the rotting flesh and characteristic morbidity -- we are creatures of free will. Allow me to demonstrate.
+WOOZ34 - I am demonstrating my free will by telling you to GET OUT! Damn smoothskin bigot. Go back to Vault City, where you belong.
+WOOZ35 - Well, Tragic the Garnering isn't just a game -- it's an obsession. Not a cologne, either. Some think that the way it changes a person's life is tragic, but they just don't understand.
+WOOZ36 - Jet's a drug that comes from New Reno. Were you born yesterday, or are you just dumb?
+WOOZ37 - No, really. It's wonderful. You should play. Just once. The first box of cards is free. A little something from me to you.
+WOOZ38 - Hmmm... Say, maybe you should call it a day and put those Tragic cards away. I think you have played enough for today.
+WOOZ39 - Hello there. Looks like you're another Tragic player. Have time for a game? Or are ya yeller? I'm a-callin' you out.
+WOOZ40 - That's just the first part. Now that you're one of us, want to play a game?
+WOOZ41 - Well, it's simple, really. Even someone dumb can understand it. First, you build a play deck out of the cards that you have, and then you...
+WOOZ42 - You won? Fuck you! I need a ruling on that. You just got lucky, this time. This deck of mine just didn't work. I've got to build a better one.
+WOOZ43 - I won! Fuck you! You are dumb. I have crushed you. Now I can build an even better deck with your cards.
+WOOZ44 - No time at all. Let's go. I've got a new deck that I want to try.
+WOOZ45 - I know what you mean. I can stop anytime I want. Just not today.
+WOOZ46 - Well, the Harp's named after a favorite hangout that I used to have before the war. I guess it's just a reminder of times past. Sort of a joke on the only way we're going to get a better deal, too.
+WOOZ47 - That may be so, but not everyone has a city full of lunatics thirsting for their blood.
+WOOZ48 - It sure was a long time ago. How do you think ghouls are made? You think some of us just got up one fine day and said to ourselves: "Gee, I wonder what it'd be like to have my flesh rotting off my fucking body?"
+WOOZ49 - Those assholes in Vault City. If anyone's going to cap us, it's them. They're fucking crazed. Anyone's not just as fucked up in the head as they are and they want to kill them. I'd watch myself around them, if I were you.
+WOOZ50 - 'Bout the only way us ghouls are going to get an even break is when we're toting a harp of our own.
+WOOZ51 - With silver-bells and cockleshells and... Boy, you are dumb, aren't you? Severe radiation. That's how. How do you think? You know, many bombs go boom, flash of light and heat, flesh burns off, but you don't-quite-die-type severe radiation?
+WOOZ52 - Well, I didn't think so. Fuck you very much for bringing back all those intensely painful memories. Asshole. We're a town of fucking leftovers -- slightly overcooked leftovers.
+WOOZ53 - Well, usually I just pound on the hollow heads of my customers -- sort of like bongos. How the hell did they ever let you out of your village? You're a danger to yourself and others.
+WOOZ54 - You fell out of the stupid tree and hit every damn branch on the way down, didn't you?
+WOOZ55 - Yeah, it's a head. But it's not attached to a body. You see, it's been severed.
+WOOZ56 - Just hold on a minute. This severed head, you see, it's in Hell. (hah, hah) And it flies around there, you know, in Hell. And it runs into all kinds of famous people there... (ho, ho, ho)
+WOOZ57 - Well, it's doing stuff. (hee, hee) You know. It's got, things that it wants to do, or maybe things it's forced to do. The point is, it's doing stuff, you know, there in Hell. Oh God, (hah, hah, hah) I just can't stand it!
+WOOZ58 - No, you just don't understand. It's all about a severed head. Get it? Heh, heh, heh, It's funny! How can you think about a severed head, in Hell of all places, and not laugh?
+WOOZ59 - Fuck you! You're just like all the rest of them. I tell, you it's hilariously funny. It's not my fault that you don't have a sense of humor.
+WOOZ60 - See? I told you it was funny. Is there anything else you need?

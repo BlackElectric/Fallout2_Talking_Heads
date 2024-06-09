@@ -1,0 +1,23 @@
+SMILEY1 - Hello there, stranger. People call me Smiley. I'm sure glad to see you. I thought I was going to die here for certain! I'm hurt too bad to get past those damn lizards on my own.
+SMILEY2 - Great. Another Torr. I (points at himself) need you (points at you) to help me get out of here (makes walking fingers motion on hand).
+SMILEY3 - Yes! That's it. We go (walking fingers again) together (clasps hands together). Right now!
+SMILEY4 - Hey! Wait! You can't just leave me here.
+SMILEY5 - I always caught more golden geckos north and west of Klamath than anywheres else. So I figured that all the golden geckos lived someplace up here.
+SMILEY6 - I'd love to chat with you, but let's just get out of here now and chat later. Okay?
+SMILEY7 - Looks as though I was a little too right. I got in here okay, but then one of those damn geckos got behind me and damn near took my leg off. I just barely made it over here.
+SMILEY8 - Well, I guess they don't like to crawl through the goo too much. I can't say as I blame them. It sure burns if gets on your skin. But that doesn't seem to stop 'em from licking up the darn stuff like it was Buckner's Best.
+SMILEY9 - Enough gum flapping. Now let's get out of here. I figure that if I can join you we should both be able to make it out of here okay. I sure could use the help.
+SMILEY10 - These caves look like a prewar storage area. I think there must be more down below us but there's some kind of fancy teck-no-logical lock on the door. Anyhow, I've had enough. Let's git out of here.
+SMILEY11 - Whew. I think I just used up some lives that time around. Why don't you come over to the Buckner place a little later on and I'll make sure you get a nice reward for saving me.
+SMILEY12 - Well, if'n it ain't my idjit friend. Thanks a heap. Goodbye to you.
+SMILEY13 - Hello there, friend. Thanks again for getting me out of that tight spot. Anything I can help you with?
+SMILEY14 - Anything else, friend?
+SMILEY15 - I sure owe you for saving my hide. Least I can do is to teach you something in return.
+SMILEY16 - Since those geckos nearly had my hide let me teach you how to get theirs. Here's how you skin 'em. (Smiley demonstrates) ...and when you kill 'em you can get their hides an' sell 'em. OK?
+SMILEY17 - I think you know enough about geckos now. 
+SMILEY18 - Heh, heh. I think maybe you could teach me something about geckos. I don't think I can help you out with that.
+SMILEY19 - Well, I guess I know more about geckos than anyone alive. I was raised on gecko milk, you know. But it'll take a few hours.
+SMILEY20 - There's more you need to know than you even know you need.
+SMILEY21 - Well, you see it's like this - golden geckos and regular geckos are basically the same critter except the golden's got a big second helping of sheer cussedness... (time passes as you learn the lore of the Gecko)
+SMILEY22 - Maida Buckner, Widow Buckner's daughter, is the one to talk to about all sorts of town gossip.
+SMILEY23 - Widow Buckner's so darn happy to have me back that she may be Mrs. Smiley before too long. She was even talking about giving you a little something for finding my hairy butt and returning it to her.

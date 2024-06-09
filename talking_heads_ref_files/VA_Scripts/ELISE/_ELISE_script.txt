@@ -1,0 +1,52 @@
+ELISE1 - What do you want?
+ELISE2 - You again?
+ELISE3 - Did he now? What did he tell you?
+ELISE4 - I'm Elise. That's Gond. We're members of a 'group' that's trying to do right for folks.
+ELISE5 - Just get yourself out of here. Saloon's back on Main Street.
+ELISE6 - Hates slavery, huh. Interesting. What would you do if you found this outfit?
+ELISE7 - None of your business. Now get out.
+ELISE8 - We've gotten out of the car business. Closed permanently. Goodbye.
+ELISE9 - It's not. Goodbye.
+ELISE10 - All right, so tell me. What's your opinion of slavers?
+ELISE11 - Money all you care about?
+ELISE12 - Don't bullshit me. I can see what kind of person you are. Goodbye.
+ELISE13 - If you don't know, then I'm wasting my time. Goodbye.
+ELISE14 - No, we are not a religious organization. Mind if I ask you a question?
+ELISE15 - Not so fast. You've got to pass a test to join the Rangers.
+ELISE16 - There's a slaver just outside town. Maybe you've seen his place. Free the slaves there and then come back and talk to us.
+ELISE17 - Well, it's your lucky day.
+ELISE18 - That's the kind of attitude that allows the atrocity of slavery to exist in the first place. I'm sorry, but there is no place for you in our organization.
+ELISE19 - So, changed your mind? Ready to prove your worth?
+ELISE20 - Shouldn't you be doing something? Don't come back here until the job's done.
+ELISE21 - I've heard the news already. You freed the slaves. Good work! So, you ready to become a Ranger?
+ELISE22 - I hear you're the one who freed all the slaves outside the city gates. That was a fine thing you did and I just want to shake your hand.
+ELISE23 - Simple. We believe slavery is wrong and we'll do what we must to fight it. In NCR, we got a lot of friends in high places. Thanks to them we've already banned slavery down south, but now we're hoping to spread the word north.
+ELISE24 - We've got agents and sympathizers in some of the towns up north. We're spreading the word and hitting slavers wherever we can.
+ELISE25 - Do you swear to fight slavery whenever the opportunity arises and to help your fellow Rangers whenever they're in need?
+ELISE26 - Congratulations, you're now a Ranger. It is your sworn duty to fight slavery wherever it may appear. Take care, my friend.
+ELISE27 - Congratulations, you're now a Ranger.
+ELISE28 - Well, we're always looking for good people to further our cause. If you change your mind, look me up. Are you sure you won't take the opportunity to join now?
+ELISE29 - I see. Well, I represent a group called the New California Rangers. Someone with views such as yours could qualify for membership. You interested?
+ELISE30 - I see. Well thanks for stopping by but I can't see that we have anything more to say to each other. If you change your mind, come back and see me.
+ELISE31 - That being the case, I have to ask you to get out of my sight. Now!
+ELISE32 - A slaver! Get out of here before I remove that tattoo of yours with a bullet!
+ELISE33 - Hello again. Have you changed your mind about joining us?
+ELISE34 - Alright, let's hear it.
+ELISE35 - Are you serious? Our northern Rangers have been trying to track down Metzger's slaver camps forever. This is excellent news, now we just need to destroy that horrible place. Do you know how well guarded it is?
+ELISE36 - You have? That's amazing! I'll have to spread the word out to the other Rangers. Now's the time for us to rise up and strike while they're busy licking their wounds. I can't thank you enough. We are truly in your debt.
+ELISE37 - We must attack them at once. Wanna take down these scumbags for us?
+ELISE38 - Excellent! Please report back when you have wiped out the camp.
+ELISE39 - Money? Well, I suppose it is the least we could do. Here, $1000 for your trouble. Thank you again.
+ELISE40 - Are you ready to attack the slaver camp?
+ELISE41 - Your fellow Rangers will meet up with you along the way. Best of luck to you.
+ELISE42 - I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.
+ELISE43 - You're right. I'll get a small group together and send them with you. Are you ready to go now?
+ELISE44 - No, I am sorry. I don't have the resources to pull some men together. This is something you will have to do on your own.
+ELISE45 - Actually, one more thing. You look like someone to be trusted. Someone who doesn't take a liking to Slavers.
+ELISE46 - What are you doing here? This is a private -- Hey, wait a minute, I think I've heard of you. Aren't you the one that took out one of Metzger's slave camps?
+ELISE47 - That was a fine thing you did and I just want to shake your hand.
+ELISE48 - Not at all. In fact, I'd like to shake your hand.
+ELISE49 - Because that was a fine thing you did and I just want to shake your hand.
+ELISE50 - We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.
+ELISE51 - I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.
+ELISE52 - Help you with something, Ranger?

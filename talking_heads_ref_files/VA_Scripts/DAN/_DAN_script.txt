@@ -1,0 +1,55 @@
+DAN1 - Hello there. My name's Dangerous Dan McGrew. I run the Morningstar Mine here. What can I do for you?
+DAN2 - What do you need from me?
+DAN3 - We mine gold. Everybody wants it, too. Send it all the way to Vault City, New Reno, and even down to the NCR. You might say that Redding has something for everybody - that's what keeps us independent.
+DAN4 - What makes you think they haven't? Everybody would like to have Redding under their belt. My guess is that someone will get us pretty soon. About the only thing we can do is choose our master, if we want to survive.
+DAN5 - I mean that we're going to be put under someone's thumb. Only a fool thinks otherwise. Our choice is to pick the lightest thumb.
+DAN6 - You bet I have. If we don't ally ourselves with one of the families in New Reno, you can just kiss Redding goodbye. At least any type of Redding that I'd want to live in.
+DAN7 - If the NCR takes over, Redding's going to be put under the thumb, hard. They aren't real big on personal freedom. They're going to turn Redding into another splotch on the New California Republic map. The Redding I know will be gone forever.
+DAN8 - Vault City? (he laughs) Those bigots would turn Redding into a slave-labor camp. They don't see anyone who's not one of their precious Citizens as being worth a warm bucket of spit. Spending my life bowing and scraping to those bigots isn't my idea of any kind of life.
+DAN9 - New Reno's strong enough to protect Redding from the other two. Since New Reno's divvied up amongst different gang-families, it's divided enough to give us our best chance for autonomy. In New Reno, they don't care how we run things - as long as they get their gold.
+DAN10 - This ain't a perfect world, chum. Sometimes you've got to make the best of a bad situation. Just turns out that bad people may be best bet for Redding. Not everyone sees it that way, though.
+DAN11 - Don't know for sure, but things are heating up. Whatever city has the strongest backers here in Redding is gonna get the whole pie. I'm just doing my damnedest to make sure it's New Reno that wins. The way I see it, that's Redding's only chance.
+DAN12 - Best thing to do is just to make my mine prosper and make sure my miners know who's paying the bills. The fact that they get all their happy-sauce from New Reno makes the place a lot more popular, too.
+DAN13 - Booze, drugs, all sorts of chemical recreation. You name it and New Reno supplies it. It's just about the only thing that some of my miners work for. Be hell to pay if something ever happened to that.
+DAN14 - Right now we don't get hardly enough Jet in town to keep everyone happy. I sure hope those next few caravans get through all right.
+DAN15 - Everyone's just about rolling in Jet lately. Seems as though most fellers just can't get enough of it. Makes for happy workers, though, so I can't complain. Lined up two deep in front of Doc Johnson's, they are. If there was much more, though, I'd start to worry.
+DAN16 - Damn; there's just too much Jet in this town. We're drowning in the stuff. Nobody wants to work; they just want to get high. I can't make my ore quotas with half my damn miners flying high on Jet. Goddamn that Doc Johnson.
+DAN17 - Most of the miners that were real Jet Jockeys have crashed hard. That last batch that Doc Johnson sold must have been real bad, somehow.
+DAN18 - I don't know what happened, but most of the Jet Jocks got real sick on that last batch - and now they can't go near Jet without getting sick. Doc Johnson's looking into it, I heard.
+DAN19 - Cause I'm nothing but the biggest, toughest, mine-crawling, gullywumpin', snake-eatin' buck in these here parts. *Dangerous* Dan McGrew; that's me, all right.
+DAN20 - Them's fightin' words in these here parts. You ready to back that up?
+DAN21 - Yeah, that's what I thought. (pause) You're yellow.
+DAN22 - A Garden of Eden Creation Kit? Never heard of something like that. I tend to find my Eden in Lou's sweet arms.
+DAN23 - It is when it isn't short for Louisa, like my Lou's is. She runs the Malamute Saloon here in town. Hey, just what are you getting at, anyway?
+DAN24 - Well, one thing's for sure: I could sure use a new Control Chip for my Excavator machine.
+DAN25 - Funny you of all people should ask that. There's all kinds of things going on here in town lately.
+DAN26 - Like I said, you should know if anything's going on here in town if anyone does.
+DAN27 - Yeah, I mean the Excavator Chip that you sold to Marge LeBarge over at the Kokoweef Mine. That was a real mistake... not just for me, but for Redding.
+DAN28 - I can't believe that you let that bastard Hakeswill go free. My miners seem happy about it, but I'm not sure I am.
+DAN29 - You did the right thing by putting that bastard Hakeswill in jail. He bullied and intimidated my miners, but they still didn't want to see him killed out of hand. It'll be better to see him hung all legal and proper.
+DAN30 - Thanks to your killing that idiot Hakeswill, my miners are ready to go on a rampage.
+DAN31 - You know what's going on with that Excavator Chip. I want it, and I bet you're smart enough to realize that Marge LeBarge wants it, too. But it'd be best all the way around if you sell it to me.
+DAN32 - I just want to thank you for selling the chip to the right party.
+DAN33 - Thanks for breaking up that bar fight without having to lock anyone up. The miners need to let off steam now and then, but they don't mean nothing by it.
+DAN34 - I sure wish you hadn't put my miners behind bars like that. They were just letting off some steam.
+DAN35 - Thanks for putting those Kokoweef thugs away for picking a fight with my lads. Those Kokoweefers need to be put away for good.
+DAN36 - Didja have to lock up every damn miner in town? Who the hell's gonna work my mine?
+DAN37 - You let that tin badge go to your head. You had no call to be killing anyone over a damn bar fight.
+DAN38 - Selling the chip to Marge makes her backers look better. The NCR backs Marge, and if they take over here in Redding, we're in trouble. Much better to back me and my pals in New Reno.
+DAN39 - Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out of us, though. Let me explain the situation.
+DAN40 - I'll pay you $1,000 for that Excavator Chip.
+DAN41 - It's in the Great Wanamingo Mine just west of town. Down inside the mine there's a great big mining machine. You can hardly miss it. The chip's in that machine. You just need to yank it out and bring it to me.
+DAN42 - I've got a big pre-war Excavator all ready to run, but it's got a problem. No brains.
+DAN43 - Its control chip burnt out, and it's not like I can order a new one. But I know where one is. Be willing to pay $1,000 for it, too.
+DAN44 - Plenty of reasons, most of 'em hungry and nasty. Wanamingo mine's just chock-full of hungry Wanamingos.
+DAN45 - It's just the orneriest, nastiest, most vicious critter I think I've ever seen. It's got teeth four inches long. Oh, I mean four-teen inches long. But I think you can handle it.
+DAN46 - You do that. $1,000 isn't chump-change, pal.
+DAN47 - I guess I was wrong when I thought you had what it takes. Get out of here; you're waistin' my time.
+DAN48 - Heck... if I were you, I'd buy the deed to the place, clear it out, and sell it back to Mayor Ascorti. He's the deed-holder now.
+DAN49 - Take care of yourself. I really need that chip.
+DAN50 - "Painless" Doc Johnson is our town quack. Oh, I suppose he knows something about doctoring, but I don't guess he knows too much. He's on the west side of Downtown. Anyhow, he usually sells all the medicine and drugs that we get here in town.
+DAN51 - Yeah, well, when we get Jet in it's often sent in bulk, and so he fills the ampoules. Folks trust him to do it. Makes a big show about it being all clean and all. Simple remedies for simple minds, I say.
+DAN52 - Mister, you ain't getting but two things from me. Jack and shit, and Jack's left town. Now get out of my sight.
+DAN53 - Little Missy, you ain't getting but two things from me. Jack and shit, and Jack's left town. Now get out of my sight.
+DAN54 - You should have thought about that before you made things get out of hand. Fuck you, and get out of my office.
+DAN55 - Nobody says that to Dan McGrew and walks away from it.

@@ -1,1 +1,3 @@
 HeadName,Variable,PossibleValues,EvaluatesToLineNumber
+ABOTT,more_info,0-1,NO
+GLOBAL,dude_is_female,0-1,NO

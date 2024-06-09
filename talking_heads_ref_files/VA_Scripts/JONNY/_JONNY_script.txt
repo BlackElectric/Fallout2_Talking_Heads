@@ -1,0 +1,22 @@
+JONNY1 - Laddie! I've missed you, boy. Thank you for bringing my dog back to me.
+JONNY2 - Hello, I haven't seen you around here before.
+JONNY3 - Hello again.
+JONNY4 - Have you talked to Vegeir about me going home?
+JONNY5 - My dad said Laddie went with you to look for me. Where is he? I miss him.
+JONNY6 - My name is Jonny. What's yours?
+JONNY7 - My name's Jonny, and I don't like you.
+JONNY8 - [He points to you and starts screaming.] Stranger! Stranger! Stranger!
+JONNY9 - Very nice to meet you Stranger.
+JONNY10 - That's swell! I wanted to go home, but Vegeir says his people can't travel that far above ground and wouldn't take me... Not that I doubt you, but what's my father's name?
+JONNY11 - Hmm... no. Thank you for bringing my dog back to me, but I have to go now. Bye.
+JONNY12 - It was sure nice meeting you, but I have to go now. Bye.
+JONNY13 - That's right! Yipee! I'm going home. Ask Vegeir if it's all right for you to take me home. He's been so nice to me, I don't want to leave until he says it's all right. Please hurry; I'm homesick.
+JONNY14 - Okay mister, I believe you. Ask Vegeir it's all right for you to take me home. He's been so nice to me, I don't want to leave until he says it's all right.
+JONNY15 - Okay miss, I believe you. Ask Vegeir it's all right for you to take me home. He's been so nice to me, I don't want to leave until he says it's all right.
+JONNY16 - No. I'm going to go play with my friends now. Bye.
+JONNY17 - I'm not supposed to talk to strangers. Bye.
+JONNY18 - Yes it is! How did you know? Laddie must have told you. She's such a smart dog.
+JONNY19 - Yes, I think that's best. Although I trust you, I'm sure Vegeir just wants to make sure I get home safely. Thank you for your help.
+JONNY20 - Please hurry. I want to go home.
+JONNY21 - No! I don't believe you! Give me back my dog! [Waaaaa!]
+JONNY22 - Oh no! Don't you know Rose uses dog in her dishes!? Laddie is probably a burger by now.

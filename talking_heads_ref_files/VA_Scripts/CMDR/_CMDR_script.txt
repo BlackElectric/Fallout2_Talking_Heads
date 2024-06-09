@@ -1,0 +1,22 @@
+CMDR1 - Who the hell are you guys... Alert! Intruders on the base!
+CMDR2 - I don't have time to chitchat with the grunts. You're dismissed.
+CMDR3 - I told you I don't have time for you. Leave this office and do not come back here unless I send for you. Dismissed!
+CMDR4 - Disobeying a direct order of a superior officer is treason. I don't have time to court martial you so I'll handle this myself. Guards! Kill this idiot!
+CMDR5 - The Fob is in the locker over there. Have the duty officer contact me once it's secured. Dismissed!
+CMDR6 - Make it quick soldier, I don't have all day to stand around.
+CMDR7 - This base is on alert and I don't recognize you. Show me your papers, soldier.
+CMDR8 - Wrong answer, maggot. You're to carry your papers with you at all times. You should know that!
+CMDR9 - Alright, let's get this over with--I don't like muties stinking up my office, and I got shit to do. Do you work for the Salvatores? 
+CMDR10 - I don't have time for this bullshit. Guards! Kill this mutie!
+CMDR11 - So you're saying you're nothing more than a stray wasteland rat that happened to wander into one of our vertibirds?
+CMDR12 - Good, if you're acting alone, then I don't have to waste another second of my time with you. Guards! Kill this mutie!
+CMDR13 - You're not leaving here alive, mutant. I couldn't risk you blabbing the location of this base to all your wasteland friends, now could I? Guards! Kill this mutie!
+CMDR14 - Tell me what I want to know, and I'll make sure your death is quick and . . . relatively painless. Did Salvatore put you up to this?
+CMDR15 - I don't have time for this bullshit. Guards! Kill this mutie!
+CMDR16 - That supposed to be funny, mutant? I think you'll be a lot funnier to me when you're a bleeding corpse. Guards! Kill this mutie!
+CMDR17 - Oh, you do? [He chuckles.] Well hell, why not? You're dying anyway. What do you want to know, mutant?
+CMDR18 - Because you ARE. Sure, you might look kinda human, but don't let that fool you. You're still a mutant. You and everyone else on the mainland. All tainted. Next question?
+CMDR19 - We're the Enclave--the last bastion of true humanity on this damn planet. We're the only ones still upholding the honor of the ol' red, white, and blue. That's right, we're true patriots. We eat bald eagles and shit stars and stripes. We're all that's left of the great United States of America. But we're enough. Oh, yeah, we're enough to set things right. You can count on that, mutie. Next question?
+CMDR20 - This here's Navarro, our secret mainland base. We're sitting right on the coast of California and the pacific ocean. Next question?
+CMDR21 - By prying it off my dead body. Good luck with that, mutie. Next question?
+CMDR22 - Good, 'cause I'm damn tired of wasting my breath on a mutant. In fact, this whole things a waste of my time, because I don't give a flying fuck what you've got to say to me. Guards! Kill this mutie!

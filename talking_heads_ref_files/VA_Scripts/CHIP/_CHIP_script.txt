@@ -1,0 +1,28 @@
+CHIP1 - Ooh, my guts... ow, ow, ow.
+CHIP2 - Oooh, my guts. I'm in pain. Please leave me alone.
+CHIP3 - What's the matter with me? I'll tell you: It's that I got drunk last week, started gambling with Lao Chou, and lost. I was so blind drunk that I bet my spleen. Now he has it, and I need it back.
+CHIP4 - ::he gasps for air:: Fuck you.
+CHIP5 - ::he gasps for air:: Piss off.
+CHIP6 - Yeah, I sold it. I was drunk! Plus, I think Lao Chou slipped some Jet in my drink. I need my spleen back because I'm getting infections now.
+CHIP7 - Yes, it is. I need my spleen back because I'm getting infections now.
+CHIP8 - I really appreciate this. Go talk to Lao Chou, the merchant, and tell him I need my spleen back.
+CHIP9 - I'm Chip. And I'm in a lot of pain.
+CHIP10 - Information? I'm in pain and you want information?
+CHIP11 - Have you found my spleen yet?
+CHIP12 - Any more luck with my spleen?
+CHIP13 - All right. ::pant:: Before I do, maybe we ought to set up a way to get it back in me. Talk to Dr. Fung about that, all right? Thanks.
+CHIP14 - I really appreciate what you're doing for me. I won't forget it.
+CHIP15 - Dude, I can't really get places without a lot of effort. If you can't help me, I'm screwed.
+CHIP16 - If you could do something about it... kill him, or talk some sense into him, or something... I'll die without it.
+CHIP17 - With no spleen, I'm going to die. Thanks for your help anyway.
+CHIP18 - Did you talk to Fung?
+CHIP19 - Dude, I heard you found my spleen. Did you know to talk to Dr. Fung about putting it back in me?
+CHIP20 - Wow. You have some serious connections. Come back in a day and I'll see what help I can give you.
+CHIP21 - Can you cover me?
+CHIP22 - I really appreciate this. Come back in a day and I'll see what help I can give you.
+CHIP23 - I can't afford to do this on my own. I guess I'm going to die.
+CHIP24 - I can't tell you how much better I feel. Now, what was it you wanted from me?
+CHIP25 - Check with the Captain. He lives in the captain's office upstairs.
+CHIP26 - Word has it they got taken west, across the water. Your best bet in getting there is getting this tub running.
+CHIP27 - Computer work? If you can't get it from the Shi or the Hubologists, you'll want to talk to Badger. He's a whiz.
+CHIP28 - Shit. Talk to the Hubologists or the Shi. With Badger dead, I have no idea.

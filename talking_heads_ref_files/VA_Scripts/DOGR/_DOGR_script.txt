@@ -1,0 +1,15 @@
+DOGR1 - Arf-arf-arf-arf-arf-arf-arf!
+DOGR2 - Rowf? <boing> Raggy?
+DOGR3 - <click> whimper
+DOGR4 - Woof! Wo-wo-wo-<click>woof?
+DOGR5 - Arf! <click> Woof!
+DOGR6 - Rowf? <boing> Raggy?
+DOGR7 - <click> whimper.
+DOGR8 - How-woooo! <click-click> How-wooo!
+DOGR9 - Ee-bee-dee-bee-ee-bee-dee-bee!
+DOGR10 - Sure thing, I'll put it away.
+DOGR11 - Arf-arf proximity set to close.
+DOGR12 - Arf-arf proximity set to medium.
+DOGR13 - Arf-arf proximity set to far.
+DOGR14 - .whirrrrr... I am not a Daggit.
+DOGR15 - Woof! Wo-wo-wo-<click>woof?

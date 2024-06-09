@@ -1,0 +1,40 @@
+EO1 - Greetings, child. Are you one of the Enlightened?
+EO2 - Hello? Anybody there?
+EO3 - Oh dear, a Level One. Still trapped in primitive state. Perhaps a zeta-scan alignment would help. Would you like that?
+EO4 - Please don't mock the Church of Hubology. It's oppressors like you who make things hard for the rest of us. Oh, dear. I'm all turbulent!
+EO5 - Chosen One? Don't you mean AHS-One? Just what text are you working from?
+EO6 - Oh. Well, are you seeking true understanding and spiritual peace? We can help.
+EO7 - Merk? What's he want?
+EO8 - Wonderful, brother. So what level are you?
+EO9 - Wonderful, sister. So what level are you?
+EO10 - I asked you first.
+EO11 - Honestly! I don't know what they expect me to accomplish surrounded by such rim meat!
+EO12 - Ah, such enthusiasm. Come with me.
+EO13 - "Lost are those who will not seek the Hub." If you should ever change your mind, you are always welcome.
+EO14 - Do not shout! Now I've got a neurodyne to align!
+EO15 - Predestination? What about free will? By your belief, nothing you do has any meaning since it's all determined in advance. It's like you're just a pawn in a game.
+EO16 - Aligned Hub Seeker. You are obviously not Enlightened.
+EO17 - A primitive belief - but you show signs of great promise. We can show you the higher path. Would you like to know more?
+EO18 - I can't help you with that. However, our scientists in San Francisco might know something. Perhaps you should travel there.
+EO19 - By purging you of the negative psychic energy that keeps you in an oppressive state. Only then can you be Enlightened!
+EO20 - Neurodynes are the psychic centers of the body. They become polluted by the spiritual remnants of the people who died in the War. Their psi-energies imprint into our neurodynes at birth and hold us in an oppressive state. Alignment erases these imprints.
+EO21 - As long as your brain chemistry is affected by negative psychic energy, your true spiritual potential is oppressed. Worse still, oppressives can transmit this energy unless they are very, very strong-willed.
+EO22 - Enlightenment happens when all your neurodynes are aligned. Then you become an AHS, Aligned Hub Seeker, which is the goal of all Hubonites.
+EO23 - It's not painful. You just undergo a zeta-scan. I can do one now, if you like.
+EO24 - The Church of Hubology exists to free mankind from the chains that have kept his full spiritual potential in shackles.
+EO25 - That is not an ability that I possess. Is there something else that I can help you with? An alignment perhaps?
+EO26 - That's impressive. Though I believe we are speaking about two different things, it still sounds like you deserve an experience bonus.
+EO27 - It's done. Just remember though, there's more to life than gaining enough experience points to reach the next level. There's a whole "real" world out there. Now that we have that out of the way, shall we try again?
+EO28 - Transcendency? Honestly, how do they expect me to spread the word out here when they don't even keep me up-to-date on the latest doctrine!?
+EO29 - Were you asleep during indoctrination? Hmmph - you are not one of the Enlightened!
+EO30 - So you're saying there's some higher power who creates us with a purpose and then just abandons us? I can't believe any being would be so callous. Come, embrace the Church of Hubology. Let us show you the true way.
+EO31 - Without control of your own life, though, what's the point? Nothing you do has any value. Did you choose to get up this morning? No, you're just a puppet by your own philosophy. Now, we at the church of Hubology have a true answer.
+EO32 - Oh, what a sad and empty philosophy that is! Even if it were true, the only course for you is to seek to develop yourself. It is the only thing you have any control over. The Church of Hubology can help.
+EO33 - Vault 13? Our scientists have been searching for it somewhere to the west. That is all I know. Are you sure you don't want an alignment?
+EO34 - I tell you, spreading the word of Hubology out here is harder than you can imagine! AHS-9 just doesn't understand the difficulty. In fact, I've written it all down. Say, would you be willing to deliver it to AHS-9 in San Francisco? I can't promise any reward, but I know AHS-9 will appreciate it.
+EO35 - Excellent. Here is the letter. Now, can I do anything else for you? A zeta-scan?
+EO36 - Then I've spoken too much already. Goodbye.
+EO37 - Greetings again. How can the Church of Hubology help you?
+EO38 - Killing me will serve no purpose. I'm not a threat to Merk, I simply irritate him because of my beliefs. I hope you'll refuse to honor the contract.
+EO39 - Close your eyes. This won't hurt a bit.
+EO40 - There. We erased a few nasty imprints! You are now an AHS-1. Now, if you'll excuse me, I have to tend my church.

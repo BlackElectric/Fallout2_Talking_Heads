@@ -1,0 +1,20 @@
+SHAM1 - [He appears deep in thought. Upon noticing you, he does a startled jump, then quickly regains his composure.] Uh, yes, outworlder? If you come seeking spiritual guidance, I'm afraid I'm not up to it at the moment. Perhaps... perhaps some other time.
+SHAM2 - Huh?! Oh, it's you again. You shouldn't sneak up on people like that. Look, I've got a lot on my mind at the moment. Perhaps I could help you some other time.
+SHAM3 - Yes, yes, very funny. Now run along. I'm busy.
+SHAM4 - Ah! Dammit! Get out of here! Go!
+SHAM5 - [He contemplates for a moment, then sighs.] This is rather embarrassing to admit but... You see, I've never actually *believed* in spirits, the afterlife, any of it. I know what you're thinking, what good is a shaman that doesn't believe? It's just that, well, it was either this or I take up a spear and hunt geckos with the warriors. Do I look like a warrior to you? Wait, don't answer that.
+SHAM6 - The offer is appreciated, but... No, no, this is a personal matter that I must face on my own.
+SHAM7 - Oh, I don't blame you. In fact, I disgust myself quite thoroughly. I don't know why I thought you might help me. I certainly don't deserve to be helped. I got myself into this situation, so it's up to me to get myself out of it. Now if you'll excuse me...
+SHAM8 - There's an *actual* lost spirit roaming the woods just south of the village! It's true, I've seen her with my own eyes--a pretty girl with the blank look of the dead. The sight chilled me to the very core. The moment I saw her I pissed myself and ran as fast as I could. The others expect me to go back and guide her into the mists, but how can I? I'm too petrified to go near her again.
+SHAM9 - You could go to her. Try to figure out why she lingers in the mortal realm. She appears in the woods to the south at night. If you could find out anything that could help me, I'd greatly appreciate it.
+SHAM10 - Well, up until just recently I was merely the underling of the village shaman. That was easy, I just had to follow his lead. Then he went for a drunken midnight swim in the Great Salt Water and, well, I suddenly found myself promoted. I didn't think it would be so bad. I figured I could just spout off some mystical mumbo-jumbo and everyone would be happy. But no. The very day that I acquire the title of shaman I find myself dealing with something that's way over my head.
+SHAM11 - Did you change your mind? Will you help me with the lost spirit?
+SHAM12 - You're back. Did you discover anything about the lost spirit?
+SHAM13 - Thorg?! He was the shaman that I served as an apprentice under. Wow, I knew he was a bit of an asshole, but I didn't take him for a slayer of pretty young girls. Hmm, I suppose a guilty conscience helps to explain that drunken midnight swim that lead to his death. So Thorg is a murderer... how 'bout that...
+SHAM14 - [Heavy sigh.] Now I suppose I have to send her into the mists. I think I'll be able to do it, but I need you to come with me. There's just no way I'd be able to face her alone and none of the others in the village will go--they believe it's an ill omen for a non-shaman to encounter a lost spirit.
+SHAM15 - Please tell me you've reconsidered. You'll come with me to take care of the lost spirit, right?
+SHAM16 - Thank you for helping us rescue Serin. I gave him some herbs to help him rest and ease his pain. He should be back up and about after a couple days.
+SHAM17 - Actually, yes, I suppose there is something. Healing Serin has exhausted most of my herb supply. If you could fetch me five Xander Roots and three Broc Flowers, I'd be most grateful.
+SHAM18 - Because, I'm very... particular about things. It's all about balance, certain numbers... [He frowns.] Look, I don't expect you to understand, but that's just the way I am. I need five Xander Roots and three Broc Flowers, no more, no less. Will you help me?
+SHAM19 - Have you obtained the items I need?
+SHAM20 - Lets see here... Oh, excellent. These will work well. Here, take some healing powder for your time.

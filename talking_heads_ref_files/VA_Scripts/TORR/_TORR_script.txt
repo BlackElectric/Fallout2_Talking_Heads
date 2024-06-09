@@ -1,0 +1,30 @@
+TORR1 - You bad. You hurt Torr. Go away now!
+TORR2 - Go bad person! No hurt Torr.
+TORR3 - Torr help! (Please help me. There's some sort of creature preventing me from escaping from this place.)
+TORR4 - Torr help!
+TORR5 - Squea Squea bad! Hep Torr! (Watch out for the Spirit that Walks! We can talk after you get me out of here.)
+TORR6 - Squea Squea! Ack! Spirit Bad! Hep Torr! Torr go now!
+TORR7 - Me Torr. (I'm Torr. Can I help you with anything?)
+TORR8 - Me Torr.
+TORR9 - Me guard moo-moos from bugmen. (I guard our family's brahmin herd from ferocious nocturnal attacks by bipedal, carapaced creatures that I call bugmen.)
+TORR10 - Me guard moo-moos from bugmen.
+TORR11 - Bugmen take moo-moos at night. Torr scared! Hep Torr? (Well, as I said, they are nocturnal in their feeding habits. I sure could use some assistance in guarding the brahmin. Will you kill any bugmen that you see near the brahmin?)
+TORR12 - Bugmen take moo-moos at night. Torr scared! Hep Torr?
+TORR13 - You hep Torr. Moo-moos field (points east of here) dark yes? (smiles) (Thanks for your assistance. I can really use your help tonight.)
+TORR14 - You hep Torr. Moo-moos field (points east of here) now yes? (smiles) (Thanks for your assistance. I can really use your help.)
+TORR15 - You hep Torr. Moo-moos field. (points east of here) dark yes? (smiles)
+TORR16 - You hep Torr. Moo-moos field. (points east of here) now yes? (smiles)
+TORR17 - Torr tell? (What would you like to know, my friend?)
+TORR18 - Ook! Ugmen, Ulik ribal, Smiley mook. (Well, there's my bugmen problem. Then there's Sulik, the tribal, that my mom is making work off a debt -- I think sis is in love with him. Mom's boyfriend, a fellow named Smiley, is missing someplace out to the west. Quite exciting here, lately.)
+TORR19 - Zzzzz? Torr Zzzzz. (Well, you're welcome to sleep in my room -- no charge.)
+TORR20 - Uckner! Zoogy (I think you'll get the best prices right here at my family's place. You'll only get laughed at in the Golden Gecko.)
+TORR21 - Jeannie? Gick Vic (So you want a GECK, huh? Weren't those originally issued to vaults? I don't know where you'd find one, but if anyone does it would be Vic, the trader. He specializes in prewar things. He lives in the northeast part of Klamath.)
+TORR22 - Torr like Friend. Torr thank. Bugmen bad, no let bugmen eat moo-moos! (Thanks so much for helping me out. These bugmen give me the creeping willies. I hope we can keep any brahmin from being lost.)
+TORR23 - Torr like Friend. Torr thank. Bugmen bad, no let bugmen eat moo-moos!
+TORR24 - Ook? Hep moo-moos hep Torr? No bugmen! Bugmen bad! (Are you here to help me guard the brahmin from the assault of the Bugmen?)
+TORR25 - Ook? Hep moo-moos hep Torr? No bugmen! Bugmen bad!
+TORR26 - Torr love Friend. Torr love ma. Torr love fa. (I'm so happy you found me. I was really thinking that I was going to buy the farm that time.)
+TORR27 - Torr love Friend. Torr love ma. Torr love fa.
+TORR28 - Torr see Friend! (Hello again, friend. Can I help you with anything?)
+TORR29 - Torr go get hep! (Torr scampers off into the night, leaving you alone with the moo-moos, uh, brahmin.)
+TORR30 - Tragu? Oo Kramat? Ick boo Den. (A trader here in Klamath? Why yes, Vic trades in antiquities for the most part. He's not in town right now. I think he might be trading things at the Den. That's south of here.)

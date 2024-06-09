@@ -1,0 +1,12 @@
+QM21 - Who the hell are you guys... Alert! Intruders on the base!
+QM22 - What the... I can see why you're here. You obviously want to get rid of that antique suit you're wearing.
+QM23 - Why are you out of uniform, soldier?
+QM24 - I'm busy right now. Come back later.
+QM25 - Uh, what? Can't think of a good excuse? I'm waiting, soldier!
+QM26 - You're a bit on the slow side, aren't you? (sigh) Well, that's not your fault. I have a brother just like you. Anyway, are you new here? I don't recall seeing you before.
+QM27 - Are you new here? I don't recall seeing you before.
+QM28 - Well, you'll need your standard issue, then. Go into the armory, suit up, and take your weapon. You should report to the Drill Sergeant afterwards.
+QM29 - You're welcome. Now get out of here. I've got work to do and I don't want to be disturbed.
+QM210 - Hello, recruit. I just got a call from your Sergeant. He says I'm to suit you up and send you back to him. That right?
+QM211 - This base is on alert and I don't recognize you. Show me your papers, soldier.
+QM212 - Wrong answer. You're to carry your papers with you at all times and you should know that!

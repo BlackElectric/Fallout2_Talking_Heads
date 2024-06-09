@@ -1,0 +1,49 @@
+GORIS1 - Hello, I'm Goris. I don't recognize you; are you new here?
+GORIS2 - It's a pleasure to meet you, Human. So you're an outsider! I've seen a few like you; some are staying here in the vault, but you look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around a bit and accomplished things. Am I right?
+GORIS3 - So you've talked with Gruthar. He has a rather inflated opinion of me. I don't really know half as much as he thinks I do. Anyway... So you're an outsider! I've seen a few like you; some are staying here in the vault, but you look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around a bit and accomplished things. Am I right?
+GORIS4 - So you're an outsider! I've seen a few like you; some are staying here in the vault, but you look different. You appear to be more 'seasoned,' if you know what I mean. I'll bet you've been around a bit and accomplished things. Am I right?
+GORIS5 - It's a deal! I would love to hear anything you can tell me. What would you like to know?
+GORIS6 - Besides, I couldn't refuse a friend of Gruthar. What would you like to know?
+GORIS7 - What would you like to know?
+GORIS8 - Hmm... I'm surprised Gruthar didn't tell you about me. Oh well. 
+GORIS9 - I'm a student of sorts. I'm trying to learn as much as I can about the world and the different cultures that have developed. Right now I'm studying the culture the deathclaws are forming and comparing it to human development along similar lines. I've acquired just about all the information I need here. It would help my research a great deal if I could do some traveling. However, I don't want to go it alone, if you know what I mean.
+GORIS10 - No, I can leave any time I like. I haven't done so because I don't want to travel alone. I'm pretty tough and can take care of myself, but I would still be one person alone in the desert if anything happened.
+GORIS11 - Uh... a few months actually. I came here from the coast a while back.
+GORIS12 - These aren't your average deathclaws, as I'm sure you noticed. They've had their intelligence enhanced by some means not understood by them. It was done by a group of humans known as 'The Enclave.' It seems this Enclave needed an army and they chose deathclaws because of their ferocity, physical prowess, and... well, you get the picture. Anyway, the only thing lacking in deathclaws was their intelligence. They needed to be smart enough to understand complex commands, but not so smart that they'd be a threat to 'those in charge.'
+GORIS13 - So, the Enclave started messing with a virus, or some such thing, and injected the deathclaws with it. This virus was known to mutate humans into some sort of super beings, so the Enclave wanted to see what it would do to deathclaws. Well, the result was a breed of deathclaws so smart that they could see they were destined for slavery. So, they played dumb until they could gain their freedom. And here they are!
+GORIS14 - ::sigh:: They were captured by The Enclave. Gruthar and the pack were forced to aid in their capture. They had no choice since they were slaves at the time. The fate of the humans has weighed heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the affair. The humans were taken alive, but who knows what has happened to them since?
+GORIS15 - (Sigh) They were captured by a group called 'The Enclave.' Gruthar and the pack were forced to aid in their capture. They had no choice since they were slaves at the time. The fate of the humans has weighed heavily on Gruthar's mind. He's never really forgiven himself for his complicity in the affair. The humans were taken alive, but who knows what has happened to them since.
+GORIS16 - Gruthar is not the monster that he appears to be. He genuinely cares about all of us here, and is doing everything he can to ensure our safety and survival. All of us trust him with our lives. I don't know what else I can say about him. You would have to get to know him and judge for yourself.
+GORIS17 - Well... the potential is there, especially when you take their new intelligence into account. However, I don't think that Gruthar and his pack pose a threat. They all seem to respect life and personal freedom above all else. Now, I don't expect you to take my word on this. I would ask you to judge for yourself. There are others who live here whom you can ask your questions.
+GORIS18 - No, only what I've told you. Wait, there is one other thing. The Enclave showed an interest in some ruins to the west of here. Why, I don't know. That's about it.
+GORIS19 - I think it's called the FEV virus. The Enclave is, or was, doing extensive research on it. I'm sorry, but I don't know anything more.
+GORIS20 - I've kept my part of our bargain and answered all of your questions. Now, how about those adventure stories you promised?
+GORIS21 - (Goris hesitates and you get the feeling you are being carefully scrutinized.) I would be honored to join you!
+GORIS22 - Human, but you've got too many people with you now. I'll wait here until a position opens.
+GORIS23 - (Goris hesitates and you get the feeling you are being carefully scrutinized.) I'm sorry, but I don't think that you and I share the same ideals. A joint venture would not be in our best interest.
+GORIS24 - Yeah, you know, well traveled... knowledgeable... experienced... You don't have a clue what I'm talking about, do you? 
+GORIS25 - Uh huh. Well, your IQ may be smaller than your shoe size, but you obviously have something going for you to have survived in the world this long... Ok, let's try this. Me want leave this place. Me want travel with you. Ok?
+GORIS26 - Uh huh. Well, your IQ may be smaller than your shoe size but you obviously have something going for you to have survived in the world this long... it must be that mean streak I can sense in you. Oh, well. Good-bye.
+GORIS27 - I'm sorry, I didn't mean to pry into your private affairs.
+GORIS28 - You have had some interesting times. You are the stuff that heroes are made from, and I envy you. Thanks for telling me everything.
+GORIS29 - Well... you are a walking quest for carnage, and I think I'll be going now. Thanks, and bye!
+GORIS30 - Hello again. What's up?
+GORIS31 - What can I do for you,
+GORIS32 - What can I do for you, Human?
+GORIS33 - How do I put this... Bad thing you kill, no talk. Me not tell you so you see me good thing. Not kill me. Okay me stay with you?
+GORIS34 - I'm sorry to have deceived you, but humans have a habit of shooting deathclaws on sight. I felt that it would be to my advantage to hide my identity until you could see for yourself that I am on your side in this venture. If you want me to leave, I'll do so. But I would rather stay and help you on your quest. I want to show that humans and deathclaws can work together as friends, not enemies.
+GORIS35 - Yes, Human? 
+GORIS36 - I'm healed and ready to go, Human. 
+GORIS37 - I'm almost completely healed, Human. 
+GORIS38 - I'm mostly healed, but I could use some assistance when we get the chance, Human. 
+GORIS39 - I've healed myself as much as I can, but I'm still pretty badly hurt, Human. 
+GORIS40 - I'll be waiting here for you when you get back, Human. 
+GORIS41 - I do my best to look inconspicuous, Human. 
+GORIS42 - I'll stay as close as I can, Human. 
+GORIS43 - I'll move out a bit and give you room to breathe, Human. 
+GORIS44 - I'll hang back and give you some room, Human. 
+GORIS45 - I'm sorry, Human, but you've got too many people with you now. I'll wait here until a position opens.
+GORIS46 - I think I will do better on my own.
+GORIS47 - I've learned a lot from our travels together. I'll gladly come with you,  Human. 
+GORIS48 - I suddenly sense that my pack is in trouble. I am sorry to leave you, but I must check on my brothers.
+GORIS49 - I wish to avenge my brethren.

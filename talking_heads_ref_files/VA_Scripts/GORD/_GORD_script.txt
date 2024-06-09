@@ -1,0 +1,34 @@
+GORD1 - Hello there. My name's Gordon. Gordon of Gecko.
+GORD2 - Hello again Smoothskin.
+GORD3 - I look for opportunities.
+GORD4 - I look for ways of maximizing my potential worth.
+GORD5 - I am greedy. But most people misunderstand greed. Greed is a powerful driving force. Throughout history, mankind's greatest achievements were driven by men that wanted to better their positions. Driven by greed. Greed, for lack of a better word, is good.
+GORD6 - So far, not much. But in greed lies Gecko's salvation. I have important information about the survival of Gecko, but I can't get anyone to listen to me.
+GORD7 - Well, I've calculated that if our reactor was running properly, we could generate an enormous amount of excess power -- far more than Gecko needs.
+GORD8 - Well, now that you've helped to repair our atomic power plant I have a much better chance of getting what I want. Maximizing my potential.
+GORD9 - I've also found out, from a very reliable source, that Vault City cannot expand without additional power.
+GORD10 - Vault City, you see, has enough power for their current needs -- as long as they're careful. But the Vault power plant that they use was never designed for the increased load their city is putting on it. It's at peak capacity right now. Without more power, they can't expand.
+GORD11 - Well, if our power plant's working better, we could trade our excess power and technical expertise to Vault City in exchange for medical technology. 
+GORD12 - Without more power Vault City will burn out their reactor within 15 years. If Gecko's reactor isn't repaired, we won't last half that time. Without medical technology, all of us Ghouls are going to die off in the next 20 years, anyway. Everyone loses if Vault City and Gecko don't cooperate.
+GORD13 - Not at all. I've got my end covered. I'd be the natural choice to administer this project. Greed is my driving force, but thousands of lives are saved by it. Greed is good. At least it would be, if I could get anyone in Vault City to read my economic data.
+GORD14 - I tally up economic data on Gecko's economy and report it to Harold. But he usually doesn't listen to me.
+GORD15 - One night, I heard a voice calling to me from the reactor pit over there. A voice out of the shadows. I didn't know what to think at first, but what the voice said sure made a lot of sense. Its figures all check out, too. Don't know who or what the voice is, but the facts all tally up just like it said. 
+GORD16 - Mostly on ways of maximizing potential worth. My potential worth. 
+GORD17 - Why not?
+GORD18 - Well, I have all the relevant economic data on a disk. You may have it, if you promise to show the data to someone in Vault City that can understand and make use of the data it contains. But be discreet with it... not everyone there will be happy you talked to us ghouls.
+GORD19 - Humph, I don't need your help. You're just a tribal.
+GORD20 - Delivering that data to Vault City is only one of the many steps you need to take. Our atomic power plant is still barely operational and needs to be fixed.
+GORD21 - Our atomic power plant is still barely operational. You must not take the information to Vault City yet.
+GORD22 - Thanks for fixing our atomic power plant. The next step in old Gordon of Gecko's plan is working nicely. Greed is a wonderful thing. You should be proud to be a part of this.
+GORD23 - We're doomed. We're all doomed. Nothing can save us now. Just go away.
+GORD24 - Just get away from me.
+GORD25 - I really owe you. Now I can get everything I've ever wanted. All at Gecko and Vault City's expense. Just as soon as I'm ratified as the new foreman. Yessir, that Harold's really out on his ass now.
+GORD26 - I see you have the symbol. Are you here for the information?
+GORD27 - You wear the symbol of Renewal. You are one of us. Renew, comrade! Renew!
+GORD28 - Did he send you for the data disk?
+GORD29 - Ah, well, there can never be too many in our cause. More comrades means a better chance for old Gordon here to get what he wants. Are you here for the disk?
+GORD30 - Here it is, but don't let the wrong person know that you have it. Give it only to Councilman McClure in Vault City.
+GORD31 - It's the economic data disk that proves that Gecko and Vault City must both work together in order for either of us to survive. Are all of you smoothskins such smallbrains?
+GORD32 - Ah, of course. (wink, wink) We have all "found" the symbol. Renew, comrade! Are you here for the disk?
+GORD33 - A corpse? Which one of us died?
+GORD34 - The facts speak for themselves. If you show it to someone with an open enough mind, the data will do all the convincing they'll need.

@@ -1,0 +1,36 @@
+DRAGO1 - How may I be of assistance?
+DRAGO2 - I am afraid I do not understand your language. ::he bows:: Good day.
+DRAGO3 - I am the Dragon, friend. I fight oppression and my enemy, Lo Pan, who desires to control this town. I fight, and I teach others to fight.
+DRAGO4 - Then we will begin.
+DRAGO5 - Lessons are more than just physical, grasshopper. Ponder this and return tomorrow.
+DRAGO6 - Your skills will only be advanced though their use. I can no longer help you in your study.
+DRAGO7 - It appears that you need no more training from me.
+DRAGO8 - ::he looks at you closely:: I do not believe you would use the knowledge for good. Good day.
+DRAGO9 - Please excuse my rudeness. I cannot speak with you right now.
+DRAGO10 - That was Lo Pan. He is my sworn enemy and my rival. If he triumphs over me, then I fear for the good of the people.
+DRAGO11 - You truly believe this? Then perhaps you should deal with Lo Pan. Good day.
+DRAGO12 - That I must. Yet we are still evenly matched, I fear. Even in our followers, we are matched. It will take one person to throw the balance.
+DRAGO13 - Are you? Perhaps we should test you. I will only have him bested in honest combat.
+DRAGO14 - Those who fight without honor are no better than animals!
+DRAGO15 - First we determine if you wish this to be a fight to the finish, or a test of your skills against mine.
+DRAGO16 - You are not the right one for this duty. Good day.
+DRAGO17 - You think so? War and fighting seem unavoidable. Better we should fight with rules and codes than giving in to sheer destruction. 
+DRAGO18 - Very well. Let us enter the ring and fight until one of us can no longer move.
+DRAGO19 - Ah, a warrior. I shall pit you against my men to see how well you fare. Let us begin.
+DRAGO20 - You have already defeated my men, and you have passed my test. You are ready fight Lo Pan.
+DRAGO21 - You have already defeated my men. No others wish to challenge you.
+DRAGO22 - Yet, in a formalized fighting environment, you cannot dispute that you have entered this arena of your own choosing. Once you have so entered, should you not abide by its rules?
+DRAGO23 - You have a point. Well then. If you wish to fight Lo Pan, will you do it unarmed and unarmored? If we are to ask for your aid in this, we request that you abide by our rules.
+DRAGO24 - Excellent. Then let us see if your skills are strong enough to fight Lo Pan.
+DRAGO25 - I am the Dragon, protector of the people and sworn enemy of Lo Pan. He and I are the last masters of our fighting style.
+DRAGO26 - You have attempted to dishonor my people, so now I must kill you. I apologize if I hurt you as you die.
+DRAGO27 - Do not speak to me, sheep of the Hub. I have no use for your kind.
+DRAGO28 - You have the honor of a pig and the morals of a lungfish. I do not wish to associate with you.
+DRAGO29 - You are truly amazing in your fighting skills. Will you fight Lo Pan?
+DRAGO30 - I understand. Should you change your mind, you know where to find him. Simply tell him you come in the name of the Dragon.
+DRAGO31 - I have recently returned from a mission of honor. We were strong that night.
+DRAGO32 - Lo Pan is dead! I have you to thank, I am sure. Now I am confident that my school will lead our fighting style into the future.
+DRAGO33 - Even though you did not know, you have helped our cause by removing Lo Pan. You have our thanks.
+DRAGO34 - First, you will need to prove you can do it. I will have you go up against five of my fighters - one at a time. If you beat them then you will receive your final test.
+DRAGO35 - You will be tested against my chosen apprentice. However, none of these battles will be to the death.
+DRAGO36 - [The Dragon studies you] I regretfully cannot let one of your skill level hurt himself.
