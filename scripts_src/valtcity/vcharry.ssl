@@ -214,7 +214,7 @@ procedure talk_p_proc begin
    else begin
        move_inven_to_temp_box
        move_inven_from_box
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_HHARY,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node001;
        gSay_End;

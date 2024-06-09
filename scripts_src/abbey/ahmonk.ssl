@@ -125,7 +125,7 @@ procedure talk_p_proc begin
    more_info := 0;
    if (not dude_is_stupid) then begin
       //start_gdialog(NAME,self_obj,4,ABBEY_HEADMONK,BACKGROUND_CATHEDRAL);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ABOTT,BACKGROUND_CATHEDRAL);
       gSay_start;
       call Node001a;
       gSay_end;
@@ -133,14 +133,14 @@ procedure talk_p_proc begin
    end else begin
       if (global_var(GVAR_ABBEY_BEAST) == 2) then begin
          //start_gdialog(NAME,self_obj,4,ABBEY_HEADMONK,BACKGROUND_CATHEDRAL);
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ABOTT,BACKGROUND_CATHEDRAL);
          gSay_start;
             call Node009;
          gSay_end;
          end_dialogue;
       end else if (global_var(GVAR_ABBEY_BEAST) == 3) then begin
          //start_gdialog(NAME,self_obj,4,ABBEY_HEADMONK,BACKGROUND_CATHEDRAL);
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ABOTT,BACKGROUND_CATHEDRAL);
          gSay_start;
             call Node028;
          gSay_end;

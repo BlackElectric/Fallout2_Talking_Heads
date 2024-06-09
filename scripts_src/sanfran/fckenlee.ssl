@@ -255,7 +255,7 @@ end
 
    if (local_var(LVAR_Pissed) == 0) then begin
       if (san_fran_flag(SF_SHI_ENEMY)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node026;
          gSay_End;
@@ -263,13 +263,13 @@ end
       end else if (local_var(LVAR_State) == STATE_INSULTED) then begin
          call Node036;
       end else if (local_var(LVAR_State) == STATE_NONAME) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node037;
          gSay_End;
          end_dialogue;
       end else if (san_fran_flag(SF_OZ9_DEAD)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node030;
          gSay_End;
@@ -277,31 +277,31 @@ end
       end else if (struggle_flag(STRUG_SHIRECRUIT)) then begin
          call Node038;
       end else if (elron_whirly(EL_WH_GIVEN) and shi_whirly(SH_WH_ACCEPTED)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node033;
          gSay_End;
          end_dialogue;
       end else if (shi_whirly(SH_WH_GIVEN)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node034;
          gSay_End;
          end_dialogue;
       end else if (shi_whirly(SH_WH_ACCEPTED) or shi_whirly(SH_WH_STEALELE)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node035;
          gSay_End;
          end_dialogue;
       end else if (shi_whirly(SH_WH_REJECTED)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node018;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node001;
          gSay_End;
@@ -343,13 +343,13 @@ procedure talk_p_proc begin
       end else if (local_var(LVAR_State) == STATE_INSULTED) then begin
          call Node036;
       end else if (local_var(LVAR_State) == STATE_NONAME) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node037;
          gSay_End;
          end_dialogue;
       end else if (san_fran_flag(SF_OZ9_DEAD) and /*not san_fran_flag(SF_LEE_OK_FUEL_TANKER) and*/ not (SHI_WANT_PLANS) and dude_iq > 3) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node030;
          gSay_End;
@@ -357,31 +357,31 @@ procedure talk_p_proc begin
       end else if (struggle_flag(STRUG_SHIRECRUIT)) then begin
          call Node038;
       end else if (elron_whirly(EL_WH_GIVEN) and shi_whirly(SH_WH_ACCEPTED)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node033;
          gSay_End;
          end_dialogue;
       end else if (shi_whirly(SH_WH_GIVEN)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node034;
          gSay_End;
          end_dialogue;
       end else if (shi_whirly(SH_WH_ACCEPTED) or shi_whirly(SH_WH_STEALELE)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node035;
          gSay_End;
          end_dialogue;
       end else if (shi_whirly(SH_WH_REJECTED)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node018;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KENSF,BACKGROUND_MILITARYBS);
          gSay_Start;
             call Node001;
          gSay_End;

@@ -266,7 +266,7 @@ procedure talk_p_proc begin
       call Node002;
    else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_CAPTAIN_GUARD ) then begin
       if( local_var( LVAR_Herebefore ) == 0 ) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
          gSay_Start;
             call Node005;
          gSay_End;
@@ -274,7 +274,7 @@ procedure talk_p_proc begin
          set_local_var( LVAR_Herebefore, 1 );
       end
       else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
          gSay_Start;
             call Node036;
          gSay_End;
@@ -287,7 +287,7 @@ procedure talk_p_proc begin
       call Node004;
    else if( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_REAL_CITIZEN ) then begin
       if( local_var( LVAR_Herebefore ) == 0 ) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
          gSay_Start;
             call Node005;
          gSay_End;
@@ -295,7 +295,7 @@ procedure talk_p_proc begin
          set_local_var( LVAR_Herebefore, 1 );
       end
       else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
          gSay_Start;
             call Node036;
          gSay_End;
@@ -303,7 +303,7 @@ procedure talk_p_proc begin
       end
    end
    else if( (global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_KICKED_OUT) or ( local_var(LVAR_Wallace_Pissed) == 1 ) ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
       gSay_Start;
          call Node013;
       gSay_End;
@@ -311,7 +311,7 @@ procedure talk_p_proc begin
    end
    else dude_wearing_vault_suit begin
       if( local_var(LVAR_Gave_Day_Pass) == 0 ) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
          gSay_Start;
             call Node011;
          gSay_End;
@@ -319,7 +319,7 @@ procedure talk_p_proc begin
       end
       else begin
          if( local_var(LVAR_Herebefore) == 0 ) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
             gSay_Start;
                call Node005;
             gSay_End;
@@ -327,7 +327,7 @@ procedure talk_p_proc begin
             set_local_var( LVAR_Herebefore, 1 );
          end
          else begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
             gSay_Start;
                call Node036;
             gSay_End;
@@ -336,7 +336,7 @@ procedure talk_p_proc begin
       end
    end
    else if( local_var(LVAR_Herebefore) == 0 ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
       gSay_Start;
          call Node005;
       gSay_End;
@@ -344,7 +344,7 @@ procedure talk_p_proc begin
       set_local_var( LVAR_Herebefore, 1 );
    end
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_WALL,BACKGROUND_ADOBE);
       gSay_Start;
          call Node036;
       gSay_End;

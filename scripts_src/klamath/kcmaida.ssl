@@ -240,7 +240,7 @@ procedure talk_p_proc begin
    end
    else begin
       move_obj_inven_to_obj(klam_bucknr_box_obj,self_obj);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MAIDA,BACKGROUND1);
       gSay_Start;
 
       if dude_low_iq then call Node002;

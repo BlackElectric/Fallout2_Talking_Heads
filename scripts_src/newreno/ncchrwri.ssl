@@ -161,7 +161,7 @@ procedure talk_p_proc begin
    end else if (wright_dead) then begin
       call Node004;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CW,BACKGROUND_FOLLOWER);
       gSay_Start;
          if (dude_family == self_family) then begin
             call Node006;

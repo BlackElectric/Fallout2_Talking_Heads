@@ -121,14 +121,14 @@ procedure talk_p_proc begin
    GetReaction;
 
    if (global_var(GVAR_NAVARRO_BASE_ALERT) > 0) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_QM,BACKGROUND_ENCLAVE);
       gSay_Start;
         call Node008;
       gSay_End;
       end_dialogue;
    end
    else if (map_var(MVAR_Get_Armor) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_QM,BACKGROUND_ENCLAVE);
       gSay_Start;
         call Node007;
       gSay_End;
@@ -137,7 +137,7 @@ procedure talk_p_proc begin
    else begin
       if (local_var(LVAR_Herebefore) == 0) then begin
          set_local_var(LVAR_Herebefore,1);
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_QM,BACKGROUND_ENCLAVE);
          gSay_Start;
            call Node001;
          gSay_End;

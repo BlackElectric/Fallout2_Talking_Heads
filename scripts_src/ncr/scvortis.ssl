@@ -242,7 +242,7 @@ procedure talk_p_proc begin
          call Node023; //added by killap
    end else begin
       if (global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST_ACCEPTED) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_VORT,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node016;
          gSay_End;
@@ -251,14 +251,14 @@ procedure talk_p_proc begin
       //added by killap - expansion
       end else if (global_var(GVAR_NCR_VORTIS_QUEST_STATE) == VORTIS_QUEST2_ACCEPTED) then begin
          if (local_var(LVAR_Prepare_For_Attack) == 1) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VORT,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node032;
             gSay_End;
             end_dialogue;
             set_local_var(LVAR_Herebefore, 1);
          end else begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VORT,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node027;
             gSay_End;
@@ -267,7 +267,7 @@ procedure talk_p_proc begin
          end
       //end added
       end else if (local_var(LVAR_Herebefore) == 0) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_VORT,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node001;
          gSay_End;
@@ -275,13 +275,13 @@ procedure talk_p_proc begin
       end else begin
          ndebug("local_var(LVAR_reaction_level): " + local_var(LVAR_reaction_level));
          if (horrible_critter_reaction) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VORT,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node002;
             gSay_End;
             end_dialogue;
          end else begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_VORT,BACKGROUND_RAIDERS);
             gSay_Start;
                call Node001;
             gSay_End;

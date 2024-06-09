@@ -216,7 +216,7 @@ procedure talk_p_proc begin
    end
 
    else if (local_var(LVAR_Wanamingo_Deed) == Deed_Offered_Buy_Back) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ASCOR,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node025;
        gSay_End;
@@ -224,7 +224,7 @@ procedure talk_p_proc begin
    end
 
    else if (local_var(LVAR_Wanamingo_Deed) == Deed_Sold_To_Player) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ASCOR,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node015;
        gSay_End;
@@ -232,7 +232,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_JOB_ACCEPTED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ASCOR,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node026;
        gSay_End;
@@ -240,7 +240,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_KICKED_OUT) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ASCOR,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node030;
        gSay_End;
@@ -248,7 +248,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_PAID) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ASCOR,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node035;
        gSay_End;
@@ -256,7 +256,7 @@ procedure talk_p_proc begin
    end
 
    else if (map_var(MVAR_Widow_Rooney) == WIDOW_KILLED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ASCOR,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node036;
        gSay_End;
@@ -264,7 +264,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ASCOR,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node002;
        gSay_End;

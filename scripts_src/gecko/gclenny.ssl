@@ -27,9 +27,11 @@
 */
 #define SCRIPT_REALNAME "gclenny"
 #include "../headers/define.h"
+#include "../headers/sfall/define_lite.h"
 #include "../headers/gecko.h"
 #include "../headers/newr1.h" //added by killap
 #include "../headers/rpu.h"
+#include "../headers/partybkg.h"
 
 #define NAME                    SCRIPT_GCLENNY
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_GECKO)
@@ -404,7 +406,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-
+   find_party_background;
    visit_04_before:=0; //according to Matts doc these need to be
    visit_14_before:=0; //reset aat the beginning of each conversation
 
@@ -416,7 +418,7 @@ procedure talk_p_proc begin
        call Node998;
    end
    else if (local_var(LVAR_Herebefore) == 0) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_LENNY,PartyMemberBackground);
        gSay_Start;
           call Node001;
        gSay_End;
@@ -426,7 +428,7 @@ procedure talk_p_proc begin
       floater(3005);
    end
    else if ((Lenny_In_Party) or (party_is_waiting)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LENNY,PartyMemberBackground);
       gSay_Start;
          call Node1000;
       gSay_End;
@@ -436,7 +438,7 @@ procedure talk_p_proc begin
       call Node003;
    end
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_LENNY,PartyMemberBackground);
        gSay_Start;
           call Node001;
        gSay_End;

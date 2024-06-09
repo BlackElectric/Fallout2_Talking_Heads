@@ -242,56 +242,56 @@ procedure talk_p_proc begin
       call Node001;
    end
    else if ( (dude_item_count(PID_SUPER_TOOL_KIT)) and (local_var(LVAR_Repair_Kit) != GIVEN) ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node025;
       gSay_End;
       end_dialogue;
    end
    else if (local_var(LVAR_Repair_Kit) == KNOWN) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node036;
       gSay_End;
       end_dialogue;
    end
    else if (local_var(LVAR_Upgrade) == OFFERED) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node032;
       gSay_End;
       end_dialogue;
    end
    else if (dude_item_count(PID_PLASMA_TRANSFORMER)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node006;
       gSay_End;
       end_dialogue;
    end
    else if (global_var(GVAR_GECKO_SKEETER_PART) == SKEETER_ASKED) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node008;
       gSay_End;
       end_dialogue;
    end
    else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_REPAIRED) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node007;
       gSay_End;
       end_dialogue;
    end
    else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_OPTIMIZED) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node007;
       gSay_End;
       end_dialogue;
    end
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKEET,BACKGROUND_HUB);
       gSay_Start;
          call Node009;
       gSay_End;

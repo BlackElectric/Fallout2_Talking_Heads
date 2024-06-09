@@ -221,38 +221,38 @@ end
 
 procedure talk_p_proc begin
    if ((local_var(LVAR_Herebefore) <= 1) and (global_var(GVAR_TRIBE_GHOST) == 0)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SHAM,BACKGROUND_TENT);
       gSay_Start;
          call Node001;
       gSay_End;
       end_dialogue;
    end else if ((local_var(LVAR_Herebefore) == 2) and (global_var(GVAR_TRIBE_GHOST) == 0)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SHAM,BACKGROUND_TENT);
       gSay_Start;
          call Node009;
       gSay_End;
       end_dialogue;
    end else if ((local_var(LVAR_Herebefore) < 3) and ((global_var(GVAR_TRIBE_GHOST) == 1) or (global_var(GVAR_TRIBE_GHOST) == 2))) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SHAM,BACKGROUND_TENT);
       gSay_Start;
          call Node010;
       gSay_End;
       end_dialogue;
    end else if ((local_var(LVAR_Herebefore) == 3) and (global_var(GVAR_TRIBE_GHOST) == 2)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SHAM,BACKGROUND_TENT);
       gSay_Start;
          call Node013;
       gSay_End;
       end_dialogue;
    end else if (global_var(GVAR_TRIBE_SHAMAN_HERBS) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SHAM,BACKGROUND_TENT);
       gSay_Start;
          call Node018;
       gSay_End;
       end_dialogue;
    end else if ( ((global_var(GVAR_MISSING_WARRIOR) >= 5) and (global_var(GVAR_MISSING_WARRIOR) < 8)) and (local_var(LVAR_Heal_Serin) == 0) ) then begin
       set_local_var(LVAR_Heal_Serin,1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SHAM,BACKGROUND_TENT);
       gSay_Start;
          call Node014;
       gSay_End;

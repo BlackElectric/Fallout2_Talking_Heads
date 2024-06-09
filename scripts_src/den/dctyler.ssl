@@ -129,6 +129,15 @@ procedure Node034; //added by killap - expansion
 #define set_lockout_timer                 set_local_var(LVAR_Player_Lockout, game_time + ONE_GAME_HOUR);
 #define check_lockout_timer               game_time <= local_var(LVAR_Player_Lockout)
 
+#define th_start_dialog_at_node(x)                    if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_TYLER,BACKGROUND_NECROPOLIS);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
 
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
@@ -228,7 +237,7 @@ procedure critter_p_proc begin
          self_attack_dude;
       end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
          if not(local_var(LVAR_Said_Drunk_Attack)) then begin
-               start_dialog_at_node(Node034);
+               th_start_dialog_at_node(Node034);
          end
       end
    end
@@ -256,34 +265,34 @@ procedure talk_p_proc begin
       call Node002;
    //added by killap - expansion
    end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
-      start_dialog_at_node(Node034);
+      th_start_dialog_at_node(Node034);
    //end added
    end else if (gangwar(state_gangwar_1won)) then begin
       if (gave_money) then begin
          call Node003;
       end else begin
-         start_dialog_at_node(Node027);
+         th_start_dialog_at_node(Node027);
       end
    end else if (gang_trap(state_gang_trap_noshow)) then begin
       call Node004;
    end else if (gang_trap(state_gang_trap_set)) then begin
       call Node005;
    end else if ((gangwar(state_gangwar_fight)) or (gangwar(state_gangwar_coward))) then begin
-      start_dialog_at_node(Node024);
+      th_start_dialog_at_node(Node024);
    end else if (gangwar(state_gangwar_find)) then begin
-      start_dialog_at_node(Node018);
+      th_start_dialog_at_node(Node018);
    end else if (gangwar(state_gangwar_weakness)) then begin
       call Node023;
    end else if (gang_door(state_gang_door_never)) then begin
       if (check_lockout_timer) then begin
          call Node012;
       end else begin
-         start_dialog_at_node(Node033);
+         th_start_dialog_at_node(Node033);
       end
    end else if (gang_door(state_gang_door_yes)) then begin
       call Node032;
    end else begin
-      start_dialog_at_node(Node006);
+      th_start_dialog_at_node(Node006);
    end
    set_herebefore;
 end

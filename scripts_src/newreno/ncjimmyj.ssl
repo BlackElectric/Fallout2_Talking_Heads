@@ -137,6 +137,17 @@ procedure Node045;
                                           gdialog_set_barter_mod(local_var(LVAR_Barter_Penalty))
 #define check_recognize                   ((recognizes_pc == false) and ((enclave_destroyed) or (dude_has_porn_star_rep) or (dude_is_prizefighter) or (dude_is_made_man)))
 
+#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_JIMMY,BACKGROUND_FOLLOWER);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -209,9 +220,9 @@ procedure talk_p_proc begin
      gdialog_set_barter_mod(20);
 
    if (know_jjj) then begin
-      start_dialog_at_node(Node007);
+      th_start_dialog_at_node(Node007);
    end else begin
-      start_dialog_at_node(Node003);
+      th_start_dialog_at_node(Node003);
    end
    if (temp_barter_bonus) then begin
       temp_barter_bonus := false;

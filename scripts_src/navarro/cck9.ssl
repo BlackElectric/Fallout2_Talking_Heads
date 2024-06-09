@@ -21,6 +21,7 @@
 #include "../headers/define.h"
 #include "../headers/navdef.h"
 #include "../headers/navarro.h"
+#include "../headers/partybkg.h"
 //#include "../headers/<TownName.h>"
 
 #define NAME                    SCRIPT_CCK9
@@ -221,7 +222,7 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-
+   find_party_background;
    if (local_var(LVAR_Personal_Enemy) == 1) then begin
        if (local_var(LVAR_fixed) == 0) then begin
           call Node017;
@@ -239,7 +240,7 @@ procedure talk_p_proc begin
 //   else if (learning attempt) then begin
 //   end
    else if ((K9_In_Party) or (party_is_waiting)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_RDOG,PartyMemberBackground);
       gSay_Start;
          call Node1000;
       gSay_End;

@@ -166,6 +166,22 @@ procedure Node999;                                      // This Node is Always E
 
 #define mrs_bishop_in_bed                 ((self_tile == mrs_bishop_self_bed_tile) and (self_elevation == mrs_bishop_room_elev))
 
+#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_LBSHP,BACKGROUND_RAIDERS);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+
+#define th_check_forced_dialog                        if (forced_node != 0) then begin          \
+                                                         ndebug("calling forced dialog: "+forced_node);\
+                                                         th_start_dialog_at_node(forced_node);     \
+                                                         forced_node := 0;                      \
+                                                      end
+
 import variable angela_guard_obj;
 import variable mrs_bishop_safe_obj;
 variable prev_node;
@@ -269,7 +285,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   check_forced_dialog
+   th_check_forced_dialog
    else if ((mrs_bishop_rape) or (hostile)) then begin
       call Node103;
    end else if (mrs_bishop_in_bed) then begin
@@ -277,9 +293,9 @@ procedure talk_p_proc begin
    end else if (mrs_bishop_rejected) then begin
       call Node031;
    end else if ((mrs_bishop_banged) or (mrs_bishop_offer)) then begin
-      start_dialog_at_node(Node032);
+      th_start_dialog_at_node(Node032);
    end else begin
-      start_dialog_at_node(Node001);
+      th_start_dialog_at_node(Node001);
    end
    set_herebefore;
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);

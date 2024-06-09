@@ -205,7 +205,10 @@ procedure talk_p_proc begin
 //   GetReaction;
 
    if (not local_var(LVAR_Leave_Tile)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+      start_gdialog(NAME,self_obj,4,HEAD_BRIGE,BACKGROUND_WASTELAND_NIGHT);
+      else
+      start_gdialog(NAME,self_obj,4,HEAD_BRIGE,BACKGROUND_WASTELAND);
       gSay_Start;
          call Node001;
       gSay_End;

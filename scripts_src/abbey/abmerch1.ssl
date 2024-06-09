@@ -325,7 +325,10 @@ procedure talk_p_proc begin
       if ( ((game_time_hour >= 1900) or  (game_time_hour < 600)) and (global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) ) then
          floater(330);
       else if (global_var(GVAR_ABBEY_PUMP) < PUMP_FIXED) then begin
-           start_gdialog(NAME,self_obj,4,-1,-1);
+           if night then
+           start_gdialog(NAME,self_obj,4,HEAD_MERCH,BACKGROUND_WASTELAND_NIGHT);
+           else
+           start_gdialog(NAME,self_obj,4,HEAD_MERCH,BACKGROUND_WASTELAND);
            gSay_start;
                if (global_var(GVAR_ABBEY_PUMP) < PUMP_QUEST_GIVEN) then
                  call Node001;

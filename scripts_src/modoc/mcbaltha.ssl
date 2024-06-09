@@ -176,7 +176,7 @@ procedure talk_p_proc begin
    end else begin
       move_obj_inven_to_obj(modoc_balthas_box_obj, self_obj);
       script_overrides;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_BAL,BACKGROUND_JUNKTOWN);
       gSay_Start;
          if ((jonny_at_home) and (jonny_dead == false)) then begin
             if (node_3) then begin

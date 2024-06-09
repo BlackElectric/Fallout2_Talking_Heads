@@ -222,22 +222,25 @@ procedure kill_p_proc begin
 end
 
 procedure talk_p_proc begin
+
+   find_party_background;
+
   if (local_var(LVAR_Herebefore) == 0) then begin
       set_local_var(LVAR_Herebefore,1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CAT,PartyMemberBackground);
       gSay_Start;
          call Node001;
       gSay_End;
       end_dialogue;
   end else begin
       if ((Cat_Jules_In_Party) or (party_is_waiting)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_CAT,PartyMemberBackground);
          gSay_Start;
             call Node1000;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_CAT,PartyMemberBackground);
          gSay_Start;
             call Node013;
          gSay_End;
@@ -262,7 +265,7 @@ end
 procedure Node002 begin
    if (map_var(MVAR_Cat_Jules_Free) == 2) then begin
       Reply(5000);
-	   NOption(5001,Node999,004);
+	   BOption(5001,Node999,004);
 	   set_local_var(LVAR_Kill_NPC,1);
 	   destroy_object(tile_contains_pid_obj(CATJULES_HIB_HEX,dude_elevation,33556341));
       chamber:=create_object(33556343,CATJULES_HIB_HEX,dude_elevation);
@@ -271,7 +274,7 @@ procedure Node002 begin
          Reply(210);
          NOption(mstr(212) + dude_name + mstr(213),Node003,004);
       end else begin
-            Reply(211);
+         Reply(211);
          NOption(214,Node005,004);
          NOption(215,Node005,004);
       end
@@ -307,13 +310,13 @@ end
 
 procedure Node008 begin
    Reply(270);
-   NOption(272,Node011,004);
+   GOption(272,Node011,004);
    NOption(273,Node010,004);
 end
 
 procedure Node009 begin
    Reply(271);
-   NOption(272,Node011,004);
+   GOption(272,Node011,004);
    NOption(273,Node010,004);
 end
 
@@ -349,7 +352,7 @@ end
 
 procedure Node015 begin
    Reply(303);
-   NOption(304,Node016,004);
+   GOption(304,Node016,004);
 end
 
 procedure Node016 begin
@@ -360,7 +363,7 @@ end
 
 procedure Node017 begin
    Reply(311);
-   NOption(312,Node018,004);
+   GOption(312,Node018,004);
 end
 
 procedure Node018 begin
@@ -500,7 +503,7 @@ procedure Node1100 begin
    if (dude_charisma <= 1) then begin
       set_self_abandon_party;
       Reply(490+dude_is_female);
-      NOption((g_mstr(352)), Node012, 4);
+      BOption((g_mstr(352)), Node012, 4);
    end else if (dude_at_max_party_size) then begin
       set_self_abandon_party;
       Reply(500);

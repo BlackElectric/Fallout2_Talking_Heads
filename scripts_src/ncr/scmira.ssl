@@ -175,19 +175,19 @@ procedure talk_p_proc begin
    GetReaction;
 
    if (map_var(MVAR_Lenny_Dead) == 1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SKERI,BACKGROUND_ADOBE);
        gSay_Start;
            call Node003;
        gSay_End;
        end_dialogue;
    end else if (dude_is_stupid and dude_strength >= 7) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKERI,BACKGROUND_ADOBE);
       gSay_Start;
          call Node002;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SKERI,BACKGROUND_ADOBE);
       gSay_Start;
          call Node001;
       gSay_End;

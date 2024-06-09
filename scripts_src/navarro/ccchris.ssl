@@ -212,14 +212,20 @@ procedure talk_p_proc begin
 
    if( Door_Dialogue == 1 ) then begin
        Door_Dialogue := 0;
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND_NIGHT);
+       else
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND);
        gSay_Start;
           call Node023;
        gSay_End;
        end_dialogue;
    end
    else if( local_var( LVAR_Radio_Combat ) == 1 ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND_NIGHT);
+       else
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND);
        gSay_Start;
           call Node028;
        gSay_End;
@@ -229,14 +235,20 @@ procedure talk_p_proc begin
       call Node026;
    end
    else if ( (local_var(LVAR_Misled) == 1) and ( been_to_base ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND_NIGHT);
+       else
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND);
        gSay_Start;
           call Node024;
        gSay_End;
        end_dialogue;
    end
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND_NIGHT);
+       else
+       start_gdialog(NAME,self_obj,4,HEAD_CHRIS,BACKGROUND_WASTELAND);
       gSay_Start;
          // Node025 Reply is handled inside Node001. Dialog doesn't make sense otherwise.
          call Node001;

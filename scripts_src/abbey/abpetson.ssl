@@ -32,6 +32,7 @@ procedure talk_p_proc;
 procedure Node998; //combat
 procedure Node999; //end
 
+procedure Node999a;
 procedure Node999b;
 
 procedure Node001;
@@ -170,7 +171,7 @@ procedure talk_p_proc begin
    if (map_var(MVAR_Petersons_angry) == 1) then begin
       floater(700);
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_PET,BACKGROUND_JUNKTOWN);
           gSay_Start;
               if (local_var(LVAR_Herebefore) == 0) then
                   call Node001;
@@ -182,6 +183,10 @@ procedure talk_p_proc begin
 end
 
 procedure Node999 begin
+end
+
+procedure Node999a begin
+   set_map_var(MVAR_Crops_Stolen,1);
 end
 
 procedure Node999b begin
@@ -273,10 +278,9 @@ procedure Node010 begin
 end
 
 procedure Node010a begin
-   set_map_var(MVAR_Crops_Stolen,1);
    Reply(6061);
    NOption(608,Node005,4);
-   NOption(607,Node999,4);
+   NOption(607,Node999a,4);
    BOption(610,Node011,4);
 end
 

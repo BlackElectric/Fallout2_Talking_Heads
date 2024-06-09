@@ -266,7 +266,7 @@ procedure talk_p_proc begin
 
    else if ( (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REACTOR_DATA_ANALYZED) and
              (dude_item_count(PID_REACTOR_DATA_DISK)) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node046;
        gSay_End;
@@ -283,7 +283,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REPAIRED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node003;
        gSay_End;
@@ -295,7 +295,7 @@ procedure talk_p_proc begin
    end
 
    else if (local_var(LVAR_Festus) == USE_PART) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node017;
        gSay_End;
@@ -303,7 +303,7 @@ procedure talk_p_proc begin
    end
 
    else if (local_var(LVAR_Festus) == MORE_CONVINCE) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node016;
        gSay_End;
@@ -311,7 +311,7 @@ procedure talk_p_proc begin
    end
 
    else if (local_var(LVAR_Festus) == CONVINCE) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node015;
        gSay_End;
@@ -320,7 +320,7 @@ procedure talk_p_proc begin
 
    else if ((local_var(LVAR_Festus) < CHICKEN) and (dude_item_count(PID_HY_MAG_PART)) ) then begin
 //else if PC has part to repair the reactor
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node014;
        gSay_End;
@@ -328,7 +328,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_GECKO_SKEETER_PART) == SKEETER_ASKED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node031;
        gSay_End;
@@ -336,7 +336,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FEST,BACKGROUND_MILITARYBS);
        gSay_Start;
           call Node002;
        gSay_End;

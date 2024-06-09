@@ -339,13 +339,13 @@ procedure talk_p_proc begin
    end else if (doTalk == 1) then begin
       doTalk := 0;
       set_local_var(LVAR_Safe_Attack,1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHA2,BACKGROUND_JUNKTOWN);
       gSay_Start;
          call Node026;
       gSay_End;
       end_dialogue;
    end else if (map_var(MVAR_Chad_Draw) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHAD,BACKGROUND_JUNKTOWN);
       gSay_Start;
          call Node033;
       gSay_End;
@@ -363,7 +363,7 @@ procedure talk_p_proc begin
       dude_caps_adjust( 200);
       add_timer_event( self_obj, 1, 1 );
    end else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_CHAD,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node016;
        gSay_End;
@@ -371,7 +371,7 @@ procedure talk_p_proc begin
    end else if (bad_critter_reaction) then begin
       call Node016;
    end else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_CHAD,BACKGROUND_JUNKTOWN);
        gSay_Start;
 /*
              if (local_var(LVAR_Herebefore) == 0) then begin

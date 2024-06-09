@@ -198,13 +198,13 @@ procedure talk_p_proc begin
       if (lvar(LVAR_Hostile) == 1) then begin // You've been bad...
          call Node017;
       end else if (ZEEK_WAITING) then begin // Waiting for Darion to die
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ZEKE,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node014;
          gSay_End;
          end_dialogue;
       end else if (ZEEK_DARION_DEAD and not ZEEK_COMPLETE) then begin // Thank you
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ZEKE,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node015;
          gSay_End;
@@ -212,19 +212,19 @@ procedure talk_p_proc begin
       end else if (ZEEK_COMPLETE) then begin // Darion Dead and NCR Deal
          call Node016;
       end else if (andV15Status(V15_TRUST)) then begin // Friendly
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ZEKE,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node004;
          gSay_End;
          end_dialogue;
       end else if (lvar(LVAR_Herebefore) == 0) then begin // First Meeting: Get Lost
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ZEKE,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node001;
          gSay_End;
          end_dialogue;
       end else begin // Get Lost
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ZEKE,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node003;
          gSay_End;

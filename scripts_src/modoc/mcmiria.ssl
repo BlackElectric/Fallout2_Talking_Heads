@@ -32,6 +32,7 @@
 #include "../headers/command.h"
 #include "../headers/modoc.h"
 #include "../headers/modreact.h"
+#include "../headers/partybkg.h"
 
 /* Standard Script Procedures */
 procedure start;
@@ -315,7 +316,7 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-
+   find_party_background;
    if (dude_enemy_modoc == false) then begin
       if (is_staging_wedding) then begin
          if (get_sub_stage == wedding_stage_grisham_response) then begin
@@ -335,7 +336,7 @@ procedure talk_p_proc begin
             end
          end else begin
             did_node_14 := 0;
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_MIRIA,PartyMemberBackground);
             gSay_Start;
                if (Miria_In_Party) then begin
                   call PARTY_NODE_X;
@@ -430,7 +431,7 @@ procedure Node000 begin
    NOption(157,Node013,004);
    NOption(158,Node014,004);
    NOption(g_bye,Node999,004);
-   NOption(159,Node026,-003);
+   BOption(159,Node026,-003);
 end
 procedure Node002 begin
    Reply(160);
@@ -515,7 +516,7 @@ procedure Node018 begin
 end
 procedure Node019 begin
    Reply(196);
-   NOption(197,Node021,004);
+   BOption(197,Node021,004);
    if (dude_is_male) then begin
       NOption(mstr(198) + dude_name + mstr(199),Node022,004);
    end
@@ -545,10 +546,10 @@ procedure Node023 begin
 end
 procedure Node024 begin
    Reply(209);
-   NOption(210,Node025,004);
-   NOption(211,Node022,004);
-   NOption(212,Node020,004);
-   NOption(213,Node021,004);
+   GOption(210,Node025,004);
+   BOption(211,Node022,004);
+   BOption(212,Node020,004);
+   BOption(213,Node021,004);
    NOption(g_bye,Node999,004);
 end
 procedure Node025 begin
@@ -557,7 +558,7 @@ procedure Node025 begin
 end
 procedure Node026 begin
    Reply(216);
-   NOption(217,Node027,-003);
+   BOption(217,Node027,-003);
    NOption(218,Node999,-003);
 end
 procedure Node027 begin

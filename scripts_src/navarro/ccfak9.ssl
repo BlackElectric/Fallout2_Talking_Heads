@@ -175,14 +175,14 @@ procedure use_p_proc begin
    //   end
       //THIS NEEDS TO BE ADDED!
       else if (map_var(MVAR_Doctor_Dead) == 0) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_RDOG,BACKGROUND_ENCLAVE);
          gSay_Start;
             call Node012;
          gSay_End;
          end_dialogue;
       end
       else if ( local_var( LVAR_Part ) == 1 ) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_RDOG,BACKGROUND_ENCLAVE);
          gSay_Start;
             call Node013;
          gSay_End;
@@ -190,14 +190,14 @@ procedure use_p_proc begin
       end
       else if (local_var(LVAR_Herebefore) == 0) then begin
           set_local_var(LVAR_Herebefore,1);
-          start_gdialog(NAME,self_obj,4,-1,-1);
+          start_gdialog(NAME,self_obj,4,HEAD_RDOG,BACKGROUND_ENCLAVE);
           gSay_Start;
              call Node001;
           gSay_End;
           end_dialogue;
       end
       else begin
-          start_gdialog(NAME,self_obj,4,-1,-1);
+          start_gdialog(NAME,self_obj,4,HEAD_RDOG,BACKGROUND_ENCLAVE);
           gSay_Start;
              call Node011;
           gSay_End;

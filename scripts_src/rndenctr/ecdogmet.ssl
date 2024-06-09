@@ -17,7 +17,7 @@
 #define NAME                    SCRIPT_ECDOGMET
 
 #include "../headers/command.h"
-
+#include "../headers/partybkg.h"
 /* Standard Script Procedures */
 procedure start;
 procedure critter_p_proc;
@@ -326,28 +326,31 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
+
+   find_party_background;
+
    if (local_var(LVAR_Hostile) == 0) then begin
       if (Dogmeat_In_Party) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_DOGMT,PartyMemberBackground);
          gSay_Start;
             call Node1000;
          gSay_End;
          end_dialogue;
       end else if (party_is_waiting) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_DOGMT,PartyMemberBackground);
          gSay_Start;
             call Node001;
          gSay_End;
          end_dialogue;
       end else begin
          if ( (local_var(LVAR_Used_Iguana)) or (local_var(LVAR_Used_Dog_Food)) )then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_DOGMT,PartyMemberBackground);
             gSay_Start;
                call Node002;
             gSay_End;
             end_dialogue;
          end else dude_wearing_vault_suit begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_DOGMT,PartyMemberBackground);
             gSay_Start;
                call Node001;
             gSay_End;

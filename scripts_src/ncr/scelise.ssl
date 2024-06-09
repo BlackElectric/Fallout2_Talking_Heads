@@ -252,7 +252,7 @@ procedure talk_p_proc begin
    ReactToLevel; //added by killap
 
    if (has_rep_slaver) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,7,HEAD_ELISE,BACKGROUND_ADOBE);
       gSay_Start;
          call Node029;
       gSay_End;
@@ -261,20 +261,20 @@ procedure talk_p_proc begin
    end else if (global_var(GVAR_WIPED_OUT_SLAVER_CAMP) == 1) then begin
       set_local_var(LVAR_Prepare_For_Attack,0);
       if (local_var(LVAR_Herebefore) == 0) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
          gSay_Start;
             call Node044;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
          gSay_Start;
             call Node040;
          gSay_End;
          end_dialogue;
       end
    end else if (local_var(LVAR_Prepare_For_Attack) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
       gSay_Start;
          call Node038;
       gSay_End;
@@ -284,7 +284,7 @@ procedure talk_p_proc begin
    //end added
    end else if (dude_is_ranger) then begin
       if ( (town_known(AREA_SLAVER_CAMP) != MARK_STATE_UNKNOWN) and (global_var(GVAR_WIPED_OUT_SLAVER_CAMP) == 0) ) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
          gSay_Start;
             call Node050;
          gSay_End;
@@ -293,31 +293,31 @@ procedure talk_p_proc begin
          call Node024;
       end
    end else if (get_elise_seed == ELISE_REJECTED) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
       gSay_Start;
          call Node030;
       gSay_End;
       end_dialogue;
    end else if (ncr_global_state(NCR_SLAVES_FREE) /*and get_elise_seed == ELISE_TEST*/) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node020;
        gSay_End;
        end_dialogue;
    end else if (get_elise_seed == ELISE_TEST) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node019;
        gSay_End;
        end_dialogue;
    end else if (get_elise_seed == ELISE_OFFERED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node018;
        gSay_End;
        end_dialogue;
    end else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ELISE,BACKGROUND_ADOBE);
        gSay_Start;
            call Node001;
        gSay_End;

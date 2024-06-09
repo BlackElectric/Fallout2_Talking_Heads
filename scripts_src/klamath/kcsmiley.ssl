@@ -263,7 +263,7 @@ procedure talk_p_proc begin
 
    else if ( (local_var(LVAR_Herebefore) == 0) and (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) ) then begin
        set_local_var(LVAR_Herebefore, 1);
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SMILW,BACKGROUND_CAVE);
        gSay_Start;
            call Node001;
        gSay_End;
@@ -282,7 +282,7 @@ procedure talk_p_proc begin
        //while smiley is walking back to buckner
        //house he will say this
        set_global_var(GVAR_SMILEY_SUCCESS,0);//can't succeed twice
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SMILEY,BACKGROUND1);
        gSay_Start;
            call Node011;
        gSay_End;
@@ -294,7 +294,7 @@ procedure talk_p_proc begin
        //if you've already talked to Smiley while
        //he walked back ...now he will say this
        set_local_var(LVAR_Smiley_Reward,1);//don't reward more than once
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SMILEY,BACKGROUND1);
        gSay_Start;
            call Node013;
        gSay_End;
@@ -304,7 +304,7 @@ procedure talk_p_proc begin
 //NBK:FIX -check if smiley on toxic cave map
 //   else if (not on TOXIC_CAVE_MAP) then
    else if (cur_map_index != MAP_KLAMATH_TOXICCAVES) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_SMILEY,BACKGROUND1);
        gSay_Start;
            call Node012;
        gSay_End;
@@ -313,7 +313,7 @@ procedure talk_p_proc begin
 
    else begin
        if (global_var(GVAR_SMILEY_STATUS) < SMILEY_RETURNED) then begin
-          start_gdialog(NAME,self_obj,4,-1,-1);
+          start_gdialog(NAME,self_obj,4,HEAD_SMILW,BACKGROUND_CAVE);
           gSay_Start;
              call Node006;
           gSay_End;

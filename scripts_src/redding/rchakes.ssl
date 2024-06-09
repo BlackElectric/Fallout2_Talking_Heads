@@ -171,7 +171,7 @@ procedure talk_p_proc begin
    end
 
    else if (global_var(GVAR_REDDING_WHORE_CUT) == WHORE_CUT_CUT) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_OBAD,BACKGROUND_JUNKTOWN);
        gSay_Start;
            call Node005;
        gSay_End;

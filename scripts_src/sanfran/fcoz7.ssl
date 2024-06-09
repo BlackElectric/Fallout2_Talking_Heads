@@ -241,75 +241,75 @@ procedure talk_p_proc begin
          set_map_var(MVAR_Force_Fields_Lower, 0);
       call Node039;
    end else if (elron_flag(EL_SPOKEN)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node013;
       gSay_End;
       end_dialogue;
    end else if (elron_flag(EL_ASKED)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node018;
       gSay_End;
       end_dialogue;
    end else if (elron_flag_any < EL_ACCEPTED) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node002;
       gSay_End;
       end_dialogue;
    end else if (elron_flag(EL_ACCEPTED)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node023;
       gSay_End;
       end_dialogue;
    end else if (elron_flag(EL_ACBADGEROFFER)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node027;
       gSay_End;
       end_dialogue;
    end else if (elron_flag(EL_ACBADGER)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node028;
       gSay_End;
       end_dialogue;
    end else if (san_fran_flag(SF_GAS_ELRONS)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node030;
       gSay_End;
       end_dialogue;
    end else if ((struggle_flag_any < STRUG_ELRECRUIT and not struggle_flag(STRUG_SHIDOUBLE)) and (elron_flag_any >= EL_ACCEPTED and not san_fran_flag(SF_ELRON_ENEMY))) then begin
       if (local_var(LVAR_Node22_Count) == 0) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
          gSay_Start;
             call Node020;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
          gSay_Start;
             call Node022;
          gSay_End;
          end_dialogue;
       end
    end else if (not struggle_flag(STRUG_DONE) and (struggle_flag_any >= STRUG_ELRECRUIT or struggle_flag(STRUG_SHIDOUBLE))) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node025;
       gSay_End;
       end_dialogue;
    end else if (dude_iq < 4) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node003;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node023;
       gSay_End;
@@ -822,7 +822,7 @@ procedure doAdjustLesson1 begin
    end else if (adjustLesson == 2) then begin
       ndebug("FCOZ7: enabling ui");
       game_ui_enable;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS7,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node038;
       gSay_End;

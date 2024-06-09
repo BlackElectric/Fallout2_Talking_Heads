@@ -139,6 +139,16 @@ procedure Node053;
 
 #define self_family                       family_wright
 
+#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_EW,BACKGROUND_SHADY);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+
 import variable new_reno_temp_box;
 import variable new_reno_ethyl_wright_box;
 variable do_assign_mission;
@@ -252,17 +262,17 @@ procedure talk_p_proc begin
       end else if (belongs_here == false) then begin
          call Node002;
       end else if (get_still_mission(still_mission_assigned)) then begin
-         start_dialog_at_node(Node044);
+         th_start_dialog_at_node(Node044);
       end else if (ethyl_discovered_still) then begin
-         start_dialog_at_node(Node039);
+         th_start_dialog_at_node(Node039);
       end else if (dude_has_porn_star_rep) then begin
-         start_dialog_at_node(Node035);
+         th_start_dialog_at_node(Node035);
       end else if has_rep_slaver or has_rep_childkiller or has_rep_berserker or mrs_wright_pissed then begin
-         start_dialog_at_node(Node037);
+         th_start_dialog_at_node(Node037);
       end else if ((know_mrs_wright) and (herebefore)) then begin
-         start_dialog_at_node(Node024);
+         th_start_dialog_at_node(Node024);
       end else begin
-         start_dialog_at_node(Node005);
+         th_start_dialog_at_node(Node005);
       end
    if (new_reno_ethyl_wright_box != 0) then begin
       move_obj_inven_to_obj(self_obj, new_reno_ethyl_wright_box);

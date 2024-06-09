@@ -285,7 +285,7 @@ procedure talk_p_proc begin
 
    else if (dude_item_count(PID_DECK_OF_TRAGIC_CARDS)) then begin
        if (local_var(LVAR_total_decks) > 0) then begin
-          start_gdialog(NAME,self_obj,4,-1,-1);
+          start_gdialog(NAME,self_obj,4,HEAD_WOOZ,BACKGROUND_HUB);
           gSay_Start;
               call Node027;
           gSay_End;
@@ -297,14 +297,14 @@ procedure talk_p_proc begin
    end
    //else if (LVAR_reaction_level < -25) then begin
    else if (local_var(LVAR_reaction_level) < REACTION_LEVEL_BAD ) then begin//edit by killap
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_WOOZ,BACKGROUND_HUB);
       gSay_Start;
          call Node020;
       gSay_End;
       end_dialogue;
    end
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_WOOZ,BACKGROUND_HUB);
       gSay_Start;
          call Node001;
       gSay_End;
@@ -313,7 +313,7 @@ procedure talk_p_proc begin
 
 /*
    else if ((dude_iq <= (0-LOW_IQ))) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_WOOZ,BACKGROUND_HUB);
        gSay_Start;
            call Node018;
        gSay_End;
@@ -323,7 +323,7 @@ procedure talk_p_proc begin
    else if (local_var(LVAR_Herebefore) == 0) then begin
 //else if ((local_var(LVAR_Herebefore) == 0) and (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
        set_local_var(LVAR_Herebefore,1);
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_WOOZ,BACKGROUND_HUB);
        gSay_Start;
            call Node001;
        gSay_End;
@@ -331,7 +331,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_WOOZ,BACKGROUND_HUB);
        gSay_Start;
           if (local_var(LVAR_Give) == 1) then
              call Node012;

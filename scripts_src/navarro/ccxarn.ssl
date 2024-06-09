@@ -271,7 +271,7 @@ procedure talk_p_proc begin
    //end added by killap
    else */if (talk_to_dude == 1) then begin
       talk_to_dude:=0;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_XARN,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node017;
       gSay_End;
@@ -286,42 +286,42 @@ procedure talk_p_proc begin
    end
    //end added
    else if( global_var(GVAR_NAVARRO_BASE_ALERT) > 0 ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_XARN,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node017;
       gSay_End;
       end_dialogue;
    end
    else if (local_var(LVAR_dq_accept) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_XARN,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node014;
       gSay_End;
       end_dialogue;
    end
    else if (local_var(LVAR_dq_think) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_XARN,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node013;
       gSay_End;
       end_dialogue;
    end
    else if (local_var(LVAR_dq_refuse) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_XARN,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node012;
       gSay_End;
       end_dialogue;
    end
    else if (local_var(LVAR_dq_kill) == 1) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_XARN,BACKGROUND_ENCLAVE);
       gSay_Start;
          call Node011;
       gSay_End;
       end_dialogue;
    end
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_XARN,BACKGROUND_ENCLAVE);
        gSay_Start;
           call Node001;
        gSay_End;

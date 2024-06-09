@@ -260,13 +260,13 @@ procedure talk_p_proc begin
    //added by killap - expansion
    check_forced_dialog
    else if (dude_max_hits != dude_cur_hits) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JUB,BACKGROUND_ADOBE);
        gSay_Start;
            call Node001;
        gSay_End;
        end_dialogue;
    end else if (dude_max_hits == dude_cur_hits) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_JUB,BACKGROUND_ADOBE);
        gSay_Start;
            call Node008;
        gSay_End;

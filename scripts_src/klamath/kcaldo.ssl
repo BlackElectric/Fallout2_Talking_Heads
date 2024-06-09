@@ -179,7 +179,7 @@ procedure talk_p_proc begin
    end
 
    else if ((dude_iq <= (0-LOW_IQ))) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ALDO,BACKGROUND1);
        gSay_Start;
            //added by killap
            if (local_var(LVAR_Give) == 1) then
@@ -193,7 +193,7 @@ procedure talk_p_proc begin
    else if (local_var(LVAR_Herebefore) == 0) then begin
 //else if ((local_var(LVAR_Herebefore) == 0) and (get_critter_stat(dude_obj,STAT_iq) <= (0-LOW_IQ))) then begin
        set_local_var(LVAR_Herebefore,1);
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ALDO,BACKGROUND1);
        gSay_Start;
            call Node001;
        gSay_End;
@@ -201,7 +201,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ALDO,BACKGROUND1);
        gSay_Start;
           if (local_var(LVAR_Give) == 1) then
              call Node012;

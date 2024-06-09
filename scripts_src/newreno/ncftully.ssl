@@ -223,6 +223,17 @@ procedure Node103;
                                           use_obj_on_obj(dude_item(PID_ROT_GUT), self_obj);              \
                                        end
 
+#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
+                                                         in_dialog := true;                        \
+                                                         start_gdialog(NAME,self_obj,4,HEAD_TULLY,BACKGROUND_RAIDERS);     \
+                                                         gSay_Start;                               \
+                                                            call x;                                \
+                                                         gSay_End;                                 \
+                                                         end_dialogue;                             \
+                                                         in_dialog := false;                       \
+                                                         end else call x
+
+
 variable prev_node;
 variable geckQuestion;
 variable renoQuestion;
@@ -362,9 +373,9 @@ procedure talk_p_proc begin
          call Node103;
       end
    end else if (Fallout2_enclave_destroyed) then begin
-      start_dialog_at_node(Node003);
+      th_start_dialog_at_node(Node003);
    end else begin
-      start_dialog_at_node(Node007);
+      th_start_dialog_at_node(Node007);
    end
    set_herebefore;
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);

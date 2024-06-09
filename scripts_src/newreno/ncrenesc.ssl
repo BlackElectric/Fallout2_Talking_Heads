@@ -294,7 +294,7 @@ procedure talk_p_proc begin
    end else begin
       move_obj_inven_to_obj(self_obj, new_reno_temp_box);
       move_obj_inven_to_obj(new_reno_renesco_box, self_obj);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_RENE,BACKGROUND_RAIDERS);
       gSay_Start;
          if (know_renesco) then begin
             call Node042;
