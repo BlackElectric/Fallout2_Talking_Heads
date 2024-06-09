@@ -1,0 +1,35 @@
+FUNG1 - Help you with something?
+FUNG2 - Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.
+FUNG3 - I can heal... but for a price, you understand.
+FUNG4 - Who am I? I am Dr. Fung. I teach and I heal.
+FUNG5 - Holliday? Yes! I taught him all he knows! Where is he now?
+FUNG6 - He went home, did he. I hope he has found peace there.
+FUNG7 - That'll cost you $100.
+FUNG8 - This appears serious. That will cost $200.
+FUNG9 - Those are impressive wounds. $300 is all it takes to procure my services.
+FUNG10 - For this much damage, I'm afraid that I will have to demand $400.
+FUNG11 - Sit down. You'll need to when you hear my bill. Crippled limbs cost $600.
+FUNG12 - What? You do not have the money? How do you expect me to survive if you ask me for free healing?
+FUNG13 - It has been a pleasure doing business with you.
+FUNG14 - Your offer, sadly, is not acceptable.
+FUNG15 - You're hurt? Tsk, tsk. Ancient remedy will cure that. 
+FUNG16 - We're done. Now, you go and be careful!
+FUNG17 - You need more?
+FUNG18 - You have come to the right person. Would you like long history or short?
+FUNG19 - Our people landed here on the submarine Shih-huang-ti, when the missiles exploded over the world. With the aid of a cult, we, the Shi, rebuilt San Francisco. That is the short version.
+FUNG20 - The long version is this: We are here because our people are the descendants of the crew of a nuclear submarine, called the Shih-huang-ti. When the missiles fell in the Great Deluge, the systems aboard the submarine failed and we drifted in the dark for many days.
+FUNG21 - At last, we drifted ashore. We found ourselves near the ruins of San Francisco. Most of the city was devastated in the war. We had to recreate society based on the few survivors who had crept back to the city.
+FUNG22 - We rebuilt with what we could find, and we have scientists and technology the world must envy. We are rebuilding civilization, but not as that horrid Master creature did.
+FUNG23 - Of course I can. And since you are aware of Doc Holliday... I will do it for no more than the sake of friendship. Tell your spleenless friend to come here and I will replace it for him.
+FUNG24 - Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?
+FUNG25 - Tell your friend to come here and I will replace it for him.
+FUNG26 - I can do nothing for him, until you have the $1000. Good day.
+FUNG27 - I helped write the article on armor implants. All it takes is my expertise and your materials. What types of implants do you desire?
+FUNG28 - Are you interested again in implants?
+FUNG29 - We have dermal implants, which protect against concussive damage. If you like that work, we can add a single enhancement to it. We also have Phoenix implants, which protect against heat-based attacks, and which also have an upgrade available. If you're interested in the upgrades, you will of course have to wait until the initial set has been installed. And before you ask, yes, you CAN have all four operations.
+FUNG30 - Excellent. I'll need a set of combat armor and, oh, $5500. You'll need two days and the ability not to pick at scabs.
+FUNG31 - The dermal upgrade, eh? That will cost you several days of your life, $33000, combat armor, and a brand-new set of scars that you'll never ever lose as long as you live.
+FUNG32 - If you do not mind parting with $8500, a few days, and a set of combat armor, we can begin the operation now.
+FUNG33 - This is a major operation. It will cost you your "good looks", a set of combat armor, and $49000. Are you willing to invest in this?
+FUNG34 - ::he shakes his head:: Do not toy with me. You are missing necessary ingredients. Listen more carefully to me next time. Now go, and come back when I can help you.
+FUNG35 - There you go! You are ... enhanced. Remember... do not pick at the scabs unless you want horrid scarring to add to your suddenly not-entirely-pleasing appearance.

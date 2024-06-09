@@ -1,0 +1,21 @@
+ERIC1 - Come in already! Close the door behind you! Don't let in the flies!
+ERIC2 - Close the door! Please! Go away and take those damn flies with you!
+ERIC3 - Sorry. I'm just a little on edge. All these damn flies and no air conditioning. If I just had a little more power I'd be able to shake 'em... but I don't.
+ERIC4 - There's a power generating station downtown that controls the power to the city. If you could just go there and get permission to give me a little more energy for my air conditioning, I'd be grateful.
+ERIC5 - They come here because for some odd reason I exude fly nutrients. My body is rich with food for them, and this sweating just makes it worse.
+ERIC6 - I've tried that. I've tried everything. The only thing that keeps the flies off me is not to sweat... and when I don't have enough power to keep cool, I can't.
+ERIC7 - Yes?
+ERIC8 - I could scrape a little something together for you if you did it. I can't promise much, but then, it's not too huge a favor, either.
+ERIC9 - I can't tell you how grateful I am to you. Please let me know as soon as you're done so I can turn up the air conditioning and take a bath.
+ERIC10 - Please don't wait too long for this... I'm getting really sick of all these flies.
+ERIC11 - Thanks ever so much for your compassion. That's sarcasm, by the way, in case you hadn't noticed. Get the hell out of my house.
+ERIC12 - The power generator's on your left as you come into Broken Hills from the outside world. It's run by a guy named Brian, a lazy son of a bitch who does as little work as possible.
+ERIC13 - I'm Eric. I used to run the hotel in town, but I had to sell it because of my fly problem. I also ran the tavern, but had to get out of that, too, for the same reason. Finally, I used to run the generator, but flies kept getting into it.
+ERIC14 - He said that, did he? Well, you tell him that the generator is uranium powered and that the miniscule amount of energy I require would barely register on the generator. And tell him I want my power!
+ERIC15 - You're done with the generator? Thank you so, so much. I can't even begin to describe how grateful I am.
+ERIC16 - Francis the mutant has a power fist. He keeps betting it in arm-wrestling contests. The problem is being stronger than him. If you're interested, I can give you some pills that should give you the edge over him.
+ERIC17 - These pills are called buffouts. They'll increase your strength, but your mind will suffer for a little bit. Don't take too many or you might get hooked. Good luck with the fist!
+ERIC18 - Do you think you can help me with my fly problem? I'd be very grateful.
+ERIC19 - Here's all the money I have... $150. Thank you.
+ERIC20 - Then I'm doubly grateful. Oh... I hear you're looking for a GECK. Try asking around in NCR. It's to the south.
+ERIC21 - Oh yes. The flies have lessened, the air is cool, and I'm less sweaty. Better deal for everyone all around!

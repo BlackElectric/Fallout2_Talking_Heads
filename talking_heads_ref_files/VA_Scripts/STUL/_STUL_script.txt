@@ -1,0 +1,64 @@
+STUL1 - (The midget studies you as you walk up and takes the toothpick out of his mouth.) Yeah, whatta YOU want, big guy?
+STUL2 - (The midget studies you as you walk up and takes the toothpick out of his mouth.) What can I do for you, honey?
+STUL3 - (The midget studies you as you walk up and takes the toothpick out of his mouth.) Hey there, hero. What can I do for you?
+STUL4 - (Makes a shooing motion.) Buzz off, asshead. Yer wasting my time.
+STUL5 - (Sighs, looks like he is about to say something, then pauses as he studies your frame.) You fight at all? You look pretty fit.
+STUL6 - No, no... fight in the RING! You know, the ring? (Points at the boxing ring, makes jabbing motions in the air.) That something you might be interested in?
+STUL7 - (Jumps back.) Whoa there, asshead! Save it for the ring. Now look: you in or you out?
+STUL8 - (Smiles.) All right, it's a done deal. Name's Stuart, most call me Stuart Little, but that's only cause... well, all YOU need to know is I'm big in all the important ways. You got a name, asshead?
+STUL9 - Me-a-me, huh? "Miami..." I LIKE it. I LIKE it. All right then, let's go do some damage.
+STUL10 - (Frowns.) Wise-ass, huh? Hmmph... can't get no respect in this town. (Shrugs.) All right then, let's go do some damage.
+STUL11 - So you want to go with that name, huh? All right then, Alright, let's go do some damage.
+STUL12 - (Puffs up indignantly.) Look. Just because I'm not of so-called "average height" does not mean I have to receive my thrills vicariously.
+STUL13 - (Stuart looks disgusted with you as you're hauled out of the ring.) Get outta my sight, asshead. No hope for you in this town. Beat it!
+STUL14 - (Stuart looks disgusted with you as you're hauled out of the ring.) I NEVER should have taken a risk on you, what a friggin' disappointment. Now get outta here! Beat it!
+STUL15 - (Turns red.) What, the Masticator bite your ears off, boy?! I said BEAT it! Get outta here!
+STUL16 - (Turns red.) What, the Masticator bite your ears off, girl?! I said BEAT it! Get outta here!
+STUL17 - (Stuart turns red, looks like he is about to start shouting, then simmers down.) Awright. One more chance. I get 75%, no arguments. Screw up again, yer outta here.
+STUL18 - (Stuart turns red, looks like he is about to start shouting, then simmers down.) Awright. One more chance. I still get 75%, no arguments. Screw up again, yer outta here.
+STUL19 - (Stuart is smiling like a jackal.) Damn fine performance up there, champ...you doing all right, feeling all right? Let me know when you're ready for your next match.
+STUL20 - (The midget blinks, then frowns.) Ice... what?
+STUL21 - (The midget smiles uneasily.) Well, I can get you some cream, pal... mostly of the whore or drug variety... but that's about it. Now you wanna fight or what?
+STUL22 - (The midget smiles uneasily.) Well, I can get you some cream, honey... mostly of the male prostitute or drug variety... but that's about it. Now you wanna fight or what?
+STUL23 - Well, I ain't gonna force you, but it could have been a sweet deal, a rocket road to the top, a jackpot in the sky... come back if you change your mind. You're gold, kid.
+STUL24 - All right then! Let's get this circus on the road!
+STUL25 - Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Sticks toothpick back in mouth, chews on it.) Got a name?
+STUL26 - Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, pal. (Looks you up and down.) Got a name to go with those legs?
+STUL27 - Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Sticks toothpick back in mouth, chews on it.) Got a name?
+STUL28 - Wha... you ain't HEARD of me? Stuart, Stuart Little? Biggest agent in all of Reno? Someone's done you a disservice not telling you about me, darling. (Looks you up and down.) Got a name to go with those legs?
+STUL29 - Hmmmph. So. What's your name?
+STUL30 - (Stuart nods.) Champ... Champ... I like that. Pretty name. Well, it's a pleasure to meet you, Champ. What can I do for you?
+STUL31 - (Stuart nods.) Awright, Champ. Nice ta meet ya. What can I do for you?
+STUL32 - (Stuart nods and smiles as you approach.) Hey, hero! Heard about what you did. Congratulations. What's up?
+STUL33 - (Stuart sneers as you approach.) Well, if it ain't "Jungle Gym's next prize fighter." What brings you back around?
+STUL34 - (Stuart nods as you approach.) Heeeey, Champ! What's up? Ready to get back in the ring?
+STUL35 - You wanna BOX? Uh... awright, let me level with you, kid. You just don't look like you have the frame for it.
+STUL36 - You wanna BOX? Awright, now I've heard it all. Look, most job opportunities in Reno for women are... hmmm. Well, from the looks of it, maybe those jobs weren't cut out for you.
+STUL37 - You wanna BOX? Awright, now I've heard it all. Look, not to be mean or nothing, it's just that boxing is an UGLY sport... and it makes people in it ugly, too. In your case, that would be a damn shame.
+STUL38 - No, sorry, honey, too much of a risk... chances are, they wouldn't even let you fight. Now get on home, 'kay?
+STUL39 - No, sorry, pal, too much of a risk... it'd be a massacre. Now get on home, 'kay?
+STUL40 - No, sorry, honey, too much of a risk... chances are, they wouldn't even let you fight. Now get on home, 'kay?
+STUL41 - No, sorry, pal, it wouldn't even be an entertaining massacre. Now get on home, 'kay?
+STUL42 - Hmmmmm... awright, I'll give you a chance... but I ain't promising anything. This hurts business, even a little, and you're out. (Puts his hands on hips.) My take is half the winnings, no arguments.
+STUL43 - Hmmmmm... I'll give you a chance... but I ain't promising anything; I'm doing you a favor taking some unknown under my wing. My take is half the winnings... no arguments.
+STUL44 - (Stuart's frown deepens. He looks like he is about to protest, then he shakes his head with a smirk.) All right already! Now if yer ALL done whittling away my livelihood, let's talk management.
+STUL45 - (The midget frowns.) Didn't he die against that Russian guy way back when? Aw, whatever. Shall we hit the ring?
+STUL46 - (The midget smirks.) Looks like you and the "Masticator" will be getting along just fine. Just don't bite off too many ears. Well... shall we hit the ring?
+STUL47 - (The midget smirks.) You don't look Russian. But whatever works for you... shall we hit the ring?
+STUL48 - (The midget smirks.) "Pity the fo," huh? Well, okay... but let's hope YOUR career goes somewhere. Shall we head to the ring?
+STUL49 - (The midget smirks.) Eye of the Tiger, huh? "Aaaydrian," "Aaaaydrian..." Heh-heh. I like it... lot of weight associated with it. Shall we head to the ring?
+STUL50 - (The midget nods.) Hmm... Yes... not bad, not bad. It fits. (Nods at the ring.) Shall we get to it, then? You ready?
+STUL51 - No dice. Fifty-fifty or NOTHING. If you don't like that, walk.
+STUL52 - Hmmpph. You got a name?
+STUL53 - Yeah, yeah, I know, "Stuart Little." My Mom used to read a lotta E.B. White. Now, you got a name?
+STUL54 - And what makes you think I've ever spectated a circus, much less been enslaved by one?
+STUL55 - YOU thought because I'm a person of short stature, the only career I could procure would be confined to the so-called 'big top.'
+STUL56 - You took one QUICK look at me and thought you could deduce my entire life. It would never have occurred to you that a person of my height could have obtained a career in *Boxing Management.*
+STUL57 - Why should I take offense? Just because it seems to be the habit of everyone in this game to make instantaneous judgments of other NPCs based solely on their physical appearance?
+STUL58 - Why, I've done the same thing to you, for example.
+STUL59 - (Looks at you pityingly.) But do you see the TRAGEDY here? I have mistakenly reduced you to a stereotype, a caricature, a generic Fallout model, instead of regarding you as a specific, unique character.
+STUL60 - Not all women are attracted to barrel-chested, overly muscled male character models. You'd be surprised how many women find my size intriguingly ALLURING.
+STUL61 - I've taken in your ridiculously overly-muscled physique, your gritty Mad Maxx wanna-be demeanor, your unimaginative character point allocation and concluded you are a mini-maxing munchkin.
+STUL62 - I've taken in your over-pixilated breasts, your ridiculous sashay when you walk, your unimaginative character point allocation and concluded you are a mini-maxing Laura Kroft wannabe... a "munchkin."
+STUL63 - You are nothing more than a typical 'RPG male hero model,' if you will, one of MANY such models that seems to fill this world in droves.
+STUL64 - You are nothing more than a typical 'RPG female hero model,' if you will, one of MANY such models that seems to fill this world in droves.

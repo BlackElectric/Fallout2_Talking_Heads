@@ -1,0 +1,23 @@
+ALDO1 - Hello there, I haven't seen you in Klamath before. I'm Aldo, the town greeter. (hic) It's my job to greet anyone new in town and to answer any questions they might have about our bucolic little burg. Welcome to Klamath. (hic) Who might you be?
+ALDO2 - The Chosen One. Oh mighty Wanderer, you must be very important and powerful among your people. Surely one of your great (hic) stature would be happy to follow our custom of tipping the town greeter. (urp)
+ALDO3 - Well, friend Wanderer, since you're new to these (hic) parts, and look as though you could use (urp) some pointers, I'll let you know that it's customary to tip the town greeter before asking any questions and such.
+ALDO4 - Well stranger, since you're (hic) new to these parts, you probably don't (urp) know that it's (hic) customary to tip the town greeter before asking any questions and such.
+ALDO5 - Thanks for the money, friend. (urp) I'm going to use it to get some (hic) medicine for my dry throat. Consider yourself officially (hic) greeted to the town of Klamath. Do you have any questions about our fair (urp) metropolis?
+ALDO6 - Ask away, oh benefactor of mine.
+ALDO7 - Thanks for nothing. I hope you don't stay in town too long. We don't need your kind here. Humph. Tribals -- they're all the same.
+ALDO8 - Here in Klamath some people farm, some raise brahmin, but trapping geckos is what most of the people do.
+ALDO9 - A gecko is a large lizard that's hunted by the trappers round these parts for its meat and hide. But, it sure is a lot of work to catch them dang critters - and dangerous too. My advice to a friend... avoid it. It's far too much work.
+ALDO10 - You can buy or trade things at Buckner House and also the Golden Gecko. Sometimes they even have healing herbs available -- not that they'd give me any for my (hic) condition. They're both run by real skinflints. Just get a little behind on your (hic) tab and out you go, into the cold and rain.
+ALDO11 - I know that you couldn't spare any money for the official town greeter earlier, but perhaps (hic) this time you are feeling more generous and are ready to be greeted 'officially' to Klamath.
+ALDO12 - Hey there, friend, good to see you again. Can you spare some money for a bit of medicine? My throat is getting dryer and scratchier (hic) all the time. I could even throw in another official (urp) greeting.
+ALDO13 - Thanks for nothing. How can you be so cruel to someone as unwell as myself? Damn tribals! (Aldo spits on the ground at your feet, dribbling a bit on his scruffy chin)
+ALDO14 - I'm certain that your generosity to someone as needful as myself (hic) will bring you good luck. I hope to see you again soon.
+ALDO15 - I could sure use some money for medicine. I feel pretty weak - but if you can't (cough, cough) spare any (cough), I guess I understand. Maybe next time, if I'm still around (cough) by then.
+ALDO16 - You mean my much needed medicine? (hic) Well, I used to buy it at either the Golden Gecko or the Buckner Place (urp), but they won't sell it to me until I pay some money on my bill. Lucky for me, Whiskey Bob's been making a bit of medicine for some of his friends.
+ALDO17 - Whiskey Bob is usually (urp) at Buckner's Place right here in downtown. I don't think he's been able to get out to tend his still lately. He's just not a reliable source of medicine for someone as (hic) unwell as myself.
+ALDO18 - Hello there, Friend -- you look a bit perplexed. What you need is a friend here in town. I'm Aldo, the town greeter.
+ALDO19 - If you give me $20 I'll be your friend and I'll make sure everyone else is, too. That's how it works here in the big city.
+ALDO20 - A Geck? Heck, you mean a gecko. Never heard about a geck but I'll tell you about geckos.
+ALDO21 - Old stuff, huh? (urp) Well the only (hic) trader I know who trades much old stuff is (hic) Vic.
+ALDO22 - Well now (hic), I haven't seen Vic for a while. I don't rightly (urp) know where he might have run off to. You might talk to (urp) Jenny over at the bath house. She and Vic were pretty (hic) thick. Heh, heh, heh. Get it? Oh my, I haven't lost my touch.
+ALDO23 - Hello again, friend. Do you have another $20 to spare to make our friendship even better?

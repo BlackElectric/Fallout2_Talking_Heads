@@ -1,0 +1,12 @@
+ARTH1 - Hail, travelers. My name is Arthur, son of Uther Pendragon, from the Brotherhood of Steel. We are on quest for the Holy Hand Grenade of Antioch. Hast thou seen it?
+ARTH2 - The Holy Hand Grenade of Antioch? Why, 'tis only the greatest hand held, anti-personnel weapon of its kind.
+ARTH3 - We of the Brotherhood of Steel seek to find this most devastating weapon of our ancestors, and secure it from those who would abuse the power of the Holy Hand Grenade of Antioch.
+ARTH4 - Well... because the Brotherhood of Steel is dedicated to protecting the weak and defenseless, and this thing could really hurt someone.
+ARTH5 - Umm... because it's really the only moral thing to do.
+ARTH6 - Wha... um... Look now, we're really quite busy. Are you going to help us or not? Have you seen the Holy Hand Grenade of Antioch or not?
+ARTH7 - Well, why didn't you just say so? If you could just tell us where, we'll be off and you can get back to whatever it is you were doing.
+ARTH8 - Right then. Thank you for your help. Something for your trouble.
+ARTH9 - Well then, no sense in continuing this conversation. We're off.
+ARTH10 - Bloody peasant!
+ARTH11 - GECK, you said? Why yes, we have two of them. Don't need another one. Thanks all the same though.
+ARTH12 - No. No. Couldn't do that. Wouldn't be right to end your quest that easily. There's some more of them that way. Go get your own. [He points in a direction about the same way you pointed when you told him where the Holy Hand Grenade of Antioch was.]

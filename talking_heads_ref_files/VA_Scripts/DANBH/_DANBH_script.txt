@@ -1,0 +1,16 @@
+DANBH1 - Who are you? What are you doing in my house?
+DANBH2 - Not in my house, please. There's a street outside where you can sleep and do whatever else it is you "special" people do.
+DANBH3 - Great, great. Pleased to meet you. [He looks distracted.] Hey, look... you're an adventuring type, right?
+DANBH4 - The reason I ask, you see, is because my wife is missing. I don't know where she is. She's been gone for days. I've asked around town, and no one has seen her. Can you find her for me?
+DANBH5 - I can give you $500. That's my life savings.
+DANBH6 - Please. Please. My wife... she's everything to me. Please.
+DANBH7 - Here's the money. Now please, please, PLEASE... find my wife and tell me where she is. Maybe she's shacked up with someone else, maybe she's left me... but I just need to know.
+DANBH8 - ::he sobs uncontrollably for a few moments:: Very well. Go away. And realize that you've broken my heart.
+DANBH9 - She's blonde, sexy, and has the most incredible singing voice... I last saw her walking around this area. She didn't like mutants or ghouls, so she wouldn't have been near any of them. Nobody knows where she went. It's like she just disappeared.
+DANBH10 - Well? Have you found her? My heart aches with every moment.
+DANBH11 - Oh, my aching heart. Please let me know when you find her.
+DANBH12 - You found her? ::his eyes light up:: Where?
+DANBH13 - What? No! She had great legs!
+DANBH14 - Thank you for telling me. I think I have to go cry.
+DANBH15 - Oh my God! I... I can't believe that... It's not... [Sighs deeply]. I suppose it may be true. She seemed to hate every mutant and ghoul she came into contact with. I never knew why.
+DANBH16 - You don't mean to say that my life is in danger too? Oh dear. You may be right. I've been hearing noises outside the house at night. Whispers and shuffles.

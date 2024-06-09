@@ -1,0 +1,11 @@
+HANK1 - Hello, I'm Hank. I take care of the inside of the reactor core. Not that much ever needs to be done there.
+HANK2 - Hello, nice of you to visit me again. Feels nice and toasty this close to the core. Most smoothies don't care for that.
+HANK3 - Heh, heh. I wouldn't advise that, smoothy. You'd fry into a crisp. Me, I like the warmth, but I wouldn't recommend it for you. Quite a bit of heat and radiation in there. That's why the smoothies that built this place included a maintenance bot.
+HANK4 - Let me look this over. According to this, our coolant level is way too high. I would've thought that turning off the coolant would lead to immediate meltdown but I guess not. I'd better go turn off the coolant right now.
+HANK5 - Yeah, the smoothies that built this place didn't want to fry either, so they included a robot. It was designed to perform maintenance tasks by remote control from that terminal over there.
+HANK6 - Nice part you got there. Just what we need.
+HANK7 - I'd like to help you out, but I wouldn't know how to install something like that. I mostly just watch the gauges here. Try Festus. He's the resident parts genius -- just ask him.
+HANK8 - You talk to Festus about installing that part yet?
+HANK9 - Festus is out the way you came in. He's in the control room. Can't miss him... he's the smelly, whiny one tottering about underneath that huge ego. He should be able to help you.
+HANK10 - Well, if you could control the maintenance robot, it might be able to install it. Or, you could just walk in there and install it yourself.
+HANK11 - Well, it hasn't worked too well, lately. It kept overheating. We don't need to use it anyway, so we didn't bother to fix the heat shielding on it. If you can figure out the control codes and don't run it for too long, you may be able to get it to do what you want.

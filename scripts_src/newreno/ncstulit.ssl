@@ -426,7 +426,7 @@ procedure Node012 begin
    end else if (dude_prizefighter_number == 96) then begin //killap fix: was 496
       Reply(301);
    end else begin
-      Reply(prizefighter_name + mstr(302) + prizefighter_name + mstr(1302)); //killap fix: added prizefighter_name in the front
+      Reply("So you want to go with that name" + mstr(302) + "Alright," + mstr(1302)); //killap fix: added prizefighter_name in the front
    end
    NOption(391, Node986, -003);
    NOption(305, Node999, -003);
@@ -466,7 +466,7 @@ procedure Node016 begin
    prev_node := 16;
 end
 procedure Node017 begin
-   Reply(mstr(350) + prizefighter_name + mstr(1350));
+   Reply(mstr(350) + "champ" + mstr(1350));
    if (has_rep_berserker) then begin
       NOption(351, Node021, -003);
    end
@@ -538,9 +538,9 @@ procedure Node024 begin
    if (Fallout2_enclave_destroyed) then begin
       Reply(430);
    end else if (boxing_fail) then begin
-      Reply(mstr(432) + prizefighter_name + mstr(1432));
+      Reply(mstr(432) + "Jungle Gym's next prize fighter" + mstr(1432));
    end else begin
-      Reply(mstr(431) + prizefighter_name + mstr(1431));
+      Reply(mstr(431) + "Champ" + mstr(1431));
    end
    if (boxing_fail == false) then begin
       NOption(435, Node021, 004);
@@ -622,7 +622,7 @@ procedure Node031 begin
    end else if (dude_prizefighter_number == 48) then begin //was 15 - killap
       Reply(504);
    end else begin
-      Reply(mstr(505) + prizefighter_name + mstr(422) + prizefighter_name + mstr(2505));
+      Reply(mstr(505) + "Hmm" + mstr(422) + "Yes" + mstr(2505));
    end
    NOption(506, Node986, 001);
    prev_node := 31;

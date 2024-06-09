@@ -621,7 +621,7 @@ end
 procedure Node035 begin
    display_mstr(825);
    give_xp(EXP_NEW_RENO_MADE_MAN_WRIGHT);
-   Reply("" + made_man_name + mstr(575));
+   Reply("I like it. It's got style. Now you stop on by the Cat's Paw and New Reno Arms, and they'll take care of you. You need free hootch, head on by the train station, too. I'll set you up.");
    NOption(576, Node999, 001);
    prev_node := 35;
 end
@@ -637,7 +637,7 @@ procedure Node037 begin
    prev_node := 37;
 end
 procedure Node038 begin
-   Reply(mstr(590) + made_man_name + mstr(5590));
+   Reply(mstr(590) + " Well well well " + mstr(5590));
    NOption(591, Node981, 004);
    NOption(592, Node999, 004);
    prev_node := 38;

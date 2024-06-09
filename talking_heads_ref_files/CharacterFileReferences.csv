@@ -3,17 +3,21 @@ A. Ron Meyers,sanfran,CAP,HEAD_CAP,FCRonMey,Wanderer,YES,NO
 Abbot,abbey,ABOTT,HEAD_ABOTT,ahmonk,Child,YES,NO
 AHS-7,sanfran,AHS7,HEAD_AHS7,FCOz7,Child,YES,NO
 AHS-9,sanfran,AHS9H,HEAD_AHS9H,FCOz9,Child,YES,NO
+Aldo,klamath,ALDO,HEAD_ALDO,KCAldo,Wanderer,YES,NO
 Angela Bishop,newreno,ABSHP,HEAD_ABSHP,ncAngBis,You,YES,NO
 Ann,villout,ANNVV,HEAD_ANNVV,vilann,Stranger,YES,NO
 Anna Winslow,den,ANNA,HEAD_ANNA,DCAnna,Wanderer,YES,NO
 Ardin,klamath,ARDIN,HEAD_ARDIN,KCArdin,Stranger,YES,NO
+Ariel,vault13,ARIEL,HEAD_ARIEL,OCAriel,Stranger,YES,NO
 Badger,sanfran,BADGE,HEAD_BADGE,FCBadger,Dude,YES,NO
 Balthas,modoc,BAL,HEAD_BAL,mcBaltha,Stranger,YES,NO
 Barkus,valtcity,BARK,HEAD_BARK,VCBarkus,Citizen,YES,NO
 Ben Wade,redding,BEN,HEAD_BEN,RCWade,Wanderer,YES,NO
 Big Jesus Mordino,newreno,BGJES,HEAD_BGJES,ncBigJes,Kid,YES,NO
+Bridgekeeper,rndenctr,BRIGE,HEAD_BRIGE,ECBridge,Traveller,YES,NO
 Brother Matthew,abbey,BMATT,HEAD_BMATT,abmatt,Child,YES,NO
 Brother Paul,abbey,PAUL,HEAD_PAUL,amonk5,Child,YES,NO
+Buck & Chuck Dunton,klamath,BUCK,HEAD_BUCK,KCDunton,Stranger,YES,NO
 Cameron,arroyo,CAM,HEAD_CAM,ACTemVil,Chosen,YES,NO
 Cassidy,valtcity,CASDY,HEAD_CASDY,VCCasidy,Friend,YES,NO
 Cat Jules,epa,CAT,HEAD_CAT,epac11,Friend,YES,NO
@@ -28,15 +32,18 @@ Connar,villout,CNR,HEAD_CNR,VCConnar,Wanderer,YES,NO
 Cornelius,modoc,CORN,HEAD_CORN,mcCornel,Kiddo,YES,NO
 Dalia,vault13,DAL13,HEAD_DAL13,OCDalia,Wanderer,YES,NO
 Dalia,vault15,DALIA,HEAD_DALIA,bcDalia,Wanderer,YES,NO
+Dan,brokhill,DANBH,HEAD_DANBH,hcDan,Stranger,YES,NO
 Dan McGrew,redding,DAN,HEAD_DAN,RCMcGrew,Stranger,YES,NO
 Darion,vault15,DARIO,HEAD_DARIO,BCDarion,Wanderer,YES,NO
 Dave,abbey,MERCH,HEAD_MERCH,abmerch1,Stranger,YES,NO
 Davin,modoc,DAVIN,HEAD_DAVIN,mcDavin,Lover,YES,NO
 Dex,epa,DEX,HEAD_DEX,epac10,Doll,YES,NO
 "Doc ""Painless"" Johnson",redding,DOCJ,HEAD_DOCJ,RCDrJohn,Traveller,YES,NO
+Doc Holliday,brokhill,HOL,HEAD_HOL,hcDoc,Wanderer,YES,NO
 Dogmeat,rndenctr,DOGMT,HEAD_DOGMT,ECDogMet,Wanderer,YES,NO
 Don,den,DON,HEAD_DON,slvcc1,Tribal,YES,NO
 Dr Curling,enclave,CURL,HEAD_CURL,QCCurlng,Soldier,YES,NO
+Dr. Fung,sanfran,FUNG,HEAD_FUNG,FCDrFung,Wanderer,YES,NO
 Dr. Henry,ncr,HENRY,HEAD_HENRY,SCHenry,Friend,YES,NO
 Dr. Schreber,navarro,SCH,HEAD_SCH,CcDoctor,Soldier,YES,NO
 Dr. Troy,valtcity,TROY,HEAD_Troy,VCDrTroy,Citizen,YES,NO
@@ -44,11 +51,13 @@ Dr. Wong,sanfran,WONG,HEAD_WONG,FCDrwong,Friend,YES,NO
 Dragon,sanfran,DRAGO,HEAD_DRAGO,FCDragon,Friend,YES,NO
 Elise,ncr,ELISE,HEAD_ELISE,SCElise,Outsider,YES,NO
 Enlightened One,ncr,EO,HEAD_EO,SCEnlOne,Child,YES,NO
+Eric,brokhill,ERIC,HEAD_ERIC,hcEric,Smoothskin,YES,NO
 Ethyl Wright,newreno,EW,HEAD_EW,ncEthWri,Dear,YES,NO
 Fannie Mae,redding,FANNI,HEAD_FANNI,RCFannie,Lover,YES,NO
 Farrel,modoc,FAR,HEAD_FAR,mcFarrel,Kid,YES,NO
 Father Tully,newreno,TULLY,HEAD_TULLY,ncFTully,Kid,YES,NO
 Festus,gecko,FEST,HEAD_FEST,GCFestus,Smoothskin,YES,NO
+Flick,den,FLICK,HEAD_FLICK,DCFlick,Stranger,YES,NO
 Francis,brokhill,FRANC,HEAD_FRANC,hcFranci,Normy,YES,NO
 Frankie,den,FRANK,HEAD_FRANK,DCFranki,Wanderer,YES,NO
 Gordan,gecko,GORD,HEAD_GORD,GCGordon,Smoothskin,YES,NO
@@ -56,6 +65,7 @@ Goris,vault13,GORIS,HEAD_GORIS,OCGoris,Human,YES,NO
 Granite,enclave,GRANI,HEAD_GRANI,QCGranit,Soldier,YES,NO
 Grisham,modoc,GRISH,HEAD_GRISH,mcGrisha,Wanderer,YES,NO
 Gruthar,vault13,GRUTH,HEAD_GRUTH,OCGrutha,Human,YES,NO
+Hank,gecko,HANK,HEAD_HANK,GCHank,Friend,YES,NO
 Happy Harry,valtcity,HHARY,HEAD_HHARY,VCHarry,Friend,YES,NO
 Jacob,brokhill,JACOB,HEAD_JACOB,hcJacob,Traveller,YES,NO
 Jenny,klamath,JENNY,HEAD_JENNY,KCJenny,Lover,YES,NO
@@ -63,6 +73,7 @@ Jimmy J,newreno,JIMMY,HEAD_JIMMY,ncJimmyJ,Friend,YES,NO
 Jo,modoc,JOMOD,HEAD_JOMOD,mcJo,Wanderer,YES,NO
 Joey,den,JOEYD,HEAD_JOEYD,DCJoey,Loser,YES,NO
 Jonny,modoc,JONNY,HEAD_JONNY,mcJonny,Stranger,YES,NO
+Joseph,vault13,JOSEPH,HEAD_JOSEPH,OCJoseph,Wanderer,YES,NO
 Jules,newreno,JULES,HEAD_JULES,ncJules,Friend,YES,NO
 K9,navarro,RDOG,HEAD_RDOG,CcK9,Human,YES,NO
 Kaga,arroyo,KAGA,HEAD_KAGA,ECKaga1&ECKaga2&ECKaga3&ECKaga4&ECKaga5,Chosen,YES,NO
@@ -92,6 +103,7 @@ Metzger,den,METZG,HEAD_METZG,dcMetzge,Kid,YES,NO
 Mira,ncr,SKERI,HEAD_SKERI,SCMira,Friend,YES,NO
 Miria,modoc,MIRIA,HEAD_MIRIA,mcMiria,Cutie,YES,NO
 Mom,den,MOM,HEAD_MOM,DCMom,Dear,YES,NO
+Morlis,arroyo,MOR,HEAD_MOR,ACMorlis,Child,YES,NO
 Mr. Bishop,newreno,BISHP,HEAD_BISHP,ncBishop,Kid,YES,NO
 Ms. Kitty,newreno,KITTY,HEAD_KITTY,ncKitty,Lover,YES,NO
 Mynoc,arroyo,MYNOC,HEAD_MYNOC,ACMynoc,Chosen,YES,NO
@@ -100,8 +112,10 @@ Nikki,newreno,NIKKI,HEAD_NIKKI,ncNikki,Champ,YES,NO
 Obidiah Hakeswill,redding,OBAD,HEAD_OBAD,RCHakes,Wanderer,YES,NO
 Old Joe,valtcity,IANOJ,HEAD_IANOJ,VCOldJoe,Wanderer,YES,NO
 Orville Wright,newreno,WRITE,HEAD_WRITE,ncOrvill,Kiddo,YES,NO
+Paladin Arthur,rndenctr,ARTH,HEAD_ARTH,ECArthur,Peasant,YES,NO
 Peterson,abbey,PET,HEAD_PET,abpetson,Stranger,YES,NO
 Phyllis,valtcity,PHL,HEAD_PHL,VCNancy,Citizen,YES,NO
+Private Dobbs,sierra,DOBBS,HEAD_DOBBS,WCDobbs,Stranger,YES,NO
 Proconsul Gregory,valtcity,GREG,HEAD_GREG,VCGreg,Citizen,YES,NO
 Quartermaster,navarro,QM,HEAD_QM,Ccmaster,Soldier,YES,NO
 Quartermaster2,navarro,QM2,HEAD_QM2,CcQmstr,Soldier,YES,NO
@@ -113,6 +127,7 @@ Renesco,newreno,RENE,HEAD_RENE,ncRenesc,Wanderer,YES,NO
 Robodog,ncr,DOGR,HEAD_DOGR,SCRobo,Human,YES,NO
 Roger Westin,ncr,WEST,HEAD_WEST,SCWestin,Kid,YES,NO
 Rose,modoc,ROSE,HEAD_ROSE,mcRose,Kid,YES,NO
+Sajag,klamath,SAJAG,HEAD_SAJAG,KCSajag,Wanderer,YES,NO
 Sally Dunton,klamath,SALLY,HEAD_SALLY,KCSally,Sweetie,YES,NO
 Salvatore,newreno,SALVA,HEAD_SALVA,ncSalvat,Traveller,YES,NO
 Seymore,brokhill,PLANT,HEAD_PLANT,hcSeymor,Wanderer,YES,NO
@@ -130,6 +145,7 @@ Steve,brokhill,STEVE,HEAD_STEVE,hcSteve,Wanderer,YES,NO
 Stuart Little,newreno,STUL,HEAD_STUL,ncStuLit,Champ,YES,NO
 Suze,sanfran,SUZE,HEAD_SUZE,FCSuze,Stranger,YES,NO
 The Brain,gecko,BRAIN,HEAD_BRAIN,GCBrain,Human,YES,NO
+The Great Ananias,den,ANA,HEAD_ANA,dcAnan,Friend,YES,NO
 Thomas Moore,valtcity,MOORE,HEAD_MOORE,VCMoore,Stranger,YES,NO
 Torr Buckner,klamath,TORR,HEAD_TORR,KCTorr,Friend,YES,NO
 Tyler,den,TYLER,HEAD_TYLER,dcTyler,Freak,YES,NO
