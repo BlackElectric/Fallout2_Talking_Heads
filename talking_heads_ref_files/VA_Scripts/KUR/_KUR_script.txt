@@ -21,3 +21,5 @@ KUR20 - Hello, fren. Any lu-- Sulik!
 KUR21 - [Kurisu rushes to Sulik, who sweeps her up into an embrace. You turn away to give them some privacy during their emotional reunion. Several moments later, Kurisu turns to you with a grin as she wipes tears from her eyes.] Thank you, fren, for finding brother. Spirits got big plans for you and Sulik. He will be much missed, but the spirits say his place is walking by-and-by with you. Hell, even Grampy Bone like you, so I know Sulik in good hands. You take care.
 KUR22 - Hello, fren. You be having luck finding brother Sulik?
 KUR23 - Sulik... dead? Truly, this be a dark day. I know he be with Grampy now, but Sulik... he will be much missed. [She looks away as tears fill her eyes.] Please... I need being alone now. Thank you... for bringing me home.
+KUR24 - Brother Sulik will be much missed.
+KUR25 - Thanks again, fren. May the spirits bless you.

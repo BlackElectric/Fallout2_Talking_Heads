@@ -1,0 +1,59 @@
+WRITE1 - (Wrinkles cover this old man's face... it looks like any expression other than a scowl is foreign to him. Only a few brown hairs are left in his thick gray hair.) Start talking, tribal. Who are you and what do you want?
+WRITE2 - (Wrinkles cover this old man's face... it looks like any expression other than a scowl is foreign to him. Only a few brown hairs are left in his thick gray hair.) Start talking, slaver. Who are you and what do you want?
+WRITE3 - (Scowls.) Get outta my sight. You come around here again, I'll have you shot, you hear me?
+WRITE4 - (When he sees you, Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!
+WRITE5 - (Mr. Wright's face breaks into a snarl and he starts shouting.) Boys! We got a visitor lookin' for a plot of land in Golgotha! Get in here!
+WRITE6 - Yeah, seems like you got this habit o' coming in and stepping out. Maybe we better take care of that problem o' yours.
+WRITE7 - Yeah, maybe you BETTER leave, and quickly. If you're still here in five seconds, I'll have you shot, you hear me?
+WRITE8 - No SHIT? (Sneers.) Well, pleased to meet you, "simple traveler." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown as he scopes you out.) Looking for work in family Wright, huh?
+WRITE9 - No SHIT? (Sneers.) Well, pleased to meet you, SLAVER. Glad you stopped by, damn neighborly of you. (Sneer crumbles into a scowl.) We don't deal with your kind, you hear? Now, get out!
+WRITE10 - No SHIT? (Sneers.) Well, pleased to meet you, "Kiddo." Glad you stopped by, damn neighborly of you. (Sneer crumbles into a frown.) Looking for work in family Wright, huh?
+WRITE11 - So happens MY family IS family Wright. Blood thicker than water and all. (Scowls.) What makes you think I'd want tribal trash like you in my family? I got all the hitmen I need.
+WRITE12 - So happens MY family IS family Wright. Blood thicker than water and all. (Scowls.) What makes you think I need a piece of tribal ass like you in my family? I got enough whores to suck off all of Northern Cali.
+WRITE13 - (Studies you for a moment.) All right. Maybe you not being in the family could be a good thing. (Scowl fades.) You got children?
+WRITE14 - One of my sons... my boy, Richard, passed away recently. Drug overdose. Jet.
+WRITE15 - I want to know what dealer gave that SHIT to Richard and forced him to take it. Every time I send my boys to find out, they turn up nothin'. Maybe somebody who ain't got Wright blood could get some answers.
+WRITE16 - (Face turns red.) My boys are clean, and they know to stay away from that shit, or I'll kill them. Then SUDDENLY, Richie ODs. Someone pumped a ton of Jet in him, so much that fumes was runnin' outta his nose.
+WRITE17 - (Nods.) All right then. Now look: You find that son of a bitch who killed my boy, don't you touch 'im... you just come back and TELL me the dead man's name. (Eyes blaze.) I'LL take care of it from there.
+WRITE18 - Yer right, we ain't talked price, cause you ain't done nothing BUT talk. I'm letting you prove your worth. Do your job, and you don't need to worry about money. I give you my word as a Wright.
+WRITE19 - (Eyes blaze.) No... everybody's too scared to talk... to a Wright, anyway. If I were you, I would 'question' some of the Reno drug pushers, see what they know. That Jet came from SOMEWHERE.
+WRITE20 - You again. You find out who killed my boy?
+WRITE21 - That so? Word is, the bastard's ALREADY dead, but I ain't telling you nothing new. I TOLD you not to touch him - you screwed up. Now, YOU'RE dead.
+WRITE22 - That bastard's seen his last days. Come morning, he'll be dead. But he'll be a LONG time dying...
+WRITE23 - I owe you... I owe you. Here's a little cash for your trouble, plus some ammo, liquor from my private stock... and another job for you, if you're interested.
+WRITE24 - Well now, before I get into specifics, let's settle accounts first... Here's a little cash for your trouble, plus some ammo, liquor from my private stock... and another job for you, if you're interested.
+WRITE25 - If you think you can jerk me around on this, tribal, you're dead wrong. I've HAD it with your bullshit. (Starts shouting.) Boys! Get in here!
+WRITE26 - If you come back here again and you ain't done what I asked, I'll see you hang in Golgotha, tribal. NO ONE wastes my time. You understand me?
+WRITE27 - It so happens, not too long ago, I came across a map that shows an old army base in the mountains not far from here. You find a way in there, and I'll see that you're taken care of...
+WRITE28 - (Mr. Wright's expression tightens for a moment, then he snorts.) Heh. Not exactly. The fellas I got the map from are dead. They were a tough bunch, but they all got wiped out tryin' to get inside the base.
+WRITE29 - Yeah, the only survivor said... shortly before his unfortunate death... said that there were some kind of super gun turrets guarding the entrance. Wiped out most of his boys.
+WRITE30 - Oh, ol' Sam Pritchard? Sad story. Got drunk one night, mentioned to my boy Keith he'd found this 'base,' and 'fore y'know it, he draws me a map and DIES. He's sleeping in Golgotha now.
+WRITE31 - (Shakes his head.) Too bad. You come back and see me if you change your mind.
+WRITE32 - (Wright smiles when he sees you.) You change your mind about that proposition I had?
+WRITE33 - (Nods, smiles.) All right then. Come back when you found a way in, and I'll see you're well rewarded. Now, as for the location of the base... head north, then... (Gives you the coordinates for the army base.)
+WRITE34 - If you're back and ain't done what I asked, then you're in for a world of hurt.
+WRITE35 - Ah, it's you. You got some good news for me? You find a way into that army base?
+WRITE36 - If you ain't DONE what I asked, then what in HELL are you doing back here?! I need you to crack that base, so don't be coming back here until you've done it!
+WRITE37 - Sorry? SORRY?! That don't cut it this time, tribal. If you think you can waste my time, you're wrong. I can get someone else to fill your shoes. (Shouts at door.) Boys! Get in here!
+WRITE38 - If you come back here again and you ain't done what I asked, I'll see you hang in Golgotha, tribal. NO ONE wastes my time. You understand me?
+WRITE39 - I like it. It's got style. Now you stop on by the Cat's Paw and New Reno Arms, and they'll take care of you. You need free hootch, head on by the train station, too. I'll set you up.
+WRITE40 - An 'accident?' Aw, hell, I don't even want to know. Get outta here and don't ever come back.
+WRITE41 - (Eyes gleam.) You done good, Kiddo. Go to the Cat's Paw and New Reno Arms... tell them you're from me, and they'll set you up. You're family now... a made man, and all Reno's gonna know it.
+WRITE42 - (Smiles when he sees you.)  Well well well ...everyone treating you all right? No problems?
+WRITE43 - (Chuckles.) Not bad, not bad. My wife is still being a holy terror, but that's nothing new. The joys of marriage.
+WRITE44 - Angry? Hell, yes, my goddamn wife just went berserk on one of my stills. Don't know how the hell she found out, but...
+WRITE45 - Angry? Hell, yes, some low-down sonuvabitch destroyed one of my stills. Don't know how the hell he pulled it off, but...
+WRITE46 - Angry? Hell, yes, my customers are dropping off... literally. Something's wrong with the alcohol, and I think it's killing people. I wonder if the fermenting process is poisonous...
+WRITE47 - Funny you should ask. My son got a gun from somewhere... I think it's one of the other families, trying to get him to shoot himself or his old man. When I catch the bastard...
+WRITE48 - (Nods.) Probably nothing. Aw, well...
+WRITE49 - (Frowns.) Way I see it, it was probably a Mordino pusher... that goddamn family controls nearly all the Jet in Reno. I'd scope out the Desperado, see what dealers hang out round there.
+WRITE50 - Wh -? "Poisoned?" What in hell's name are you talking about?
+WRITE51 - "Inspected my son's body?"
+WRITE52 - You ghoulish son of a bitch... you just earned YOURSELF a plot o' land on Golgotha. IF they find all the pieces. (Starts shouting.) Boys! Get in here! And bring yer knives!
+WRITE53 - You ghoulish bitch... you just earned YOURSELF a plot o' land on Golgotha. IF they find all the pieces. (Starts shouting.) Boys! Get in here! And bring yer knives!
+WRITE54 - Assuming I believe this for a second... and I ain't saying I AM... then who POISONED my son? And why did they go to the trouble of dosin' him with Jet?
+WRITE55 - Now why in hell would they do that?
+WRITE56 - (Stares at you for a long time, then a dry chuckle escapes his lips.) You give me an answer, and I can't do nothing about it. The Salvatores... goddammit. (Takes a deep breath.)
+WRITE57 - Know what those Salvatore bastards are ARMED with, friend? Those damned lightbringers. ONE Salvatore packing that kind of heat can kill my whole family without batting an eye. To beat that, I'd need...
+WRITE58 - Ha! The ones in Reno maybe, but you got a lot to learn about the families... there's still Salvatores kicking around beyond Reno, and even if there's just one left, that's trouble. To beat them, I'd need...
+WRITE59 - (Frown deepens.) This smells like a pile of brahmin shit to me...

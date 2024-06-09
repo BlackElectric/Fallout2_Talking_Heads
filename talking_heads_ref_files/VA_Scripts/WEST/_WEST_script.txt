@@ -1,0 +1,23 @@
+WEST1 - I'm Roger Westin and you can't come barging in here. What do you want?
+WEST2 - You again? What do you want?
+WEST3 - What do you want?
+WEST4 - That all? Talk to my foreman, Felix.
+WEST5 - I should have guessed. What did he promise you - money, drugs, or sex? It doesn't matter. You'll never see any of it.
+WEST6 - Oh - simple are you? What a sad thing. It must be a hard cross to bear. Listen - you go, talk to Fee-lix. He give you job. Savvy?
+WEST7 - What do you think? You know too much. What if you come back to NCR and sell him out - or threaten to? You're as good as dead already. On the other hand, I've got a better offer.
+WEST8 - Take out Bishop instead. I'll pay cash, whatever he was paying plus 50%. How much was it?
+WEST9 - Fine then. You do the job, I pay you. You say no, you don't get out of here alive. Well?
+WEST10 - I look forward to hearing from you. Now, go out the way you came.
+WEST11 - Excellent. I knew you were the right person. Well, I promised you pay and I do not renege my deals. Here's your money.
+WEST12 - Dumont recommended you? Well, that's good enough for me. Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.
+WEST13 - Ohh yeah. Well, I was having some problem with varmints, but they stopped coming around. Sorry about that. Try Felix and see if he has anything for you to do.
+WEST14 - Something or someone has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for your trouble.
+WEST15 - Excellent. Felix will guide you out there. Now, if you'll excuse me.
+WEST16 - Well, maybe I can. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't vault 13 then maybe you'll find a clue there that will lead you to it.
+WEST17 - Well, maybe I can. However, I need a favor from you first. Something, or someone, has been raiding my brahmin at night. I need to find out what's up. How about going out there and looking into it for me? I'll pay you for it and I'll tell you what I know.
+WEST18 - Well, then here you go. Nice to meet you, stranger.
+WEST19 - I'm not sure I believe you, but here's your pay. Hell, if you been lying, my boys will find you. I also said I'd give you some information, so here it is. I've heard a lot of stories about Tandi and the Vault Dweller. Seems he saved her life years ago before NCR was even founded. Anyway, legend has it that he spent a lot of time exploring a vault east of here. If that isn't Vault 13 then maybe you'll find a clue there that will lead you to it.
+WEST20 - The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?
+WEST21 - And you're a good Citizen, I'm sure. I want you to take this holodisk back to the 1st Citizen. It's important. It has the information she needs to expose this NCR-New Reno plan.
+WEST22 - Well then, that's all.
+WEST23 - A job. You mean--

@@ -422,7 +422,7 @@ end
 procedure Node007 begin
    num += (num / 2);
 
-   Reply(mstr(131) + " " + num + " " + mstr(168));
+   Reply("Fine then. You do the job, I pay you. You say no, you don't get out of here alive. Well?");
    GOption(132, Node008a, 4);
    BOption(133, NOde999a, 4);
 end

@@ -1,0 +1,13 @@
+ARIEL1 - Hello, I'm Ariel. I don't think I've seen you here before. Who are you?
+ARIEL2 - It's a pleasure to meet you. What can I help you with?
+ARIEL3 - I'm just having some personal problems. It's nothing, really.
+ARIEL4 - Forgive me, but I don't have the time for someone with your attitude. Good-day.
+ARIEL5 - All right.
+ARIEL6 - What do you want to know?
+ARIEL7 - No, I can leave anytime I want. The deathclaws have made that very clear to me. They don't hold anyone here against their will, as far as I know.
+ARIEL8 - Yes. They provide me with food, water, shelter, and protection. I feel very safe here, and that's more than I could ask for.
+ARIEL9 - I've considered it, but I would have to say no. I feel safer here than anywhere else I've ever lived. I do get lonely for the company of other people like myself, but hopefully others will come to live here in the future and satisfy that need.
+ARIEL10 - My husband recently died. I miss him and I'm having problems adjusting. That's all.
+ARIEL11 - My husband and I were traveling with a caravan on its way to the New California Republic. We wanted to start a new life for ourselves and our daughter, Sandy. Unfortunately, the caravan was attacked by raiders one night. They were incredibly brutal. They killed everyone: men, women, and children. Rand, my husband, died trying to defend Sandy and me. We were to die next when a miracle occurred. 
+ARIEL12 - I was holding Sandy behind me, trying to keep her from the monster that had shot Rand. He stood next to my husband's body and laughed at me as he aimed his gun at my head. Suddenly, this huge claw came out of the darkness, grabbed him from behind and... well, thank goodness that Sandy didn't see what happened next. Anyway, the raiders were being wiped out by this group of deathclaws. The one that saved Sandy and me stood near us and talked to me. He kept reassuring me that I was safe, and that he was sorry that he couldn't have gotten there sooner to help us. Afterwards, the deathclaws brought us here.
+ARIEL13 - I've already told you about the raid. That's when it happened.

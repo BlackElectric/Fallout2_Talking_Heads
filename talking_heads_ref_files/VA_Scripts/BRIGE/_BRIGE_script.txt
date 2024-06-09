@@ -1,0 +1,8 @@
+BRIGE1 - Stop! Who would cross the Bridge of Death must answer me these questions three, 'ere the other side he see.
+BRIGE2 - What is your name?
+BRIGE3 - What is your quest?
+BRIGE4 - Which non-player character from Fallout 1 survived to appear in the sequel, although the said person may be now very old?
+BRIGE5 - Which non-player character from Fallout 1 survived to appear in the sequel?
+BRIGE6 - How much weight can a person with a strength of six carry assuming he has the Strong Back perk?
+BRIGE7 - What is the minimum requirement for the Quick Pockets perk?
+BRIGE8 - Right. Off you go.

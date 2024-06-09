@@ -1,0 +1,50 @@
+WONG1 - [He sniffs the air.] What is that smell? Like rotten meat. [He looks at you and raises an eyebrow.]
+WONG2 - May I assist you with something?
+WONG3 - I must confess, I do not speak your tongue. Perhaps you ought to speak to Ken Lee, he understands many different languages.
+WONG4 - I am Dr. Wong. I am the head scientist of this installation.
+WONG5 - I oversee the scientific experiments we create and run here. I also am in charge of the computer network.
+WONG6 - Ah, but if I tell you our plans, then everyone will know. I'm afraid they are secret plans, for now.
+WONG7 - Why, one learns how to hack into it, or how to make friends with one of my underlings. I'm joking, of course, about hacking into it - if you were to do that, I'd send someone after you to kill you. [He smiles to show he means no offense.]
+WONG8 - Then I would have to regard it as a threat and warn you that such a course of action might be detrimental to your health.
+WONG9 - [He smiles] We must protect our honor, stranger.
+WONG10 - If you can convince my subordinates into doing so. But I certainly won't.
+WONG11 - Ahh, yes! Indeed. I will prepare it with fava beans and a nice Chianti.
+WONG12 - Who is this Chip? It's my spleen now, and I'm having it for dinner.
+WONG13 - A deal is a deal. He can't have it. Sorry, but we made a bargain and just because Chip regrets it now doesn't mean he can go back on his deal.
+WONG14 - It's a human spleen? Lao Chou didn't tell me that! Yet, because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead.
+WONG15 - It's a human spleen? Lao Chou didn't tell me that! Tell your friend to come by for it within the next day, and I will gladly return it to him. I just hope you can find a way to replace it in his body in time.
+WONG16 - Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?
+WONG17 - Actually, I would object to that. You have not shown yourself to be of good character. Indeed, I do not know why I am talking to you. Good day.
+WONG18 - You have certain schematics to give to me?
+WONG19 - Speak to Ken Lee, and he shall discuss what happens in your future. Thank you. We shall be able to verify some of our test data with these. Good day.
+WONG20 - Yes, it is indeed! My predecessor had much invested in this subject and was quite distressed when it went missing. Although he is now gone, we still may have some use for this specimen. Thank you for retrieving this.
+WONG21 - Correct. Nor did anyone ask you to retrieve the subject. You did that and brought it here of your own volition. Now the stolen subject has been returned to its rightful owners, and we thank you for it.
+WONG22 - [The man looks like he is about to yell, then calms down.] Fine. Here is $500. More than enough for something that always belonged to us. Now leave, I'm a busy man.
+WONG23 - I don't have time for this... Guards!
+WONG24 - How do you know about Dr. Sheng? Eh, I suppose it doesn't matter. Dr. Sheng Ming was a brilliant, but rather unpleasant man who served as my predecessor. He is no longer of any great relevance here.
+WONG25 - What happened? I'd say he lost his mind. During his experiments he stumbled upon something which I admit was rather remarkable, but it was also extremely dangerous and in no way related to the goals of the Shi. But that did not matter to Dr. Sheng. He became obsessed with his creation and since his experiments were deemed too dangerous to continue here, he decided to take them elsewhere. He left on sabbatical and never returned. That is when I stepped up to fill his position.
+WONG26 - As a man of science, I respect your inquisitive nature. However, I'm afraid I am not willing to share the secrets of the Shi with you, stranger.
+WONG27 - [He smiles politely.] I'm sure you do. Now if you will excuse me, I have plenty of work that needs doing. Good day.
+WONG28 - Dr. Sheng was escorted a day or so to the south. He took up residence in some abandoned home, if I'm not mistaken. He was only supposed to be gone for a month, but it's been much longer and we have yet to hear from him. If I were to guess, I would say he was either destroyed by his own creations, or else fell victim to the numerous hazards of the wasteland.
+WONG29 - You'll have to excuse me for seeming so callous about the matter. The truth is, Dr. Sheng was not very popular around here and I do not believe any of us miss him in the slightest.
+WONG30 - I suppose I could... I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.
+WONG31 - So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?
+WONG32 - Hmm... If he were to somehow establish an army of those plant-creatures, that would not bode well for the Shi. I was hoping it wouldn't come to this, but it seems we have no choice but to ensure that Dr. Sheng and his experiments are eliminated. Since he trusts you enough to allow you get close to him, you are the best candidate. Is that something you'd be willing to do? You would be compensated, of course.
+WONG33 - The Shi will be most grateful for this service. Once Dr. Sheng and all of his creations have been eliminated, report back to me to receive your reward.
+WONG34 - I'll leave that up to you. We could grant you weapons, supplies, or money. You may decide once the task is complete.
+WONG35 - Fair enough. We will handle the problem ourselves, but it will have to wait, as we don't have the resources to expend at the moment. Hopefully it won't be too late once we are able to act. In the meantime, if you should change your mind, please let me know.
+WONG36 - I don't suppose you have changed your mind? Will you help us eliminate Dr. Sheng and his creations?
+WONG37 - Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?
+WONG38 - Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?
+WONG39 - Here you go. [He hands you various high powered weapons]
+WONG40 - Here you go. [He hands you various supplies]
+WONG41 - Here you go. [He hands you $5,000]
+WONG42 - The Shi appreciates your assistance. Now, I have much work to do. Good day.
+WONG43 - Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. Now if there is nothing else, I should be getting back to work.
+WONG44 - Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. But I thought you were going to eliminate Dr. Sheng, not be his courier? In any case, I should be getting back to work.
+WONG45 - Do you, now? The Shi did not solicit this plant sample from you, but if you feel your deeds have earned some compensation, I suppose we could spare this. [He hands you a super stimpak.] Now I really should be getting back to work.
+WONG46 - Wait a second, that's the subject from the Xeno Project! My predecessor had much invested in this subject and was quite distressed when it went missing. Although he is now gone, we still may have some use for this subject. Thank you.
+WONG47 - No, I do not want-- Wait a second, that's the subject from the Xeno Project! My predecessor had much invested in . . . [He notices your blank stare.] Ahem. I mean, thank you for the body. Good job. Don't bring any more though. This is enough. Bye now!
+WONG48 - [Takes the seed.] Thank you, I will dispose of this immediately. [He sighs.] I knew Dr. Sheng had lost it, but I didn't think he'd go so far as to try and destroy his own people. He must be dealt with immediately.
+WONG49 - So where is it then? Are you trying to play games with me?
+WONG50 - I don't have time for this. Come back when you have the specimen.

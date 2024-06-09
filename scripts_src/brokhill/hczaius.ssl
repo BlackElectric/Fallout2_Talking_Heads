@@ -463,7 +463,7 @@ procedure Node015a begin
 end
 
 procedure Node016 begin
-   Reply( mstr(302) + local_var(LVAR_Reward) + mstr(147) );
+   Reply("I'll pay you handsomely to fix the mine.");
    NOption(148,Node016a,004);
    GOption(149,Node019,004);
    BOption(150,Node021,004);
@@ -504,7 +504,7 @@ procedure Node019 begin
    dude_caps_adjust(val);
    set_global_var(GVAR_BH_MINE, MINE_REWARD_CASH);
    mark_new_reno_on_map
-   Reply(mstr(302) + local_var(LVAR_Reward) + mstr(155));
+   Reply("Ok, then. Take half now. I'll give you the other half when you're done. Go to New Reno and look for Renesco. He's got tools just lying around his office. He should be able to help you with the parts.");
    NOption(156,Node999,004);
 end
 

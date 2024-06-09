@@ -264,3 +264,27 @@
 {710}{}{You delivered the repair kit to Skeeter.}
 
 {5500}{}{.}
+
+###################################################
+#MANUALLY GENERATED DIALOGUE FOR TALKING HEADS MOD#
+###################################################
+{6698}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum for free.}
+{6699}{}{Hmm, that Desert Eagle would sure be a sweet rig with an expanded magazine. I can do that for free.}
+{6700}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum for free. Hmm, that Desert Eagle would sure be a sweet rig with an expanded magazine. I can do that for free.}
+{6701}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum, but it will cost you.}
+{6702}{}{Hmm, that Desert Eagle would sure be a sweet rig with an expanded magazine. If you pay me I can get it done.}
+{6703}{}{[Spots your magnum revolver.] I can rig a speed loader on that there magnum, but it will cost you. Also, that Desert Eagle would sure be a sweet rig with an expanded magazine. If you pay me I can get it done.}
+{6704}{SKEET36}{[Skeeter studies your long arm, and nods slowly.]I can put a nice scope all-weather on that hunting rifle for free.}
+{6705}{SKEET37}{[Skeeter studies your long arm, and nods slowly.]Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for free.}
+{6706}{SKEET38}{[Skeeter studies your long arm, and nods slowly.]I can put a nice scope all-weather on that hunting rifle for free. Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for free.}
+{6707}{SKEET39}{[Skeeter studies your long arm, and nods slowly.] That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for free.}
+{6708}{SKEET40}{[Skeeter studies your long arm, and nods slowly.] I can put a nice scope all-weather on that hunting rifle for free. That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for free.}
+{6709}{SKEET41}{[Skeeter studies your long arm, and nods slowly.] Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for free. That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for free.}
+{6710}{SKEET42}{[Skeeter studies your long arm, and nods slowly.]I can put a nice scope all-weather on that hunting rifle for free. Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for free. That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for free.}
+{6711}{SKEET43}{[Skeeter studies your long arm, and nods slowly.] I can put a nice all-weather scope on that hunting rifle for a fair price.}
+{6712}{SKEET44}{[Skeeter studies your long arm, and nods slowly.] Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for a fair price.}
+{6713}{SKEET45}{[Skeeter studies your long arm, and nods slowly.] I can put a nice all-weather scope on that hunting rifle for a fair price.  Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for a fair price.}
+{6714}{SKEET46}{[Skeeter studies your long arm, and nods slowly.] That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for a fair price.}
+{6715}{SKEET47}{[Skeeter studies your long arm, and nods slowly.] I can put a nice all-weather scope on that hunting rifle for a fair price.  That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for a fair price.}
+{6716}{SKEET48}{[Skeeter studies your long arm, and nods slowly.] Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for a fair price.  That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for a fair price.}
+{6717}{SKEET49}{[Skeeter studies your long arm, and nods slowly.] I can put a nice all-weather scope on that hunting rifle for a fair price.  Nothing like having an assault rifle with an expanded magazine. I can fix yours up with one for a fair price. That FN FAL is a good gun. Hey, I got a low-light scope for that. It's yours for a fair price.}
