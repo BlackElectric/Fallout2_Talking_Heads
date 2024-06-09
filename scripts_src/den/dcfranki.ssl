@@ -152,15 +152,15 @@ procedure talk_p_proc begin
    GetReaction;
    ReactToLevel; //added by killap
    if ((bad_critter_reaction) or (REP_ENEMY_DEN) or (mom_attacked)) then begin
-      start_dialog_at_node(Node007);
+      th_start_dialog_at_node(Node007,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else if ( (still_quest(state_still_quest_asked_to_destroy)) or (still_quest(state_still_quest_destroyed)) ) then begin //added (still_quest(state_still_quest_asked_to_destroy)) - by killap
-      start_dialog_at_node(Node014);
+      th_start_dialog_at_node(Node014,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else if (still_quest(state_still_quest_serching)) then begin
-      start_dialog_at_node(Node012);
+      th_start_dialog_at_node(Node012,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else if (herebefore) then begin
-      start_dialog_at_node(Node002);
+      th_start_dialog_at_node(Node002,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else begin
-      start_dialog_at_node(Node000);
+      th_start_dialog_at_node(Node000,HEAD_FRANK,BACKGROUND_RAIDERS);
    end
    set_herebefore;
 end

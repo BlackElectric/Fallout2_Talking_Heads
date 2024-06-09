@@ -362,9 +362,9 @@ procedure talk_p_proc begin
          call Node103;
       end
    end else if (Fallout2_enclave_destroyed) then begin
-      start_dialog_at_node(Node003);
+      th_start_dialog_at_node(Node003,HEAD_TULLY,BACKGROUND_RAIDERS);
    end else begin
-      start_dialog_at_node(Node007);
+      th_start_dialog_at_node(Node007,HEAD_TULLY,BACKGROUND_RAIDERS);
    end
    set_herebefore;
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);

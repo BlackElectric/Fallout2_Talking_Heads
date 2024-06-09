@@ -335,7 +335,7 @@ procedure talk_p_proc begin
    end else begin
       prev_node := 0;
       give_eldridge_box(new_reno_eldridge_box)
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_ELD,BACKGROUND_HUB);
          gSay_Start;
             if (know_eldridge) then begin
                if (Fallout2_enclave_destroyed) then begin

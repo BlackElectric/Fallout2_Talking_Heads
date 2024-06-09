@@ -183,7 +183,7 @@ procedure talk_p_proc begin
    else if( global_var( GVAR_GECKO_FIND_WOODY ) >= WOODY_FOUND ) then
       call Node001;
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ANAN,BACKGROUND_HUB);
       gSay_Start;
          call Node003;
       gSay_End;

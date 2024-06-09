@@ -197,7 +197,7 @@ procedure talk_p_proc begin
    end
 
    else if ( (local_var(LVAR_Fannie_Dead_Rant) == 0) and (map_var(MVAR_Fannie_Mae) == FANNIE_DEAD) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,7,HEAD_LOU,BACKGROUND_SHADY);
        gSay_Start;
            call Node025;
        gSay_End;
@@ -205,7 +205,7 @@ procedure talk_p_proc begin
    end
 
    else if ( (local_var(LVAR_Fannie_Money_Rant) == 0) and (map_var(MVAR_Fannie_Mae) == FANNIE_MONEY_GIVEN) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,7,HEAD_LOU,BACKGROUND_SHADY);
        gSay_Start;
            call Node026;
        gSay_End;
@@ -213,7 +213,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_LOU,BACKGROUND_SHADY);
        gSay_Start;
            call Node001;
        gSay_End;

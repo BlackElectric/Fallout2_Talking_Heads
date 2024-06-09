@@ -256,7 +256,7 @@ procedure talk_p_proc begin
    if( ( game_time_hour > 200 ) and ( game_time_hour < 700 ) ) then begin
       floater(258);
    end else if ( Fallout2_enclave_destroyed ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_LYDIA,BACKGROUND_ADOBE);
        gSay_Start;
            call Node008;
        gSay_End;
@@ -268,7 +268,7 @@ procedure talk_p_proc begin
    end else if( night ) then begin
       call Node007;
    end else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_LYDIA,BACKGROUND_ADOBE);
        gSay_Start;
            call Node012;
        gSay_End;

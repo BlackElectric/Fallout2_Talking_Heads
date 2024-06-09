@@ -366,7 +366,7 @@ variable temp_dog;
       if (get_sub_stage == wedding_stage_response_wait) then begin
          move_obj_inven_to_obj(self_obj,generic_temp_box);
          move_obj_inven_to_obj(modoc_grisham_box_obj,self_obj);
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,7,HEAD_GRISH,BACKGROUND_JUNKTOWN);
          gSay_Start;
             if (sex_act_straight) then begin
                call Node041;
@@ -395,7 +395,7 @@ variable temp_dog;
          if (grisham_dead == false) then begin
             move_obj_inven_to_obj(self_obj,generic_temp_box);
             move_obj_inven_to_obj(modoc_grisham_box_obj,self_obj);
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_GRISH,BACKGROUND_JUNKTOWN);
             gSay_Start;
                call Node050;
             gSay_End;
@@ -414,7 +414,7 @@ variable temp_dog;
          set_dude_met_grisham;
          move_obj_inven_to_obj(self_obj,generic_temp_box);
          move_obj_inven_to_obj(modoc_grisham_box_obj,self_obj);
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_GRISH,BACKGROUND_JUNKTOWN);
          gSay_Start;
             if (herebefore == false) then begin
                call Node000;

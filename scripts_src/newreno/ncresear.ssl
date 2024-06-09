@@ -155,7 +155,7 @@ procedure talk_p_proc begin
    end else if (gave_ident) then begin
       call Node002;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_MARJ,BACKGROUND_MILITARYBS);
       gSay_Start;
          call Node004;
       gSay_End;

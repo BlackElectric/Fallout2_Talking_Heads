@@ -252,17 +252,17 @@ procedure talk_p_proc begin
       end else if (belongs_here == false) then begin
          call Node002;
       end else if (get_still_mission(still_mission_assigned)) then begin
-         start_dialog_at_node(Node044);
+         th_start_dialog_at_node(Node044,HEAD_EW,BACKGROUND_SHADY);
       end else if (ethyl_discovered_still) then begin
-         start_dialog_at_node(Node039);
+         th_start_dialog_at_node(Node039,HEAD_EW,BACKGROUND_SHADY);
       end else if (dude_has_porn_star_rep) then begin
-         start_dialog_at_node(Node035);
+         th_start_dialog_at_node(Node035,HEAD_EW,BACKGROUND_SHADY);
       end else if has_rep_slaver or has_rep_childkiller or has_rep_berserker or mrs_wright_pissed then begin
-         start_dialog_at_node(Node037);
+         th_start_dialog_at_node(Node037,HEAD_EW,BACKGROUND_SHADY);
       end else if ((know_mrs_wright) and (herebefore)) then begin
-         start_dialog_at_node(Node024);
+         th_start_dialog_at_node(Node024,HEAD_EW,BACKGROUND_SHADY);
       end else begin
-         start_dialog_at_node(Node005);
+         th_start_dialog_at_node(Node005,HEAD_EW,BACKGROUND_SHADY);
       end
    if (new_reno_ethyl_wright_box != 0) then begin
       move_obj_inven_to_obj(self_obj, new_reno_ethyl_wright_box);

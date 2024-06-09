@@ -26,6 +26,7 @@
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
+#include "../headers/partybkg.h"
 
 #define PARTY_NODE_X                   Node1000
 
@@ -394,22 +395,25 @@ procedure kill_p_proc begin
 end
 
 procedure talk_p_proc begin
+
+   find_party_background;
+
   if (local_var(LVAR_Herebefore) == 0) then begin
       set_local_var(LVAR_Herebefore,1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_KIT,PartyMemberBackground);
       gSay_Start;
          call Node001;
       gSay_End;
       end_dialogue;
   end else begin
       if ((Kitsune_In_Party) or (party_is_waiting)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KIT,PartyMemberBackground);
          gSay_Start;
             call Node1000;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KIT,PartyMemberBackground);
          gSay_Start;
             call Node060;
          gSay_End;
@@ -434,7 +438,7 @@ end
 procedure Node002 begin
    if (map_var(MVAR_Kitsune_Free) == 2) then begin
       Reply(5000);
-	   NOption(5001,Node999,004);
+	   BOption(5001,Node999,004);
 	   set_local_var(LVAR_Kill_NPC,1);
       destroy_object(tile_contains_pid_obj(KITSUNE_HIB_HEX,dude_elevation,33556339));
       chamber:=create_object(33556343,KITSUNE_HIB_HEX,dude_elevation);
@@ -452,12 +456,12 @@ end
 
 procedure Node004 begin
    Reply(207);
-   NOption(209,Node006,004);
+   BOption(209,Node006,004);
 end
 
 procedure Node005 begin
    Reply(208);
-   NOption(209,Node006,004);
+   BOption(209,Node006,004);
 end
 
 procedure Node006 begin
@@ -487,13 +491,13 @@ end
 
 procedure Node011 begin
    Reply(220);
-   NOption(221,Node012,004);
-   NOption(245,Node012a,004);
+   GOption(221,Node012,004);
+   BOption(245,Node012a,004);
 end
 
 procedure Node012a begin
    Reply(246);
-   NOption(247,Node012,004);
+   GOption(247,Node012,004);
 end
 
 procedure Node012 begin
@@ -718,12 +722,12 @@ end
 
 procedure Node050 begin
    Reply(355);
-   NOption(356,Node051,004);
+   GOption(356,Node051,004);
 end
 
 procedure Node051 begin
    Reply(357);
-   NOption(360,Node052,004);
+   GOption(360,Node052,004);
 end
 
 procedure Node052 begin

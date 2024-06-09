@@ -210,7 +210,7 @@ procedure talk_p_proc begin
      float_msg(self_obj, message_str(SCRIPT_DCGAMBLE,200), FLOAT_COLOR_NORMAL);
    // end added
    end else begin*/
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_NIKKI,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node007;
       gSay_End;

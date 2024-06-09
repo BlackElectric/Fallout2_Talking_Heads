@@ -190,13 +190,13 @@ procedure talk_p_proc begin
       kill_leader := 0;
 
       if (Fallout2_enclave_destroyed) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_CHIEF,BACKGROUND_TENT);
          gSay_Start;
             call Node007;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_CHIEF,BACKGROUND_TENT);
          gSay_Start;
             call Node001;
          gSay_End;

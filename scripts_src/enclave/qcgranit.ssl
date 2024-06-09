@@ -197,7 +197,7 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_GRANI,BACKGROUND_ENCLAVE);
        gSay_Start;
            call Node003;
        gSay_End;

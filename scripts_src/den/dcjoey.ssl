@@ -157,11 +157,11 @@ procedure pickup_p_proc begin
 end
 
 procedure talk_p_proc begin
-   check_forced_dialog
+   th_check_forced_dialog(HEAD_JOEYD,BACKGROUND_NECROPOLIS)
    else begin
       GetReaction;
       ReactToLevel; //added by killap
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_JOEYD,BACKGROUND_NECROPOLIS);
       gSay_Start;
          if ((hostile) or (mom_attacked) or (mom_dead)) then begin
             call Node001;

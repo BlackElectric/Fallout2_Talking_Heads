@@ -181,7 +181,7 @@ procedure talk_p_proc begin
    if (wright_dead) then begin
       call Node005;
    end else begin
-      start_dialog_at_node(Node006);
+      th_start_dialog_at_node(Node006,HEAD_KEITH,BACKGROUND_SHADY);
    end
    set_herebefore;
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);

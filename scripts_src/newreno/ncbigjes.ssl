@@ -276,30 +276,30 @@ procedure talk_p_proc begin
       slave_price := 0;
       if ((myron_in_room) or (pissed)) then begin
          ndebug("Node006");
-         start_dialog_at_node(Node006);
+         th_start_dialog_at_node(Node006,HEAD_BGJES,BACKGROUND_RAIDERS);
       end else if (dude_family == self_family) then begin
          ndebug("Node003");
          call Node003;
       end else if ((get_delivery(delivery_assigned)) or (get_delivery(delivery_delivered))) then begin
          ndebug("Node021");
-         start_dialog_at_node(Node021);
+         th_start_dialog_at_node(Node021,HEAD_BGJES,BACKGROUND_RAIDERS);
       end else if ((get_extortion_bros(extortion_bros_assigned)) or (get_extortion_bros(extortion_bros_collected))) then begin
          if (bros_dead) then begin
             ndebug("Node028");
-            start_dialog_at_node(Node028);
+            th_start_dialog_at_node(Node028,HEAD_BGJES,BACKGROUND_RAIDERS);
          end else begin
             ndebug("Node029");
-            start_dialog_at_node(Node029);
+            th_start_dialog_at_node(Node029,HEAD_BGJES,BACKGROUND_RAIDERS);
          end
       end else if (get_assassination(assassination_assigned)) then begin
          ndebug("Node039");
-         start_dialog_at_node(Node039);
+         th_start_dialog_at_node(Node039,HEAD_BGJES,BACKGROUND_RAIDERS);
       end else if (know_big_jesus) then begin
          ndebug("Node007");
-         start_dialog_at_node(Node007);
+         th_start_dialog_at_node(Node007,HEAD_BGJES,BACKGROUND_RAIDERS);
       end else begin
          ndebug("Node005");
-         start_dialog_at_node(Node005);
+         th_start_dialog_at_node(Node005,HEAD_BGJES,BACKGROUND_RAIDERS);
       end
       set_herebefore;
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);

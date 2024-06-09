@@ -115,7 +115,7 @@ procedure Node036;
 procedure Node037;
 procedure Node038;
 procedure Node039;
-procedure Node040;
+//procedure Node040; - Node is not defined from RPU source, commenting out
 procedure Node041;
 
 procedure Node990;
@@ -284,7 +284,10 @@ procedure talk_p_proc begin
    if (cur_map_index == MAP_VAULTCITY_DOWNTOWN) then
    begin
      if (town_known(AREA_VAULT_VILLAGE) == MARK_STATE_VISITED) then begin
-        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+        if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
         gsay_start;
          call Node022;
         gsay_end;
@@ -295,7 +298,10 @@ procedure talk_p_proc begin
    end else
    if (global_var(GVAR_VAULT_MONSTER_COUNT) == 0) then
    begin
-     start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+     if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
      gsay_start;
       call Node005;
      gsay_end;
@@ -307,7 +313,10 @@ procedure talk_p_proc begin
    //end
 
    if (global_var(GVAR_VAULT_VILLAGE) == VILLAGE_SCREWED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
        gSay_Start;
            call Node012;
        gSay_End;
@@ -317,21 +326,30 @@ procedure talk_p_proc begin
    if (local_var(LVAR_Herebefore) == 0) then begin
        set_local_var(LVAR_Herebefore,1);
        set_map_var(0, 1);
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
        gSay_Start;
            call Node002;
        gSay_End;
        end_dialogue;
    end
    else if ( (local_var(LVAR_Has_Weapons_But_Didnt_Give)) and (global_var(GVAR_QUEST_VAULT_VILLAGE) < VILLAGE_QUEST_DELIVERED_GUNS) ) then begin
-      start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+      if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
       gsay_start;
          call Node036;
       gsay_end;
       end_dialogue;
    end
    else if ( (local_var(LVAR_Diplomatic_Approach) >= 1) and (local_var(LVAR_Diplomatic_Approach) < 2) ) then begin
-      start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+      if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
       gsay_start;
          call Node035;
       gsay_end;
@@ -339,7 +357,10 @@ procedure talk_p_proc begin
    end
    else if ((local_var(LVAR_Herebefore) == 1) and (global_var(GVAR_QUEST_VAULT_VILLAGE) == 0)) then
    begin
-     start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, -1, -1);
+     if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
      gsay_start;
       call Node007; //ISSUES - killap
      gsay_end;
@@ -347,7 +368,10 @@ procedure talk_p_proc begin
    end
 
    else if ( (global_var(GVAR_QUEST_VAULT_VILLAGE) >= VILLAGE_QUEST_GET_GUNS) and (global_var(GVAR_QUEST_VAULT_VILLAGE) <= VILLAGE_QUEST_GOT_GUNS) )  then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND_NIGHT);
+        else
+        start_gdialog(SCRIPT_VCCONNAR, self_obj, 4, HEAD_CNR, BACKGROUND_WASTELAND);
        gSay_Start;
            call Node013;
        gSay_End;

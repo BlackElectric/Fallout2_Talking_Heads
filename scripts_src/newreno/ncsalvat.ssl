@@ -117,6 +117,7 @@ procedure Node043;
                                           end
 #define give_salvatore_money(x)           self_caps_adjust(x);   \
                                           dude_caps_adjust(-x)
+
 variable prev_node;
 
 /* Imported variables from the Map scripts. These should only be
@@ -214,31 +215,31 @@ procedure talk_p_proc begin
       end else if (salvatore_done) then begin
          call Node041; //moved up by killap - was never being called before.
 //      end else if ((salvatore_permission == false) or (get_tribute(tribute_failed)) or (get_guard_assignment(guard_assignment_failed))) then begin
-//         start_dialog_at_node(Node003);
+//         th_start_dialog_at_node(Node003,HEAD_SALVA,BACKGROUND_RAIDERS);
       end else if ((get_track_lloyd(track_lloyd_mason)) or (get_track_lloyd(track_lloyd_assigned))) then begin
          call Node015;
       end else if (get_track_lloyd(track_lloyd_salvatore)) then begin
-         start_dialog_at_node(Node016);
+         th_start_dialog_at_node(Node016,HEAD_SALVA,BACKGROUND_RAIDERS);
       end else if ((get_tribute(tribute_mason)) or (get_tribute(tribute_assigned)) or (get_tribute(tribute_refused)) or (get_tribute(tribute_collected))) then begin
          call Node015;
       end else if (get_tribute(tribute_salvatore)) then begin
-         start_dialog_at_node(Node027);
+         th_start_dialog_at_node(Node027,HEAD_SALVA,BACKGROUND_RAIDERS);
       end else if ((get_guard_assignment(guard_assignment_mason)) or (get_guard_assignment(guard_assignment_assigned))) then begin
          call Node015;
       end else if (get_guard_assignment(guard_assignment_success)) then begin
          if (salvatore_respect > 9) then begin
-            start_dialog_at_node(Node037);
+            th_start_dialog_at_node(Node037,HEAD_SALVA,BACKGROUND_RAIDERS);
          end else begin
-            start_dialog_at_node(Node032);
+            th_start_dialog_at_node(Node032,HEAD_SALVA,BACKGROUND_RAIDERS);
          end
    /* Begin killap comment out
       end else if (salvatore_done) then begin
          call Node041;
    End killap comment out*/
       end else if ((salvatore_permission == false) or (get_tribute(tribute_failed)) or (get_guard_assignment(guard_assignment_failed))) then begin //moved by killap
-         start_dialog_at_node(Node003); //moved by killap
+         th_start_dialog_at_node(Node003,HEAD_SALVA,BACKGROUND_RAIDERS); //moved by killap
       end else begin
-         start_dialog_at_node(Node004);
+         th_start_dialog_at_node(Node004,HEAD_SALVA,BACKGROUND_RAIDERS);
       end
       set_herebefore;
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);

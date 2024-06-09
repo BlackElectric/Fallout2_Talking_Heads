@@ -189,49 +189,49 @@ procedure talk_p_proc begin
    if (san_fran_flag(SF_ELRON_ENEMY)) then begin
       call Node001;
    end else if (struggle_flag(STRUG_SHIRECRUIT)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node032;
       gSay_End;
       end_dialogue;
    end else if (struggle_flag(STRUG_SHIDOUBLE)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node035;
       gSay_End;
       end_dialogue;
    end else if ((struggle_flag(STRUG_ELRECRUIT) or struggle_flag(STRUG_ELRECRUIT2) or struggle_flag(STRUG_ELDOUBLE)) and not (san_fran_flag(SF_LEE_DEAD) or san_fran_flag(SF_EMPEROR_FORMATTED)) ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node010;
       gSay_End;
       end_dialogue;
    end else if (san_fran_flag(SF_EMPEROR_FORMATTED) or san_fran_flag(SF_LEE_DEAD)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node012;
       gSay_End;
       end_dialogue;
    end else if (local_var(LVAR_Herebefore) == 1 and not DUDE_ADJUSTED and dude_iq < 4) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node004;
       gSay_End;
       end_dialogue;
    end else if (elron_flag(EL_ACCEPTED)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node024;
       gSay_End;
       end_dialogue;
    end else if (elron_flag(EL_ACBADGER)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node010;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_AHS9H,BACKGROUND_PRESIDENT);
       gSay_Start;
          call Node002;
       gSay_End;

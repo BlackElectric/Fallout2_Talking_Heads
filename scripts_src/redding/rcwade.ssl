@@ -308,7 +308,10 @@ procedure talk_p_proc begin
        end
 
        else if (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_THEFT) then begin
-           start_gdialog(NAME,self_obj,4,-1,-1);
+           if night then
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND_NIGHT);
+           else
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND);
            gSay_Start;
                call Node006;
            gSay_End;
@@ -316,7 +319,10 @@ procedure talk_p_proc begin
        end
 
        else if (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_TOTAL_FAILURE) then begin
-           start_gdialog(NAME,self_obj,4,-1,-1);
+           if night then
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND_NIGHT);
+           else
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND);
            gSay_Start;
                call Node007;
            gSay_End;
@@ -324,7 +330,10 @@ procedure talk_p_proc begin
        end
 
        else if (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_FAILURE) then begin
-           start_gdialog(NAME,self_obj,4,-1,-1);
+           if night then
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND_NIGHT);
+           else
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND);
            gSay_Start;
                call Node008;
            gSay_End;
@@ -332,7 +341,10 @@ procedure talk_p_proc begin
        end
 
        else if (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_AVERAGE_SUCCESS) then begin
-           start_gdialog(NAME,self_obj,4,-1,-1);
+           if night then
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND_NIGHT);
+           else
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND);
            gSay_Start;
                call Node009;
            gSay_End;
@@ -340,7 +352,10 @@ procedure talk_p_proc begin
        end
 
        else if (global_var(CURRENT_CARAVAN) == REDDING_CARAVAN_COMPLETE_SUCCESS) then begin
-           start_gdialog(NAME,self_obj,4,-1,-1);
+           if night then
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND_NIGHT);
+           else
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND);
            gSay_Start;
                call Node010;
            gSay_End;
@@ -361,7 +376,10 @@ procedure talk_p_proc begin
    end
 
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       if night then
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND_NIGHT);
+           else
+           start_gdialog(NAME,self_obj,4,HEAD_BEN,BACKGROUND_WASTELAND);
        gSay_Start;
            call Node003;
        gSay_End;

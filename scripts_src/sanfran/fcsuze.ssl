@@ -217,31 +217,31 @@ procedure talk_p_proc begin
          set_local_var(LVAR_Follow_Dude, 1);
       call Node001;
    end else if (badger_flag(BADGER_FGFRIEND)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SUZE,BACKGROUND1);
       gSay_Start;
          call Node002;
       gSay_End;
       end_dialogue;
    end else if (badger_flag(BADGER_GFRIEND2)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SUZE,BACKGROUND1);
       gSay_Start;
          call Node008;
       gSay_End;
       end_dialogue;
    end else if (badger_flag(BADGER_DEADCBT) or badger_flag(BADGER_DEADSHI)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SUZE,BACKGROUND1);
       gSay_Start;
          call Node009;
       gSay_End;
       end_dialogue;
    end else if (dude_iq < 4) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SUZE,BACKGROUND1);
       gSay_Start;
          call Node003;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SUZE,BACKGROUND1);
       gSay_Start;
          call Node008;
       gSay_End;

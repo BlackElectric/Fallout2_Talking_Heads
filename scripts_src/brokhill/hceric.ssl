@@ -170,7 +170,7 @@ procedure talk_p_proc begin
       call Node001;
    else if( ( global_var( GVAR_BH_POWER ) == POWER_DONE ) and
             ( local_var( LVAR_Rewarded ) == 0 ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ERIC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node016;
        gSay_End;
@@ -180,21 +180,21 @@ procedure talk_p_proc begin
               ( local_var( LVAR_Rewarded ) == 1 ) ) or
             ( ( global_var( GVAR_BH_POWER ) >= POWER_ACCEPTED ) and
               ( global_var( GVAR_BH_POWER ) < POWER_DONE ) ) ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ERIC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node008;
        gSay_End;
        end_dialogue;
    end
    else if( global_var( GVAR_BH_POWER ) == POWER_KNOWN ) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_ERIC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node019;
        gSay_End;
        end_dialogue;
    end
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ERIC,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node002;
       gSay_End;

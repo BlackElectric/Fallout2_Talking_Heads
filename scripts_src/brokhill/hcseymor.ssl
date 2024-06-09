@@ -230,28 +230,40 @@ procedure talk_p_proc begin
 
    if( Force_Dialog == 1 ) then begin
       Force_Dialog := 0;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND_NIGHT);
+      else
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND);
       gSay_Start;
          call Node018;
       gSay_End;
       end_dialogue;
    end
    else if( map_var( MVAR_Seymour_Status ) == SEYMOUR_PLANTED ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND_NIGHT);
+      else
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND);
       gSay_Start;
          call Node013;
       gSay_End;
       end_dialogue;
    end
    else if( map_var( MVAR_Seymour_Status ) == SEYMOUR_AGREED ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND_NIGHT);
+      else
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND);
       gSay_Start;
          call Node015;
       gSay_End;
       end_dialogue;
    end
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      if night then
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND_NIGHT);
+      else
+      start_gdialog(NAME,self_obj,4,HEAD_PLANT,BACKGROUND_WASTELAND);
       gSay_Start;
          if( local_var( LVAR_Herebefore ) == 0 ) then begin
             set_local_var( LVAR_Herebefore, 1 );

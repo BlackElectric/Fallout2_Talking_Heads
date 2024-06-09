@@ -255,26 +255,26 @@ procedure talk_p_proc begin
    if (dude_is_stupid) then begin
       if (global_var(GVAR_TRIBE_WEAPONS) == 0) then begin
          if (local_var(LVAR_Accept_Spear_Quest) == 0) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
             gSay_Start;
                call Node039;
             gSay_End;
             end_dialogue;
          end else begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
             gSay_Start;
                call Node042;
             gSay_End;
             end_dialogue;
          end
       end else if (global_var(GVAR_TRIBE_WEAPONS) == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
          gSay_Start;
             call Node043;
          gSay_End;
          end_dialogue;
       end else if (global_var(GVAR_TRIBE_WEAPONS) == 2) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
          gSay_Start;
             call Node044;
          gSay_End;
@@ -282,7 +282,7 @@ procedure talk_p_proc begin
       end
    end else begin
       if (local_var(LVAR_Pissed) == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
          gSay_Start;
             call Node045;
          gSay_End;
@@ -290,13 +290,19 @@ procedure talk_p_proc begin
       end else if (cur_map_index == MAP_MERCHANT) then begin
          if (map_var(MVAR_Roy_Killed) == 1) then begin
             if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_REALIZE_FAKE) then begin
-               start_gdialog(NAME,self_obj,4,-1,-1);
+               if night then
+               start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_WASTELAND_NIGHT);
+               else
+               start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_WASTELAND);
                gSay_Start;
                   call Node021;
                gSay_End;
                end_dialogue;
             end else begin
-               start_gdialog(NAME,self_obj,4,-1,-1);
+               if night then
+               start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_WASTELAND_NIGHT);
+               else
+               start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_WASTELAND);
                gSay_Start;
                   call Node019;
                gSay_End;
@@ -307,45 +313,48 @@ procedure talk_p_proc begin
          end
       end else if ( (global_var(GVAR_MERCHANT_MEETING) > MERCHANT_START) and (global_var(GVAR_MERCHANT_MEETING) < MERCHANT_DONE) ) then begin
          if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_BOUGHT_TRICKED) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            if night then
+               start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_WASTELAND_NIGHT);
+               else
+               start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_WASTELAND);
             gSay_Start;
                call Node017;
             gSay_End;
             end_dialogue;
          end else if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_NO_DEAL) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
             gSay_Start;
                call Node022;
             gSay_End;
             end_dialogue;
          end else if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_BOUGHT_DISCOUNT) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
             gSay_Start;
                call Node017;
             gSay_End;
             end_dialogue;
          end else if (global_var(GVAR_MERCHANT_MEETING) == MERCHANT_REALIZE_FAKE) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
             gSay_Start;
                call Node023;
             gSay_End;
             end_dialogue;
          end
       end else if (local_var(LVAR_Ready_To_Go) == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
          gSay_Start;
             call Node038;
          gSay_End;
          end_dialogue;
       end else if ( ((global_var(GVAR_MERCHANT_MEETING) == MERCHANT_DONE) and (global_var(GVAR_TRIBE_GHOST) >= 3) and (global_var(GVAR_MISSING_WARRIOR) < 4)) and ((game_time - local_var(LVAR_Time)) >= ONE_GAME_DAY) ) then begin
          if (local_var(LVAR_Accepted_Hunters_Quest) == 0) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
             gSay_Start;
                call Node031;
             gSay_End;
             end_dialogue;
          end else begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
             gSay_Start;
                call Node034;
             gSay_End;
@@ -353,19 +362,19 @@ procedure talk_p_proc begin
          end
       end else if ( ((global_var(GVAR_MISSING_WARRIOR) >= 4) and (global_var(GVAR_MISSING_WARRIOR) <= 7)) and (local_var(LVAR_Give_Thanks) == 0) ) then begin
          set_local_var(LVAR_Give_Thanks,1);
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
          gSay_Start;
             call Node037;
          gSay_End;
          end_dialogue;
       end else if (local_var(LVAR_Herebefore) > 0) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
          gSay_Start;
             call Node024;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_KROM,BACKGROUND_TENT);
          gSay_Start;
             set_local_var(LVAR_Herebefore,1);
             call Node001;

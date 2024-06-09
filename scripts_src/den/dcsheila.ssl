@@ -81,7 +81,7 @@ procedure start begin
 end
 procedure timed_event_p_proc begin
    if (fixed_param == timed_event_post_sex) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_SHELA,BACKGROUND_RAIDERS);
       gSay_Start;
          if (dude_sex_rating >= sex_rating_great) then begin
             call Node009;
@@ -135,7 +135,7 @@ end
 procedure talk_p_proc begin
    script_overrides;
    calc_sex_cost
-   start_dialog_at_node(Node995);
+   th_start_dialog_at_node(Node995,HEAD_SHELA,BACKGROUND_RAIDERS);
    set_herebefore;
 end
 

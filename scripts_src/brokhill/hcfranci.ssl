@@ -281,14 +281,14 @@ procedure talk_p_proc begin
    if( fight_response == 1 ) then begin
       fight_response := 0;
       if (you_lose == 0) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node014;
          gSay_End;
          end_dialogue;
       end
       else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,1,HEAD_FRANC,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node015;
          gSay_End;
@@ -299,70 +299,70 @@ procedure talk_p_proc begin
        call Node998;
    end
    else if (bad_critter_reaction) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,7,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node012;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_CHALLENGED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node006;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_ACCEPTED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node006;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_REJECTED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node010;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_WON) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node016;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_MIGHTY_MAN) == MIGHTY_MAN_LOST) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node017;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(TOWN_REP_VAR) < 5) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,7,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node018;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_BH_FTM) == FTM_EXPOSED) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node019;
        gSay_End;
        end_dialogue;
    end
    else if (global_var(GVAR_ENEMY_BROKEN_HILLS) == 1) then begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,7,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
            call Node020;
        gSay_End;
        end_dialogue;
    end
    else begin
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_FRANC,BACKGROUND_RAIDERS);
        gSay_Start;
           call Node001;
        gSay_End;

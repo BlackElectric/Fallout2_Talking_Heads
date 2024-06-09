@@ -234,19 +234,19 @@ procedure talk_p_proc begin
    end else begin
       move_obj_inven_to_obj(self_obj,generic_temp_box);
          if ( attacked_slaver_on_run ) then begin
-            start_dialog_at_node(Node030);
+            th_start_dialog_at_node(Node030,HEAD_METZG,BACKGORUND_HUB);
          end else if( (tyler_dead) and (metzger_permission == false) ) then begin
             call Node001;
             call Node998;
          end else if (abandon_slave_run) then begin
-            start_dialog_at_node(Node043);
+            th_start_dialog_at_node(Node043,HEAD_METZG,BACKGORUND_HUB);
          end else begin
             move_obj_inven_to_obj(den_metzger_box_obj,self_obj);
                if (on_slave_run) then begin
-                  start_dialog_at_node(Node028);
+                  th_start_dialog_at_node(Node028,HEAD_METZG,BACKGORUND_HUB);
                   off_on_slave_run;
                end else begin
-                  start_dialog_at_node(Node002);
+                  th_start_dialog_at_node(Node002,HEAD_METZG,BACKGORUND_HUB);
                end
             move_obj_inven_to_obj(self_obj,den_metzger_box_obj);
          end

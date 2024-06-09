@@ -258,7 +258,7 @@ procedure talk_p_proc begin
 
    if (not DOING_DEATH) then begin
       if (san_fran_flag(SF_PUNKS_ENEMY)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
          gSay_Start;
             call Node028;
          gSay_End;
@@ -268,7 +268,7 @@ procedure talk_p_proc begin
       end else if (badger_flag(BADGER_DONESHI)) then begin
          call Node030;
       end else if (badger_flag(BADGER_GFRIEND2) and not local_var(LVAR_Hacking)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
          gSay_Start;
             call Node025;
          gSay_End;
@@ -276,13 +276,13 @@ procedure talk_p_proc begin
       end else if (badger_flag(BADGER_GFRIEND1) and not local_var(LVAR_Hacking)) then begin
          if (local_var(LVAR_GFriend_Count) == 1) then begin
             if (game_time > local_var(LVAR_Morn)) then begin
-               start_gdialog(NAME,self_obj,4,-1,-1);
+               start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
                gSay_Start;
                   call Node024;
                gSay_End;
                end_dialogue;
             end else begin
-               start_gdialog(NAME,self_obj,4,-1,-1);
+               start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
                gSay_Start;
                   call Node029;
                gSay_End;
@@ -290,14 +290,14 @@ procedure talk_p_proc begin
             end
          end else if (local_var(LVAR_GFriend_Count) == 0) then begin
             inc_local_var(LVAR_GFriend_Count);
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
             gSay_Start;
                call Node023;
             gSay_End;
             end_dialogue;
          end
       end else if (badger_flag(BADGER_FGFRIEND)) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
          gSay_Start;
             call Node022;
          gSay_End;
@@ -305,13 +305,13 @@ procedure talk_p_proc begin
       end else if (local_var(LVAR_Hacking_Done_Time)) then begin
          ndebug("hacking : " + local_var(LVAR_Hacking));
          if (game_time >= local_var(LVAR_Hacking_Done_Time) and local_var(LVAR_Hacking) < SHI_HACKED) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
             gSay_Start;
                call Node026;
             gSay_End;
             end_dialogue;
          end else if (game_time >= local_var(LVAR_Hacking_Done_Time) and local_var(LVAR_Hacking) < ELE_HACKED) then begin
-            start_gdialog(NAME,self_obj,4,-1,-1);
+            start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
             gSay_Start;
                call Node027;
             gSay_End;
@@ -320,7 +320,7 @@ procedure talk_p_proc begin
             call Node008;
           end
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_BADGE,BACKGROUND1);
          gSay_Start;
             call Node001;
          gSay_End;

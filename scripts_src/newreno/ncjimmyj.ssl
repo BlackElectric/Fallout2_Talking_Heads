@@ -209,9 +209,9 @@ procedure talk_p_proc begin
      gdialog_set_barter_mod(20);
 
    if (know_jjj) then begin
-      start_dialog_at_node(Node007);
+      th_start_dialog_at_node(Node007,HEAD_JIMMY,BACKGROUND_FOLLOWER);
    end else begin
-      start_dialog_at_node(Node003);
+      th_start_dialog_at_node(Node003,HEAD_JIMMY,BACKGROUND_FOLLOWER);
    end
    if (temp_barter_bonus) then begin
       temp_barter_bonus := false;

@@ -110,6 +110,7 @@ procedure Node029;
 
 #define told_book                         lvar_bit(LVAR_Flags, told_book_bit)
 #define set_told_book                     set_lvar_bit_on(LVAR_Flags, told_book_bit)
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -182,16 +183,16 @@ procedure talk_p_proc begin
       if (node_27) then begin
          call Node026;
       end else begin
-         start_dialog_at_node(Node027);
+         th_start_dialog_at_node(Node027,HEAD_RBCCA,BACKGROUND_HUB);
       end
    end else if ((dude_is_female) and (dude_name == "Buffy") and (dude_wearing_leather_armor) and (did_buffy == false)) then begin
       set_did_buffy;
-      start_dialog_at_node(Node016);
+      th_start_dialog_at_node(Node016,HEAD_RBCCA,BACKGROUND_HUB);
    end else if ((metzger_dead) and (said_metzger_dead == false)) then begin
       set_said_metzger_dead;
-      start_dialog_at_node(Node022);
+      th_start_dialog_at_node(Node022,HEAD_RBCCA,BACKGROUND_HUB);
    end else begin
-      start_dialog_at_node(Node001);
+      th_start_dialog_at_node(Node001,HEAD_RBCCA,BACKGROUND_HUB);
    end
    set_becky_known;
    set_herebefore;

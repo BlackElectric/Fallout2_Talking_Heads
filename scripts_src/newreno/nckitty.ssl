@@ -261,9 +261,9 @@ end
 procedure talk_p_proc begin
    sex_partner_obj := dude_obj;
    if (Fallout2_enclave_destroyed) then begin
-      start_dialog_at_node(Node024);
+      th_start_dialog_at_node(Node024,HEAD_KITTY,BACKGROUND_RAIDERS);
    end else begin
-      start_dialog_at_node(Node002);
+      th_start_dialog_at_node(Node002,HEAD_KITTY,BACKGROUND_RAIDERS);
    end
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);
 end

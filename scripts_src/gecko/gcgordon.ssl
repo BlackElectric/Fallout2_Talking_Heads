@@ -197,7 +197,7 @@ procedure talk_p_proc begin
 
    else if (global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_DESTROYED) then begin
       ndebug("global_var(GVAR_VAULT_PLANT_STATUS) == PLANT_DESTROYED");
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_GORD,BACKGROUND_HUB);
        gSay_Start;
            call Node022;
        gSay_End;
@@ -212,7 +212,7 @@ procedure talk_p_proc begin
    else if (global_var(GVAR_GECKO_ECON_DISK) >= ECON_DISK_RECEIVED) then begin //killap's fix: was 'GIVEN'
       ndebug("global_var(GVAR_GECKO_ECON_DISK) >= GIVEN");
       if (global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_OPTIMIZED) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_GORD,BACKGROUND_HUB);
          gSay_Start;
              call Node023; //killap's fix: was 021
          gSay_End;
@@ -220,7 +220,7 @@ procedure talk_p_proc begin
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_REPAIRED) then begin
          ndebug("global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_REPAIRED");
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_GORD,BACKGROUND_HUB);
          gSay_Start;
              call Node021; //killap's fix: was 020
          gSay_End;
@@ -228,7 +228,7 @@ procedure talk_p_proc begin
       end
       else if (global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_UNTOUCHED) then begin
          ndebug("global_var(GVAR_VAULT_PLANT_STATUS) >= PLANT_UNTOUCHED");
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_GORD,BACKGROUND_HUB);
          gSay_Start;
              call Node020; //killap's fix: was 023
          gSay_End;
@@ -238,7 +238,7 @@ procedure talk_p_proc begin
 
    else if ( (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) or (global_var(GVAR_GECKO_ANKH) == ANKH_TAKEN) ) then begin
       ndebug(" (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) or (global_var(GVAR_GECKO_ANKH) == ANKH_TAKEN) ");
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_GORD,BACKGROUND_HUB);
        gSay_Start;
              call Node024;
        gSay_End;
@@ -247,7 +247,7 @@ procedure talk_p_proc begin
 
    else begin
       ndebug("else");
-       start_gdialog(NAME,self_obj,4,-1,-1);
+       start_gdialog(NAME,self_obj,4,HEAD_GORD,BACKGROUND_HUB);
        gSay_Start;
              call Node002;
        gSay_End;

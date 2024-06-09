@@ -288,9 +288,9 @@ procedure talk_p_proc begin //major edit by killap - there is a check in place t
       move_obj_inven_to_obj(self_obj, new_reno_t_ray_box);
       move_obj_inven_to_obj(new_reno_t_ray_box, self_obj);
          if ((Fallout2_enclave_destroyed) and (get_stolen_car(stolen_car_recovered))) then begin
-            start_dialog_at_node(Node033);
+            th_start_dialog_at_node(Node033,HEAD_TRAY,BACKGROUND_RAIDERS);
          end else begin
-            start_dialog_at_node(Node006);
+            th_start_dialog_at_node(Node006,HEAD_TRAY,BACKGROUND_RAIDERS);
          end
       move_obj_inven_to_obj(self_obj, new_reno_t_ray_box);
       move_obj_inven_to_obj(new_reno_t_ray_box, self_obj);

@@ -341,7 +341,13 @@
 #define HEAD_TRAY           (201)
 #define HEAD_ARTH           (202)
 #define HEAD_BRIGE          (203)
-
+#define HEAD_ALDO           (204)
+#define HEAD_SAJAG          (205)
+#define HEAD_ANAN           (206)
+#define HEAD_DOBBS          (207)
+#define HEAD_HANK           (208)
+#define HEAD_DANBH          (245)
+#define HEAD_ERIC           (246)
 
 /*
 #define HEAD_OVERSEER    (1)  //ovrsr  -- vault

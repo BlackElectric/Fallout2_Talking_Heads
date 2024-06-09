@@ -413,7 +413,7 @@ procedure talk_p_proc begin
       attack(dude_obj);
    //end added
    end else if (san_fran_flag(SF_LOPAN_ENEMY)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node016;
       gSay_End;
@@ -421,57 +421,57 @@ procedure talk_p_proc begin
    end else if ((elron_flag_any >= EL_ACCEPTED) and (not (san_fran_flag(SF_ELRON_ENEMY)))) then begin
       call Node019;
    end else if (local_var(LVAR_State) == STATE_DONE) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node001;
       gSay_End;
       end_dialogue;
    end else if (local_var(LVAR_State) == STATE_ANGRY) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node020;
       gSay_End;
       end_dialogue;
    end else if (local_var(LVAR_Beaten) and not on_lopan_mission) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node021;
       gSay_End;
       end_dialogue;
    end else if (san_fran_flag(SF_DRAGON_DEAD) and on_lopan_mission) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node024;
       gSay_End;
       end_dialogue;
    end else if (san_fran_flag(SF_DRAGON_DEAD)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node025;
       gSay_End;
       end_dialogue;
    end else if (badger_flag(BADGER_DEADSHI)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node023;
       gSay_End;
       end_dialogue;
    end else if (local_var(LVAR_Herebefore) == 1 and dude_iq < 4) then begin
       if (dude_iq == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node002;
          gSay_End;
          end_dialogue;
       end else if (dude_iq > 1 and dude_iq < 4) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
          gSay_Start;
             call Node006;
          gSay_End;
          end_dialogue;
       end
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LOPAN,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node001;
       gSay_End;

@@ -259,13 +259,13 @@ procedure talk_p_proc begin
    if (san_fran_flag(SF_SHI_ENEMY)) then begin
       call Node020;
    end else if (struggle_flag(STRUG_OZ9DEAD)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LAO,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node021;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_LAO,BACKGROUND_RAIDERS);
       gSay_Start;
          call Node001;
       gSay_End;

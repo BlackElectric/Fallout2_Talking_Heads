@@ -26,6 +26,7 @@
 #include "../headers/modreact.h"
 #include "../headers/newr1.h"
 #include "../headers/epasl.h"
+#include "../headers/partybkg.h"
 
 #define PARTY_NODE_X                   Node1000
 
@@ -381,10 +382,11 @@ end
 
 procedure talk_p_proc begin
 
+   find_party_background;
 
    if (local_var(LVAR_Herebefore) == 0) then begin
       set_local_var(LVAR_Herebefore,1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_DEX,PartyMemberBackground);
       gSay_Start;
          if (map_var(MVAR_Dex_Free) == 2) then begin
             call Node000;
@@ -404,7 +406,7 @@ procedure talk_p_proc begin
       gSay_End;
       end_dialogue;
   end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_DEX,PartyMemberBackground);
       gSay_Start;
          if ((Dex_In_Party) or (party_is_waiting)) then
             call Node1000;
@@ -523,7 +525,7 @@ end
 
 procedure Node000 begin
    Reply(5000);
-   NOption(5001,Node999,004);
+   BOption(5001,Node999,004);
    set_local_var(LVAR_Kill_NPC,1);
    destroy_object(tile_contains_pid_obj(DEX_HIB_HEX,dude_elevation,33556340));
    chamber:=create_object(33556343,DEX_HIB_HEX,dude_elevation);
@@ -653,7 +655,7 @@ end
 procedure Node015 begin
    Reply(340);
    BOption(341,Node901,004); //join
-   NOption(342,Node901,004); //join
+   GOption(342,Node901,004); //join
    BOption(343,Node900,004);
 end
 
@@ -674,7 +676,7 @@ procedure Node018 begin
    if (map_var(MVAR_Read_Dex_Bio) == 1) then begin
       NOption(mstr(421) + dude_name + mstr(422),Node021,004);
       BOption(425,Node900,004);
-      NOption(mstr(426),Node019,004);
+      GOption(mstr(426),Node019,004);
    end else begin
       NOption(mstr(421) + dude_name + mstr(422),Node021,004);
       NOption(mstr(423) + dude_name + mstr(424),Node021,004);
@@ -684,12 +686,12 @@ end
 
 procedure Node019 begin
    Reply(430);
-   NOption(431,Node020,004);
+   BOption(431,Node020,004);
 end
 
 procedure Node020 begin
    Reply(440);
-   NOption(441,Node902,004);
+   BOption(441,Node902,004);
 end
 
 procedure Node021 begin
@@ -765,7 +767,7 @@ end
 
 procedure Node026 begin
    Reply(500);
-   NOption(501,Node901,004);
+   GOption(501,Node901,004);
    NOption(502,Node027,004);
    BOption(503,Node900,004);
 end
@@ -1296,13 +1298,13 @@ end
 
 procedure Node107 begin
    Reply(3027);
-   NOption(3028,Node108,004);
+   GOption(3028,Node108,004);
    NOption(3029,Node1000,004);
 end
 
 procedure Node108 begin
    Reply(3030);
-   NOption(3031,Node109,004);
+   BOption(3031,Node109,004);
 end
 
 procedure Node109 begin
@@ -1318,7 +1320,7 @@ end
 procedure Node111 begin
    Reply(3036);
    NOption(3037,Node112,004);
-   NOption(3038,Node1000,004);
+   BOption(3038,Node1000,004);
 end
 
 procedure Node112 begin
@@ -1328,7 +1330,7 @@ end
 
 procedure Node113 begin
    Reply(3041);
-   NOption(3042,Node1000,004);
+   GOption(3042,Node1000,004);
 end
 
 procedure Node200 begin

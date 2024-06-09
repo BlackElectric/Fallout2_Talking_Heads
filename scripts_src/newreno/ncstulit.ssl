@@ -213,17 +213,17 @@ procedure talk_p_proc begin
          call Node001;
       //added by killap
       end else if ( (boxing) or (boxing_fail) ) then begin
-         start_dialog_at_node(Node024);
+         th_start_dialog_at_node(Node024,HEAD_STUL,BACKGROUND_RAIDERS);
       //end added by killap
       end else begin
-         start_dialog_at_node(Node006);
+         th_start_dialog_at_node(Node006,HEAD_STUL,BACKGROUND_RAIDERS);
       end
    end else if (dude_is_prizefighter) then begin
       call Node003;
    end else if (boxing) then begin
-      start_dialog_at_node(Node024);
+      th_start_dialog_at_node(Node024,HEAD_STUL,BACKGROUND_RAIDERS);
    end else begin
-      start_dialog_at_node(Node006);
+      th_start_dialog_at_node(Node006,HEAD_STUL,BACKGROUND_RAIDERS);
    end
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);
 end

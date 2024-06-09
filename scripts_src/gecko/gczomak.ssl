@@ -184,7 +184,7 @@ procedure talk_p_proc begin
 
 
    else if (local_var(LVAR_Zomak) == 0) then begin //Zomak closed
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ZOMAK,BACKGROUND_CAVE);
       gSay_Start;
          call Node001;
       gSay_End;
@@ -193,7 +193,7 @@ procedure talk_p_proc begin
 
 
    else if ( (global_var(GVAR_GECKO_ANKH) == ANKH_TAKEN) or (global_var(GVAR_GECKO_ANKH) == ANKH_GIVEN) ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ZOMAK,BACKGROUND_CAVE);
       gSay_Start;
          call Node017;
       gSay_End;

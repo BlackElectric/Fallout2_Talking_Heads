@@ -262,43 +262,43 @@ procedure talk_p_proc begin
    end else if (spleen_flag(SP_CHIPTOLD)) then begin
       call Node027;
    end else if (spleen_flag(SP_REINSERTED)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHIP,BACKGROUND1);
       gSay_Start;
          call Node021;
       gSay_End;
       end_dialogue;
    end else if (spleen_flag(SP_REJECTED) or spleen_flag(SP_NOFUNG)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHIP,BACKGROUND1);
       gSay_Start;
          call Node004;
       gSay_End;
       end_dialogue;
    end else if (spleen_flag(SP_FUNGFREE) or spleen_flag(SP_FUNGCHARGE) or spleen_flag(SP_UNPAID)) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHIP,BACKGROUND1);
       gSay_Start;
          call Node016;
       gSay_End;
       end_dialogue;
    end else if (spleen_flag_any >= SP_ACCEPTED/* or spleen_flag(SP_FOUND)*/) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHIP,BACKGROUND1);
       gSay_Start;
          call Node010;
       gSay_End;
       end_dialogue;
    end else if (local_var(LVAR_Herebefore) and dude_iq < 4) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHIP,BACKGROUND1);
       gSay_Start;
          call Node002;
       gSay_End;
       end_dialogue;
    end else if (local_var(LVAR_Herebefore) and bad_critter_reaction) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHIP,BACKGROUND1);
       gSay_Start;
          call Node004;
       gSay_End;
       end_dialogue;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_CHIP,BACKGROUND1);
       gSay_Start;
          call Node001;
       gSay_End;

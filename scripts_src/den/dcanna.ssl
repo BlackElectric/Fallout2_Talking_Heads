@@ -163,7 +163,7 @@ procedure talk_p_proc begin
    if (helped_anna) then begin
       call Node008;
    end else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_ANNA,BACKGROUND_HUB);
       gSay_Start;
          if (dude_item_count(PID_ANNA_GOLD_LOCKET)) then begin
             call Node006;

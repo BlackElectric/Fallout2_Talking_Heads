@@ -181,7 +181,7 @@ end
 
 procedure talk_p_proc begin
    set_forced_dialog;
-   start_gdialog(NAME,self_obj,4,-1,-1);
+   start_gdialog(NAME,self_obj,4,HEAD_BISHP,BACKGROUND_RAIDERS);
    gSay_Start;
       if ((dude_is_made_man) or (warned_attack)) then begin //killap's code: added (warned_attack)
          if (self_family == dude_family) then begin

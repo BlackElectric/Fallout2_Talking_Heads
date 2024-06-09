@@ -209,19 +209,28 @@ procedure talk_p_proc begin
       end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 5) then begin
          floater(402);
       end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 4) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         if night then
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND);
          gSay_Start;
             call Node009;
          gSay_End;
          end_dialogue;
       end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 3) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         if night then
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND);
          gSay_Start;
             call Node007;
          gSay_End;
          end_dialogue;
       end else if (global_var(GVAR_FOOD_QUEST_VAULT_VILLAGE) == 2) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         if night then
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND);
          gSay_Start;
             call Node005;
          gSay_End;
@@ -234,13 +243,19 @@ procedure talk_p_proc begin
          else
             floater(random(404,405));
       end else if (local_var(LVAR_Quest_Wait) == 1) then begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         if night then
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND);
          gSay_Start;
             call Node004;
          gSay_End;
          end_dialogue;
       end else begin
-         start_gdialog(NAME,self_obj,4,-1,-1);
+         if night then
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND_NIGHT);
+         else
+         start_gdialog(NAME,self_obj,4,HEAD_ANNVV,BACKGROUND_WASTELAND);
          gSay_Start;
             if (local_var(LVAR_Herebefore) == 0) then
                call Node001;

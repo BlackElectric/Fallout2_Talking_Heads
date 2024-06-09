@@ -202,14 +202,14 @@ procedure talk_p_proc begin
    end else if (night) then begin
       call Node037;
    end else if ((not night) and (local_var(LVAR_Herebefore) > 0) and (not global_var(GVAR_NCR_ELRON_ADJUST))) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_EO,BACKGROUND_ADOBE);
        gSay_Start;
            call Node031;
        gSay_End;
        end_dialogue;
    end else if (not night and local_var(LVAR_Herebefore) == 0) then begin
       set_local_var(LVAR_Herebefore, 1);
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_EO,BACKGROUND_ADOBE);
       gSay_Start;
          call Node001;
       gSay_End;
@@ -220,7 +220,7 @@ procedure talk_p_proc begin
       warpBack := self_tile;
       pWarpBack := dude_tile;
       call warpToPos;
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_EO,BACKGROUND_ADOBE);
       gSay_Start;
          call Node034;
       gSay_End;

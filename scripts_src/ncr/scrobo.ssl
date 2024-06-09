@@ -35,7 +35,7 @@
 
 #include "../headers/command.h"
 #include "../headers/modreact.h"
-
+#include "../headers/partybkg.h"
 #include "../headers/ncr.h"
 
 
@@ -271,7 +271,7 @@ procedure talk_p_proc begin
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION0;
-
+   find_party_background;
    CheckKarma;
 
    GetReaction;
@@ -281,7 +281,7 @@ procedure talk_p_proc begin
    end
 
    if (party_is_waiting or Cyberdog_In_Party) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_DOGR,PartyMemberBackground);
       gSay_Start;
          call Node1000;
       gSay_End;

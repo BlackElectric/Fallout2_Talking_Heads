@@ -271,14 +271,14 @@ procedure talk_p_proc begin
    else if( local_var( LVAR_Phyllis_State ) == PHYLLIS_PISSED ) then
       call Node008;
    else if( ( local_var( LVAR_Phyllis_State ) == PHYLLIS_NOTHING ) or ( dude_iq < 4 ) ) then begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_PHL,BACKGROUND_VAULT);
       gSay_Start;
          call Node009;
       gSay_End;
       end_dialogue;
    end
    else begin
-      start_gdialog(NAME,self_obj,4,-1,-1);
+      start_gdialog(NAME,self_obj,4,HEAD_PHL,BACKGROUND_VAULT);
       gSay_Start;
          call Node019;
       gSay_End;
