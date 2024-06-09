@@ -273,6 +273,7 @@ procedure Node010 begin
 end
 
 procedure Node010a begin
+   set_map_var(MVAR_Crops_Stolen,1);
    Reply(6061);
    NOption(608,Node005,4);
    NOption(607,Node999,4);
