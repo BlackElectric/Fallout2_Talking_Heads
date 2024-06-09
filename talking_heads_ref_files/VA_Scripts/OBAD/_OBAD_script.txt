@@ -1,0 +1,7 @@
+OBAD1 - I hears that someone might want to talk to old Hakeswill. Someone's volunteered to bring Obidiah to justice. Is that you?
+OBAD2 - I cut the bitch. She made a mistake, she did.
+OBAD3 - Taking me to jail? I'll come peaceably. No sense in making more trouble. The bitch still got what she deserved. You can't kill me. I'm invincible, but you can sure piss off the other miners. Got eyes in the back of your head, do you?
+OBAD4 - Oh, thank you, sir. Yes, sir. Obidiah'll be careful, sir. Thank you.
+OBAD5 - Thank you, ma'am. Yes, ma'am, Obidiah'll be careful, ma'am. Thank you.
+OBAD6 - She made fun o' me Mum. Nobody makes fun o' Hakeswill's Mum. She's the only good thing in this whole rotting world.
+OBAD7 - Well, that I did. But the lads and I here at the Morningstar don't think what she did was right, not right at all. But I promise to not do it again.

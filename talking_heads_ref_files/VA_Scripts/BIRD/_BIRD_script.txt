@@ -1,0 +1,30 @@
+BIRD1 - Here are some of our gallant troopers. What are you doing in the Vice-President's office?
+BIRD2 - Hello, trooper. What are you doing in the Vice-President's office?
+BIRD3 - You look familiar. Have I spoken with you before? Well, no matter. Just what are you doing in the Vice-President's office?
+BIRD4 - Carry on then, trooper. Carry on. You lads are doing a great service. We are ready for any unforeseen event that may or may not occur.
+BIRD5 - Hmm, tell me, how do you spell potato? With an 'E,' or without?
+BIRD6 - Hmm, tell me, how do you spell subtle? With a 'B,' or without?
+BIRD7 - Hmm, tell me, how do you spell California? With a 'K,' or without?
+BIRD8 - Hmm, tell me, how do you spell tomato? With an 'E,' or without?
+BIRD9 - Hmm, tell me, how do you spell psycho? With a 'P,' or without?
+BIRD10 - Of course you do, of course. Any loyal citizen of these great United States would do the same.
+BIRD11 - Carry on, trooper. The future will be better tomorrow.
+BIRD12 - We have to work together because if we don't succeed, we run the risk of failure.
+BIRD13 - You won't get away with it.
+BIRD14 - One word sums up probably the responsibility of any Vice President, and that one word is 'to be prepared.'
+BIRD15 - Perhaps that's best. Keep it brief. After all, verbosity leads to unclear, inarticulate things.
+BIRD16 - I mean that we don't want to go back to tomorrow, we want to go forward.
+BIRD17 - Well you can't be too careful, after all, people that are really very weird can get into sensitive positions and have a tremendous impact on history.
+BIRD18 - Yes, I like that direction. I have made good judgments in the past. I have made good judgments in the future. So, by all means, let's go in that direction.
+BIRD19 - I believe we are on an irreversible trend toward more freedom and democracy - but that could change.
+BIRD20 - Don't be silly. It isn't pollution that's harming the environment. It's the impurities in our air and water that are doing it.
+BIRD21 - Well, that's just the thing. The Enclave is a man-made island surrounded by water.
+BIRD22 - I'm Vice-President Daniel Bird. Damn glad to meet you.
+BIRD23 - I am not part of the problem. I am a Republican.
+BIRD24 - Ah, I see. Well, as you may know, I've long thought that it's time for the human race to enter the solar system.
+BIRD25 - I think that maybe Mars would be nice because Mars is essentially in the same orbit... Mars is somewhat the same distance from the Sun, which is very important. We have seen pictures where there are canals, we believe, and water. If there is water, that means there is oxygen. If oxygen, that means we can breathe.
+BIRD26 - What a waste it is to lose one's mind. Or not to have a mind is being very wasteful. How true that is.
+BIRD27 - For NASA, space is still a high priority.
+BIRD28 - That's not true, Republicans understand the importance of bondage between a mother and child. That's the key to the solution of all our problems-we need a return to family values.
+BIRD29 - I stand by all the misstatements that I've made.
+BIRD30 - The Holocaust was an obscene period in our nation's history. I mean in this century's history. But we all lived in this century. I didn't live in this century.

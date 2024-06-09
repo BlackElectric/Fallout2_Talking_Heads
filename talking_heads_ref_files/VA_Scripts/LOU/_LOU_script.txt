@@ -1,0 +1,46 @@
+LOU1 - I just want you to know that I'm thankful for what you did. How can I help you?
+LOU2 - Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I just want you to know that I'm thankful for what you did. How can I help you?
+LOU3 - Jail's too good for what that bastard done.
+LOU4 - I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Jail's too good for what that bastard done.
+LOU5 - I cain't rightly believe that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell do you want?
+LOU6 - I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell do you want?
+LOU7 - You're still a damn idiot. But life goes on, for the rest of us. Now just what the hell do you want?
+LOU8 - You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Now just what the hell do you want?
+LOU9 - Remember what I said. Too much money ain't good for that gal. Now whattya need?
+LOU10 - I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember, too much money ain't good for that gal. Now whattya need?
+LOU11 - Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
+LOU12 - What now?
+LOU13 - Sorry, I don't have much time or patience for stupid people. What do you want?
+LOU14 - A drink huh? Well that'll be $25 for a nice cold bottle of beer. I'm giving you the special discount price too, 'cause I have a soft spot in my heart for the simple.
+LOU15 - You want a room, huh? Well I might have some room somewhere for you. It'll cost you $50 for a cozy spot.
+LOU16 - Cain't rightly say that I've heard of one of those afore. What is it?
+LOU17 - Well, mostly we mine gold ore here and trade it to other areas.
+LOU18 - Yup. Just in the north part of town alone there are two working gold mines.
+LOU19 - Well, we trade gold ore to Vault City in return for medical supplies. We trade ore to the New California Republic in return for fresh brahmin and other victuals, and we trade gold to New Reno for drugs and booze.
+LOU20 - Jist a big dog.
+LOU21 - San Francisco is quite a ways south of here. You're a long ways from there. South and jist a tich to the west. It's right next to the ocean, don'tcha know. Here, I'll mark it on your map. Don't know why any sane person'd want to go there for, though.
+LOU22 - Well, I hear all kinds of things about the whole city bein' full o' nuthin' but crazy followers of some kind of kooky religion.
+LOU23 - Yup. That's right. I aheard that they're buildin' some huge device that'll let them get in touch with their gods. Or sumthin' like that. Don't know much for certain. It's a long ways off.
+LOU24 - That's right. She's in a bad way. Used to be such a perty thing, too. I sure hope you take care of this quick. It's bad for business to let those miners think they can get away with something like this.
+LOU25 - I sent her away. She wasn't going to be no good in this business any more. Not that anybody'd want to be with her after that bastard finished with her. I gave her some money and let her go.
+LOU26 - I don't know 'xactly who did it, but she had a Morningstar Mine pay scrip in her hand when we found her, and it was a miner who was with her last.
+LOU27 - Well, there was some screaming and carrying on and so I went to the room. When I got there, the bastard who did it was already gone and my girl was in a bad way. So I called the doc and then the Sheriff. You know the rest.
+LOU28 - In the north part of town Dan McGrew runs the Morningstar mine. Usually the miners get paid on account or with chits from each mine... you know, scrip. Well, my girl was found with one of those pieces of scrip in her hand. Here it is. Look for yourself. (She hands you the scrip)
+LOU29 - Well, I'm sure glad that someone's workin' on it. This type of thing is just bad all the way around. I sure hope you make the bastard pay for what he did to my girl. Make sure he cain't never do that to no one ever again.
+LOU30 - What can I do for you? You want an empty bed, a full one? Maybe some booze or other goods?
+LOU31 - That do it for you, or was there something else you wanted to buy?
+LOU32 - Seems like you're having a little trouble making up your mind. That it, or you wanna look again?
+LOU33 - You wanna get some sleep, huh? Well, that's going to cost you $40. Includes fresh, mostly clean sheets too. You still interested?
+LOU34 - You're one of Fannie's regulars, aren't you? Why don't you go talk to her. She's in back someplace.
+LOU35 - Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much interest in being with you... and I cain't say as I blame 'em.
+LOU36 - Looking for someone to help you warm up that big lonely bed, huh? Let me see who I've got available. Hmm, why don't you try Fannie Mae? She oughta be around here somewheres. You can make the arrangements with her yourself.
+LOU37 - You and Fannie already worked things out. Why don't you go see her. She's right in back someplace.
+LOU38 - Listen. You're a jinx here. After what happened to Fannie Mae, none of my other girls has much interest in being with you... and I cain't say as I blame 'em.
+LOU39 - We've only got gals working here, hun. If that's alright by you, a buck's a buck. You might try talking to Fannie Mae. She's in back someplace here. You can make the arrangements with her.
+LOU40 - I can't believe that you were dumb enough to give Fannie enough money all at once to overdose herself. You're just an idjit, ain't ya?
+LOU41 - So you're the sucker giving my Fannie all that money. I wouldn't do that if I were you. You're not helping her like you think you are.
+LOU42 - What I mean is that Fannie's got a problem and money isn't the answer for it. I hate to break your heart, but Fannie's just playing you for a sucker. She just wants money so that she can buy Jet. Too damn much Jet.
+LOU43 - Helping her into the afterlife is what your extra money is doing. She's just using that money to buy too much Jet. She'll O.D. one of these days if you keep giving her money.
+LOU44 - You can think whatever you like. I just thought I'd try to tell you what the straight scoop really is. Your choice whether you want to listen or not.
+LOU45 - What the hell's this stuff?
+LOU46 - Well... alright. Now, is there anything else you wanted?

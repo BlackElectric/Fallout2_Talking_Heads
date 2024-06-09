@@ -1,0 +1,7 @@
+KLINT1 - Good day to you, Chosen. You have not completed the trial of the Elder and may not pass.
+KLINT2 - (sigh) Chosen. You go temple. You take test. You not come back here until take test. Obey Elder. Go!
+KLINT3 - Forgive me, Chosen, but I cannot allow you to pass. If you wish to return to the village you may do so only by passing the trial set before you.
+KLINT4 - Forgive me, but I have no answers to your questions. Take the trial set before you by the Elder and prove yourself worthy to lead our people.
+KLINT5 - Two people working together can move the obelisk that blocks the path. Alone, you would fail. I have no intention of helping you until you pass the trial of the Elder.
+KLINT6 - Greetings, Chosen One! It is good to see you. How may I serve you?
+KLINT7 - May the spirits of our ancestors protect you, Chosen One. I wish you well on your journey.

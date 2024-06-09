@@ -1,0 +1,23 @@
+SCH1 - I hope you have a good reason for interrupting my work, soldier.
+SCH2 - Very well. I have to live with you grunts so I might as well make an effort to get along with you.
+SCH3 - What do you want to know?
+SCH4 - My name is Schreber, Dr. Schreber. I'm the base physician among other things. Don't bother with your name, soldier. All of you grunts look the same in that armor of yours.
+SCH5 - I work as the base physician but that's just a sideline. Actually, I'm a geneticist.
+SCH6 - I really don't think you have the intellectual capacity to understand my work, soldier. Let's just say that I can 'customize' people or animals.
+SCH7 - This was the base med lab. However, I felt that my experiments took precedence over the minimal medical needs of the soldiers here so I had it converted into a lab.
+SCH8 - Why room made no sound? Oh, you mean the soundproofing! In the course of my research I perform... experiments on test subjects. Sometimes they get a little vocal. The base commander found this to be disturbing so he had the soundproofing installed.
+SCH9 - In the course of my research I perform... experiments on test subjects. Sometimes they get a little vocal. The base commander found this to be disturbing so he had the soundproofing installed.
+SCH10 - Big, brown, and ugly? It's an experiment that I've recently completed. It's scheduled for termination.
+SCH11 - Oh my... Aren't you the bright one? Terminate. Kill, put down, put to sleep, make dead. Get it?
+SCH12 - The Enclave has been looking for cheap, expendable soldiers. We are interested in deathclaws because they have built in armor and weapons, and they're mean as hell. They just need to be smarter so they can understand commands but not too smart or they could develop a will of their own. With me so far?
+SCH13 - Well, we succeeded! We actually managed to increase their intelligence. However, I began to suspect that we went too far. That maybe they were a lot smarter than they were letting on. So when I was transferred here I brought one of them with me so I could put my theory to the test.
+SCH14 - I was right! The deathclaws have apparently been playing dumb, biding their time, and trying to learn as much as they can from us. They can even mimic human speech! I've actually had a conversation with that fellow in the next room.
+SCH15 - Anyway. The fact that they were capable of conceiving this plan and pulling off the deception shows just how dangerous they are.
+SCH16 - I'm going to write a report on my findings and have it transmitted to the Enclave. Of course I'll have to recommend the extermination of the deathclaw breed. They are much too dangerous a threat.
+SCH17 - Of course I'm sure. The commander would have a fit otherwise. Why?
+SCH18 - Back again? What can I do for you this time?
+SCH19 - Of course I'm sure. The commander would have a fit otherwise. Why?
+SCH20 - Be my guest. It's in the next room.
+SCH21 - That is K-9, my dog. I decided to see if I could cyber enhance his intelligence. It worked but he developed a bad case of morals. He decided he didn't like my work or me much, and he bit me.
+SCH22 - As punishment I disabled his legs but left him pretty much functional otherwise. Now he gets to sit there and watch every distasteful thing I do.
+SCH23 - Oh yes. I removed his motivator circuit and gave it to Raul up in maintenance. It could always be put back in... Maybe I'll do that someday just to see if he's changed his attitude.

@@ -1,0 +1,26 @@
+XARN1 - Greetings, human. I am the warrior Xarn. Are you to be my executioner?
+XARN2 - So be it. I do not intend to go quietly, human. Let us make this a battle to remember!
+XARN3 - I find it hard to believe that an Enclave soldier is here to rescue me. More likely, you are here to build up my hopes so that you can dash them to pieces.
+XARN4 - Thank you. I will not forget this.
+XARN5 - You are my last hope so I will place my trust in you. That door over there leads to an airshaft that exits into the woods above. I should be able to climb the shaft and gain my freedom. However, the door is securely locked and requires a passkey to open. Find the key, unlock the door, and grant me my freedom.
+XARN6 - (Xarn stares at you intently for a moment) Very well. The Enclave created my people as a slave warrior race. They enhanced our intellect hoping we could better understand their commands, and yet not recognize our status as slaves. They failed; we are much more intelligent than they suspect.
+XARN7 - We decided to play the fool until we could gain our freedom. Our chance arrived when the Enclave decided to test us outside their control, here on the mainland. Doctor Schreber opposed their decision, but he was overruled.
+XARN8 - Not accepting the Enclave decision, he chose exile to this base, captured me, and has been performing experiments to determine my true nature. He has been successful. When he reports his findings to the Enclave my people will be hunted down and slain. I must escape and warn my people.
+XARN9 - (Xarn stares at you intently for a moment) I have nothing to tell you, human. I can sense the darkness of your soul.
+XARN10 - (sigh) Recently I began to consider just such an action, even though it is not my way to kill. I am certain the doctor noticed because he stopped seeing me in person. The choice is no longer mine to make.
+XARN11 - I am sorry to hear of his death but it is for the better that this is so. I would ask you to help me escape this place. Will you?
+XARN12 - Very well... I will wait here until you come to a decision.
+XARN13 - Very well... I am saddened by your decision but it is your choice. If you change your mind, I will be here.
+XARN14 - I would ask you to help me escape this place. Will you?
+XARN15 - Hello again. Are you ready for our battle?
+XARN16 - Hello again. Have you changed your mind? Will you help me?
+XARN17 - Hello again. Have you changed your mind? Will you help me?
+XARN18 - Hello again. Have you found the key to the door?
+XARN19 - Greetings, human. The base is on full alert. Are you by any chance the cause?
+XARN20 - Hello again. The base is on full alert. Are you the cause?
+XARN21 - I am Xarn, pack warrior. Allow me to join you and fight at your side for our freedom. Together we stand a chance; alone... who knows?
+XARN22 - Then allow me to join you and fight at your side. Together we may be able to gain our freedom; alone... who knows?
+XARN23 - Very well. The Enclave created my people as a slave warrior race. They enhanced our intellect hoping we could better understand their commands, and yet not recognize our status as slaves. They failed; we are much more intelligent than they suspect.
+XARN24 - We decided to play the fool until we could gain our freedom. Our chance arrived when the Enclave decided to test us outside their control, here on the mainland. Doctor Schreber opposed their decision, but he was overruled.
+XARN25 - Not accepting the Enclave decision, he chose exile to this base, captured me, and has been performing experiments to determine my true nature. He has been successful. When he reports his findings to the Enclave my people will be hunted down and slain. I must escape and warn my people.
+XARN26 - I thank you, human. Let us kick some Enclave ass! Pack Gruthar! Grrrrrrrhh!

@@ -1,0 +1,62 @@
+MARIN1 - Hello there, Ranger. My name's Earl Marion and I'm the Sheriff in Redding. Glad to have you in town, Ranger.
+MARIN2 - Howdy, Ranger. What can Sheriff Marion do for you?
+MARIN3 - Howdy there. My name's Earl Marion. I'm the Sheriff in these here parts. Sounds downright picturesque, don't it? Well, that's my job.
+MARIN4 - What can Sheriff Marion do for you?
+MARIN5 - Simple. It's tattooed on the back of your neck.
+MARIN6 - (Heh, heh) If you were a fish I'd have landed a big one. I was just kidding. Seriously though, it's my business to know stuff like that.
+MARIN7 - Well, if you must steal all the drama and mystery from my moment... I have friends in the NCR. Good friends. Might say that we have common interests, too.
+MARIN8 - I didn't want to let on that easy. Anybody could know the handshake.
+MARIN9 - Keep the peace, mostly. At least that's what I'd be doing if I didn't have this leg all busted up.
+MARIN10 - It's like I said before. My leg's all busted up, and I can't do my job 'cause of it.
+MARIN11 - I was going out to meet a caravan and it was late, so I took a nap. Next thing I knew, a damn gecko was trying to make a lunch outta my kneecap. Damn thing almost had it, too. Another good bite and I'd be sitting down permanent-like.
+MARIN12 - Well, I wasn't much of a dancer before this happened, and I reckon I won't be afterwards, neither. I can gimp around, but Doc Johnson said I better not if'n I want it to heal right. Sure could use some help, though.
+MARIN13 - Not that I can do much right now, with my leg all banged up. Gotta stay off it for a time yet, according to Doc Johnson. What can I help you with?
+MARIN14 - Whatcha pestering me with now?
+MARIN15 - Good ole Painless Doc Johnson's our town doc. You have a toothache or a broken bone, he'll set you to right. He also sells medicine. All kinds of medicine, if you get my drift. For *whatever* ails ya.
+MARIN16 - Yeah, I sure could use some help with a couple of things. Just part-time like. It pays real good and you'd be doing a good thing for the town of Redding, too.
+MARIN17 - This job may be a bit too tough for you. Come back when you've got a bit more experience under your belt.
+MARIN18 - I wouldn't get any bright ideas. I can still whoop any two of you, with or without a good leg.
+MARIN19 - The Doc's office is at the west end of downtown here. He's just about always happy to see new patients.
+MARIN20 - We all have a respect of the need for law and order, of course. And we also have some concerns regarding the future of Redding.
+MARIN21 - Sure. Redding can't stand alone forever. At some point we're going to need a friend. I just want to make sure we've got a friend when we need one. The *right* friend.
+MARIN22 - You bet there are. New Reno would just gut Redding for our gold, and Vault City would keep us as second class citizens rather than make us real partners.
+MARIN23 - I know it would be. The NCR is the future of the wastes. Working together for a bigger tomorrow. Just like their posters say. They want us to join them, not submit to them.
+MARIN24 - Well, the time's not right yet for a real move. But I let people know who they'll be able to count on when push comes to shove. That's enough... for now.
+MARIN25 - I can't believe that you'd use such a corny line. You've been reading too many pulp-westerns. Here's one for you; You gonna slap leather and draw that smoke wagon, or you just gonna stand there and sweat?
+MARIN26 - Yeah. I figured you was like that.
+MARIN27 - Pay varies by the job, but I've got a simple one you could start on. Just kicking some deadbeat out of a squat. Pay you $100 to do it for me.
+MARIN28 - Way to go, Ranger, good to hear it. The Widow Rooney is way behind on her rent. Her house is just across the alley from here, to the west. You just have to kick her out of her house - unless she can come up with the rent she owes Mayor Ascorti.
+MARIN29 - Here we go again. The Widow Rooney is way behind on her rent. Her house is just across the alley from here, to the west. You just have to kick her out of her house - unless she can come up with the rent she owes Mayor Ascorti.
+MARIN30 - The Widow Rooney is way behind on her rent. Her house is just across the alley from here, to the west. You just have to kick her out of her house - unless she can come up with the rent she owes Mayor Ascorti.
+MARIN31 - Great. Thanks for your help. Just come back here when you finish, and I'll pay you and see if we can dig up something else for you to do.
+MARIN32 - I don't know. But I bet she can tell you. Will you do it?
+MARIN33 - Ascorti's the Mayor here in Redding. He runs Ascorti's Ace, right across the street here. Just north of us. So, will you help me out?
+MARIN34 - Sorry to hear that. I could sure use the help. Well, if you change your mind... you know where to find me.
+MARIN35 - Oh, one more thing. I almost forgot. Here's a badge. You may need it.
+MARIN36 - Hey there. I'm sorry that you couldn't help me out earlier. You come back 'cause you changed your mind?
+MARIN37 - Glad to see you again. You've got to take care of that Widow Rooney problem before I can pay you, though.
+MARIN38 - You did fine work with that Widow Rooney. Here's your $100. You ready for the next job? I can sure use the help.
+MARIN39 - You did a real nice thing for the Widow Rooney. Made friends all around and kept the peace. Thanks. You ready for another job? I think you've got a real knack for it.
+MARIN40 - You got way out of line with the Widow Rooney. She was a little old widow lady, for chrissakes. Why'd you have to go and kill her for? Here's your money, but you better watch that hair-trigger on the next job.
+MARIN41 - You sure didn't do much of a job in breaking up that bar fight. Can't pay you for something you didn't rightly do. But I've still got a bum leg. You ready for another job?
+MARIN42 - Putting those Morningstar miners in jail seemed to work, but Dan McGrew, their boss, isn't going to be too happy about it. Here's your money. Ready for your next job?
+MARIN43 - Marge is gonna be real ticked off with you for putting her miners in the pokey. It worked, though. Here's your money. Ready for another job?
+MARIN44 - I'm not sure that putting every damn miner in town into my jail was the best way to solve that problem. I guess it worked, though. Here's your money. Ready for your next job?
+MARIN45 - Talk about spanking a baby with an axe. You went overboard with that one. You're only getting half-pay for that. Maybe it'll learn you something. Nobody needs to get killed over a bar brawl. You better do better on the next job. You ready?
+MARIN46 - Hello there. I'm sure glad that you're taking care of that bad business with one of Lou's gals gettin' all cut up. Come on back when you've wrapped up the case.
+MARIN47 - You let that bastard who cut that girl go free? What kind of idiot are you, anyway? I'll give you another job, but I ain't paying you for this one.
+MARIN48 - Thank god you put that murdering bastard Hakeswill away. We'll show him a bit of justice - and then we'll hang him. Well done. Here's your money. Ready for one more job?
+MARIN49 - I don't doubt that the bastard that cut that gal deserved what you gave him, but you sure didn't make any friends with the miners by killing him. They do so enjoy seeing a good trial afore a nice hangin'. Still, you got the job done. Here's your money. Ready for the next job?
+MARIN50 - You know about Frog Morton. Well, we need to clear him out of here. He's too dangerous to let him set up shop right near town. I'll give you $1000 to go out to the Great Wanamingo Mine, just west of town, and kill Frog and his gang. He's one bad hombre, though, so watch yourself.
+MARIN51 - You did it. You killed Frog. Great job, great job. Here's $1000 in reward money. Of course his brothers aren't gonna be too happy with you when they hear about it - but heck, that's all part of the job.
+MARIN52 - Didn't I? Must have plum darn slipped my mind. Yup, that's what it did. Well, he's got three older brothers... even meaner than he was, from what I hear. Let's see... Toad, Newt and Snake Morton, if I remember aright. Heck, you know how tall tales can get. By the way, keep that badge I gave you. You earned it... Sheriff. (He smiles.)
+MARIN53 - I'm sorry to hear that; I sure could use the help. Well, if you change your mind, come on back right away.
+MARIN54 - I hear that the miners from both the Morningstar and Kokoweef mines here in town are fixin' to stir up a ruckus at Lou's Malamute Saloon. I'll pay you $300 to break it up. You get over there right away. It's right across the street and down towards the west side of town here.
+MARIN55 - Somebody cut up a whore over at Lou's Malamute Saloon. Just across the street here in downtown. Go find out who did it and bring them in. I'll pay you $500 for doing it. That kind of thing is bad for business, just bad all the way around.
+MARIN56 - There's a bandit, name o' Frog Morton, that's taken up lodgings over in the ruins of the Great Wanamingo Mine just west of town. I need you to exterminate him. But be careful. He's crafty and he's bound to have some of his gang with him. I'll give you $1000 to get rid o' the varmint.
+MARIN57 - His name's Morton, and they call him Frog 'cause he croaks people. Ready to go get 'im?
+MARIN58 - Hey, I didn't make that one up - he did. With puns that bad, I'd say that gives you just one more reason to kill 'im. You up for it?
+MARIN59 - You go break up that bar brawl yet? Well, get to it. People are gonna get hurt unless you get your ass moving. Now git!
+MARIN60 - Hey there, you've got a job to do. Come on back when you've croaked that Frog for us.
+MARIN61 - Well, I don't know how you did it, but that's the quietest I've ever heard the Malamute Saloon. Here's your money. Ready for your next job?
+MARIN62 - There is nothing more that can be done with this leg. Only time will heal it.

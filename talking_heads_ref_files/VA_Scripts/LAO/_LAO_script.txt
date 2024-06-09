@@ -1,0 +1,52 @@
+LAO1 - Greetings! Welcome to my shop, Flying Dragon 8.
+LAO2 - What can I do for you?
+LAO3 - You want to buy something?
+LAO4 - This is what we have, then.
+LAO5 - Well, I'm afraid that's all I can do for you. Good day.
+LAO6 - I'm Lao Chou. I run this establishment, Flying Dragon 8, a general store. I have been known to trade in... information.
+LAO7 - Little happens in this town that I do not know about. Of course, you must know the right question to ask, yes? What do you need to know?
+LAO8 - Talk to Crockett, over in the Hubologist camp. He is their head scientist.
+LAO9 - Look to the north, in Navarro. There is a hidden base near the gas station.
+LAO10 - Have you tried looking in the old Vaults? I hear that they are a wealth of information and technology of the ancients.
+LAO11 - A spleen? Ha ha! Yes, Chip from the Valdez lost his spleen in a card game the other day. I sold it to Dr. Wong. He was fascinated by it.
+LAO12 - Dr. Wong is the head scientist in the Steel Palace. Seek him there.
+LAO13 - He was drunk. Very, very drunk. He was obsessed with his spleen all night long. And then he bet it.
+LAO14 - Yes. It was a debt. He is an honorable man.
+LAO15 - You are a dishonorable person. I will not have you in my shop. Come back some other time.
+LAO16 - They did not. They came from the north and flew over us, heading out over the sea.
+LAO17 - Well... none of our boats are capable of that kind of distance. Unless...
+LAO18 - ... unless you can get the old tanker on the docks working. It's an old ship, but probably still functional, if some work is put into it. Ask the punks for more information.
+LAO19 - Word has it that the Hubologists have come into a large quantity of fuel recently. Bargain with them.
+LAO20 - You might try some of the Shi scientists in the Steel Palace. Perhaps they can help you with your fuel needs.
+LAO21 - You have performed well for my people in slaying AHS-9. I hope that I can be of assistance to you in some way.
+LAO22 - You have already given them to the Hubologists. No?
+LAO23 - Even if you could get the NavCom working and the tanker fueled up, you'll still need considerable good fortune if you really want the ship to sail again.
+LAO24 - I mean, the hunk of junk is older than most ghouls. It would be a miracle if it didn't sink on you. That is all I meant.
+LAO25 - Perhaps there is. (smiles) Perhaps the wasteland has made you paranoid.
+LAO26 - Bah. They are nothing. However, it's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand...
+LAO27 - Let's talk, then. But there's nothing special about the tanker. I give you my word.
+LAO28 - Hmm... Business has been slow lately. I could use more customers. Or a donation from a very generous one. Say, $2000?
+LAO29 - (Lao Chou pockets the $2000.) It's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand...
+LAO30 - You drive a hard bargain. Fine, $1500.
+LAO31 - (Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said. Our submarine, on the other hand...
+LAO32 - We have nothing further to discuss, then.
+LAO33 - Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since I enjoyed the company of a charming woman like yourself.
+LAO34 - [Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]
+LAO35 - You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata. But a deal's a deal. It's not the tanker that's special -- it's just a big rusty tanker like you said. Our submarine, on the other hand...
+LAO36 - I... don't think so.
+LAO37 - No, actually. You are not my type.
+LAO38 - I am. I just do not find you very attractive. Perhaps if I were drunk.
+LAO39 - What are you proposing? Ahh... well, I have been cooped up in this shop for a long time. I will reveal all I know in exchange for a sample of your lady friend's charms.
+LAO40 - [You wait outside and hear faint moans from inside the Flying Dragon 8. An hour passes, and then another. You bang on the door, shouting, "Hurry up in there!" Finally, the moans become a primal scream.]
+LAO41 - A smiling Lao Chou emerges from his bedroom, still pulling on his pants. A few moments later Miria stumbles out behind him, looking dazed and confused but deeply satisfied] Your wife is a great deal more experienced than she looks.
+LAO42 - There's nothing special about the tanker. It's just a big rusty tanker like you said. Our submarine, on the other hand...
+LAO43 - The Shi-Huang-Ti. My great grandfather, Ye Li, was its captain. He unleashed her nuclear fires like a horrible dragon upon California's coast.
+LAO44 - Ironically, a malfunctioning missile from our own ancestral nation went off course and exploded over the ocean near the submarine's location. The blast knocked out the Shi-Huang-Ti's systems, leaving Captain Ye Li and his crew stranded at sea.
+LAO45 - But there was salvation. After weeks of drifting, the sub finally came to rest out in the shallow waters of the San Francisco bay. This city became our new home. We eventually restored the Shi-Huang-Ti; its targeting systems, its weapons. It has enough firepower to blow any potential invaders out of the water. So even if you got that old tanker running, it wouldn't get far, as the submarine will destroy any non-Chinese vessel that sails through the bay.
+LAO46 - You swim. Or take the motorboat at the docks. It is guarded, though, by one of our best soldiers, and he will not let an outsider like you past him.
+LAO47 - He's under strict orders to guard it 24/7. He will not let anyone without the right password through.
+LAO48 - That depends. I don't suppose you have $10000 to ensure the continued prosperity of my shop?
+LAO49 - Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.
+LAO50 - You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.
+LAO51 - Don't insult me with your meager offers. $10000. Take it or leave it.
+LAO52 - Your loss then. I don't believe we have anything else to discuss. Goodbye.

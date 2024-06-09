@@ -1,0 +1,51 @@
+ARDIN1 - We're pretty full right now. Sorry.
+ARDIN2 - You found my Smiley -- thank you so much! I just about gave him up for dead. I'm so angry with him! With him back I guess we won't need Sulik anymore.
+ARDIN3 - I hear you hurt my boy Torr. I don't know exactly what happened, but I don't want you anywhere near here. Now get out.
+ARDIN4 - Hello there. My name's Ardin Buckner and this is Buckner house.
+ARDIN5 - You remind me of my boy Torr. I bet the two of you would get along just fine. Why don't you run and talk to him? Goodbye.
+ARDIN6 - Hello there. My name's Ardin Buckner and this is my place. Say, you didn't see a trapper named Smiley outside of town did you? (Half to herself) He's been gone for too long. Never should have let him go off on that fool quest of his.
+ARDIN7 - You didn't see a trapper named Smiley outside of town did you? (half to herself) He's been gone for too long. Never should have let him go off on that fool quest of his.
+ARDIN8 - You should talk to my daughter, Maida, about that. I don't really keep track of what's going on lately. Too much just keeping an eye on my own business.
+ARDIN9 - You better not be planning any mischief here. What do you want?
+ARDIN10 - How can I help you, friend?
+ARDIN11 - Well, Smiley and me were getting downright serious with each other. I thought I had finally gotten him to agree to settle down here and help me run this place. But, he said he needed to go off on one last quest.
+ARDIN12 - I just handle the rooms here. If you want to buy or trade something, talk to my daughter, Maida.
+ARDIN13 - Well, let's see here. We should have a room available. That will be $25.
+ARDIN14 - I'm afraid you don't have enough money for that.
+ARDIN15 - Thank you. I'm so happy you helped find my boy. I thought we'd never see his fool self again.
+ARDIN16 - You've been so helpful with things around here. Thanks.
+ARDIN17 - Well, thank you. I think you might need someone with a few more smarts to help look after you - a traveling companion. I'll talk to Maida about freeing up Sulik.
+ARDIN18 - Well, I just don't know what we could ever do to thank you.
+ARDIN19 - I'll talk to Maida and she'll take care of things with Sulik. You might want to talk to her also, though.
+ARDIN20 - I don't have much, but here's $100. I wish it could be more, but with all the Brahmin we've lost that's all we can afford. I'm sorry.
+ARDIN21 - Well, surely there must be something that I can do to show you how grateful I am. Hmm, I'll forgive Sulik's debt. He's free to go. I guess that not all tribals are troublemakers.
+ARDIN22 - I just don't know what to think. My boy Torr's missing. I sure wish someone would help me find him. He's never been gone from home so long before.
+ARDIN23 - He took off last night. I got mad at him after we lost those last few brahmin. We just can't afford to lose any more, but all he would talk about is the bugmen taking them. That fool boy.
+ARDIN24 - Well, he kept saying that he was going to go get the bugmen where they live. You see, there's a canyon just east of the field where we graze the brahmin. Lately, there've been some strange noises coming from there. 
+ARDIN25 - Thank you for promising to look for my boy. I sure hope you can find him. I'm so worried about him. Hurry, please.
+ARDIN26 - Have you found my boy yet? I don't know how long he can last out there on his own. Please find him for me.
+ARDIN27 - Torr was sure that's where the bugmen that he said were taking our brahmin came from. Said something about proving himself to us. I just wish someone would bring my boy back to me.
+ARDIN28 - Well, he called it a quest. He told me he thought he knew where all the golden geckos came from, and he wanted to find out for sure. He thought that maybe it was some kind of magical spring, or maybe a hidden cave or vault of some sort.
+ARDIN29 - Well, I don't rightly know what all he said, but he seemed real excited about going. But I shouldn't have let him go. He's two weeks later getting back than he said he'd be and I'm worried.
+ARDIN30 - Oh, thank you. Let me mark on your map where he talked about looking. I sure hope you can find him. He isn't much, but I still love him and I miss him more than I thought I could. Please find him for me.
+ARDIN31 - Oh, thank you. Let me mark on your map where he talked about looking. I sure hope you can find him. He isn't much, but I still love him and I miss him more than I thought I could. Please find him for me. You sure you can handle this... mentally?
+ARDIN32 - Have you found my Smiley yet?
+ARDIN33 - I think something horrible must have happened to my poor boy, Torr. I was counting on you (sob) to find him before it was too late. That poor simple boy. I can't believe I counted on you.
+ARDIN34 - Well, somehow that doesn't surprise me much. Oh my, I yelled at my poor boy when it wasn't even his fault. (sob) I'll get those Duntons. They've gone too far this time.
+ARDIN35 - You found Smiley? Where is he?
+ARDIN36 - Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.
+ARDIN37 - I thought they were up to their usual tricks! My poor little Torr, what bullies those boys are. Well, that explains what's been spooking Torr, but I'd like to get more proof that the Duntons are the ones that've been stealing our cattle. I'm afraid word of mouth just isn't good enough.
+ARDIN38 - What!? Are you sure about this? What proof do you have?
+ARDIN39 - Yes, have you found something out?
+ARDIN40 - I thought they were up to their usual tricks! My poor little Torr, what bullies those boys were. Well, that explains what's been spooking Torr, but I wish there was more proof that it was the Duntons. I'm afraid word of mouth just isn't good enough. And now that the Duntons are dead, I'm not sure if we'll ever get to the bottom of this. But if you come up with anything else, please let me know.
+ARDIN41 - That settles it then. With the bug parts and the double branding, we got enough to pin the crime on them. Too bad they're dead, or I would've shown them a thing or two. I guess they got what they deserve. Thanks for your help.
+ARDIN42 - That settles it then. With the bug parts and the double branding, we got enough to turn those no good boys in. I'll take it from here. Those ruffians won't be causing trouble anymore. Thanks for your help.
+ARDIN43 - What? Oh, of course. You've helped us out greatly, so we do owe you at least something. Here's $150.
+ARDIN44 - You did? Well, go on then, what did you find?
+ARDIN45 - You've found my son Torr. Thank you so much.
+ARDIN46 - You're the one that found my Smiley. Thank you, thank you so much.
+ARDIN47 - Have you found my son, Torr, or my friend, Smiley the trapper, yet?
+ARDIN48 - Have you found my son, Torr, yet? I'm so worried about him.
+ARDIN49 - Have you found my Smiley yet?
+ARDIN50 - My poor Torr's run off.
+ARDIN51 - I don't believe you.

@@ -1,0 +1,20 @@
+PAUL1 - Yes?
+PAUL2 - Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files each and every day. There's just so much information to preserve, but, of course, it must be done.
+PAUL3 - We are an independent community. Anyone is welcome as long as they behave themselves.
+PAUL4 - The Abbot is a good spiritual leader, but he's been a little cranky since we lost Brother Thomas to the beast.
+PAUL5 - I haven't seen it, personally--there's nothing in the world that could get me to go down there and explore those caverns--but if I had to guess, I'd say it's probably just some overgrown radscorpion.
+PAUL6 - Because I've heard sounds echoing up from the caves--the sounds of snapping claws and skittering legs.
+PAUL7 - That computer near me should have some information about it. You now have access, so take a look for yourself.
+PAUL8 - That computer near me should have the information you seek, but you'd need an access card to use it. We're very selective with who we give access to, but if you speak to the Abbot, perhaps he'll grant you permission.
+PAUL9 - I don't know anything about Vault 13, but there is Vault City down south. Maybe they have the info you need.
+PAUL10 - Ah yes, I heard about what you did. Thanks for taking care of that situation. Here is the access key. (He hands you the key.) Enjoy!
+PAUL11 - Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?
+PAUL12 - Hmm, let's see. Did you know a notch in a tree will remain the same distance from the ground as the tree grows?
+PAUL13 - And did you know a cucumber is 96% water?
+PAUL14 - I've never seen one, but I've read about them. [He looks around nervously and lowers his voice.] I know we're not supposed to actually study these books, but when I was transcribing a book on botany, I just couldn't help but get sucked into it. The world of plants is simply captivating. Perhaps, if, during your travels, you happen upon some botany information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.
+PAUL15 - Oh, well then. Fine, forget I asked.
+PAUL16 - Would you? I'd appreciate that.
+PAUL17 - Such as?
+PAUL18 - Really?! That's great. Please, do tell immediately.
+PAUL19 - Fascinating! I shall take this holodisk and add it to the computer database immediately. I appreciate you taking the time to find this for me. Thank you for collecting this for me.
+PAUL20 - Fascinating! I appreciate you taking the time to find this for me. Please go and upload this information to our computers.

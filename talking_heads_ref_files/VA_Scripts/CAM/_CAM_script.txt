@@ -1,0 +1,24 @@
+CAM1 - Greetings, Chosen. I have the honor of being your final challenge. To continue in your quest you must defeat me in unarmed combat. Shall we begin?
+CAM2 - What would you like to know? 
+CAM3 - The path of the Chosen One is not an easy trail to walk, Chosen. You will be faced with many challenges throughout your lifetime, and the most difficult of these will be dealing with your fellow man. There will come a time when diplomacy and tact will prove to be useless and your hand must be raised instead. This challenge prepares you to face another human, look him in the eyes, and know that you may have to kill him.
+CAM4 - No, my friend, you need only defeat me. When the time comes, we will end the battle.
+CAM5 - Yes. Weapons tend to distance us from battle and desensitize the effects of our actions against others. When you strike another human being with your bare fist, you both see and feel the pain you cause. Battle becomes very personal and all too real then. This is an important lesson for you, Chosen.
+CAM6 - Very well. Shall we begin?
+CAM7 - Very well. Return and tell me when you are ready for your challenge.
+CAM8 - Are you ready for your challenge, Chosen?
+CAM9 - Excellent! Your equipment will be kept in the trunk outside of the room. You can get it after the fight. Let the fight begin! Good luck to you Chosen.
+CAM10 - It is good to see you again, Chosen One. How may I help you?
+CAM11 - Take the path to my left, Chosen One. It leads to the temple proper. The cave entrance behind me will return you to the last chamber.
+CAM12 - No thank you, Chosen One. I still carry the bruises from our last encounter and will need years to recover!
+CAM13 - You have a tongue of purest silver, Chosen One. Your skill with words will open many doors for you.
+CAM14 - I don't seem to remember our last battle, Chosen One. I will always wonder how you managed to get past me.
+CAM15 - You may be correct, Chosen, but not in our current situation. You must defeat me to succeed in your trial.
+CAM16 - Hmm... I see your point. I wouldn't want to be responsible for killing you when all I meant to do was test your mettle. Very well -- you may pass, Chosen One.
+CAM17 - Hmm... I see your point. However, we must still do battle. I will simply take care not to hurt you too much.
+CAM18 - And to you as well, Chosen One. May the spirits guide you on your quest.
+CAM19 - Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.
+CAM20 - You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day.
+CAM21 - Very well. Return to me if you change your mind.
+CAM22 - Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?
+CAM23 - Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.
+CAM24 - There will always be a need to test the might of our people. And I take great honor in doing my part.

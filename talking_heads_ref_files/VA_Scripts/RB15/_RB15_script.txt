@@ -1,0 +1,25 @@
+RB151 - Hi, I'm Rebecca. Can we talk privately, please?
+RB152 - (whispering) My daughter is missing and I need help finding her. I can't talk about it here, though. Can we go somewhere private?
+RB153 - (whispering) You may think I'm crazy but I get the feeling I'm being watched all the time. It's rather disturbing, and I'm a bit on edge because of it.
+RB154 - Thanks; we can go to my tent.
+RB155 - We should be able to talk here.
+RB156 - I have a daughter named Chrissy who's a bit of a tomboy. She likes to run around, explore, and pretty much stick her nose into things. Chrissy's a good kid, though. She doesn't cause trouble, she's always home on time and she's shown herself to be a very responsible young lady. I let her do as she pleases most of the time. Last week Chrissy didn't come home. I've asked around, and nobody's seen or heard from her. I tried to find her myself, but Zeke, he's... sort of the mayor here... stopped me. He said it wasn't safe for me to go out looking on my own; he'd have some of his men do it. They couldn't find her, either, and said that maybe the slavers got her.
+RB157 - I can't explain why, but I don't believe the slavers took her. I've an uneasy feeling that something else is going on. And then there's this feeling that I'm being followed. I've had it ever since I talked to Zeke about Chrissy. I need someone to help me find my daughter. Will you help me, please?
+RB158 - What do you want to know?
+RB159 - We call this place the 'Squat' because it was settled by the homeless of many cities. It's not much, but it's all we have. To the west is a city called the NCR. They've known about us for quite some time, and never offered us any kind of help or hindrance. Now, they are suddenly claiming this area as their ancestral home, and they want it back.
+RB1510 - They keep sending people here to try and talk us out of our home, but they don't understand that we have nowhere else to go. We don't have the skills necessary to survive on our own if we leave here.
+RB1511 - Well... there is a vault here; I think it's number 15. They want to loot it for any of the old technology that may still be there.
+RB1512 - That would be Zeke. He runs everything up here. You can find him in the building over there. ::points north-east::
+RB1513 - I'm sorry, I have no idea. I would ask about it in NCR. They've taken a great interest in vaults lately.
+RB1514 - Well... we're not supposed to talk about it, but since I need your help... The vault is being repaired by Darion. He's our benefactor. When it's fully functional, we're all supposed to move in where we'll be safe from raiders, slavers, and such. So far he has the food and water systems up, but that's about it.
+RB1515 - You know, it's kind of funny that they managed to get something that complex fixed, but not the lights. The damn place is lit by torches. Anyway, Darion doesn't want anyone to know what's going on with the vault. He's afraid that someone will take it all away from us if they find out. So, we're told to drive off anyone who shows up here -- especially the NCR.
+RB1516 - There's not much to say, really. Darion keeps to himself and never leaves the vault. If he has anything to say, he says it through Zeke. I've only met him once, and he seemed like a nice guy.
+RB1517 - I have nothing to give you other than my undying gratitude.
+RB1518 - Thank you so much. I'll never be able to repay you for this. I'll wait here until you bring... Hey, there was someone outside listening to us! I saw their shadow on the tent wall. They just ran off that way! ::points north-east:: They must have heard everything!
+RB1519 - Have you thought things through?
+RB1520 - Have you changed your mind? Will you help me?
+RB1521 - You must be the person who saved my daughter. I can never repay you for your kindness. Thank you. Please wait here, I need to talk to Chrissy and then I'd like to talk to you.
+RB1522 - You saved my daughter. I can never repay you for your kindness. Thank you. Please wait here, I need to talk to Chrissy and then I'd like to talk to you.
+RB1523 - My daughter has told me everything. I find it hard to believe that Darion is such a monster after all he's been doing for us. And to think, we've been helping him hide his operations as a raider. I can guarantee you we won't stand for it any longer. I've already talked to Zeke, and he wants to see you. You should go see him now.
+RB1524 - I find it hard to believe that Darion is such a monster after all he's been doing for us. And to think, we've been helping him hide his operations as a raider. I can guarantee you we won't stand for it any longer. I'll talk to Zeke and explain everything. I'm sure he'll want to see you. You should go talk to him later.
+RB1525 - I hope you find Chrissy soon.

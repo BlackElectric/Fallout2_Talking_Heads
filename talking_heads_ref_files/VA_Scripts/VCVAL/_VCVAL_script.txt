@@ -1,0 +1,46 @@
+VCVAL1 - Well, if it isn't my Dad's "boss." Did you WANT something, or are you just going to stand there gawking like a moron?
+VCVAL2 - Yes?! Did you WANT something, or are you just going to stand there gawking like a moron?
+VCVAL3 - It's that big hole in the mountain to the east, past those two heavily-armed guards. Anything else you want to ask or can I get back to work?
+VCVAL4 - As if Vault City didn't have enough human brahmin... look, you CANT BE IN HERE, OKAY? You could HURT yourself! NOW GET OUT! GO!
+VCVAL5 - Get out of here. Or I'm going to summon the guards to MAKE you get out.
+VCVAL6 - It's the maintenance shed for Vault City. Or did you just HAPPEN to miss the huge sign on the side of the building?
+VCVAL7 - You've got the "of some sort" right, anyway. Look, did you need something repaired or did you just want to ask me a bunch of dumb questions?
+VCVAL8 - Synthetic alcohol dispensers, radios, firearms, laser turret parts, computer monitors, you name it... when I can get the tools to do my job.
+VCVAL9 - Right now, I've got the metal lathe barely working, and my wrench has gone missing... AGAIN... and my pliers' teeth are stripped.
+VCVAL10 - You? I doubt it.
+VCVAL11 - The PROBLEM is, I can't just go out and buy some new ones, I have to requisition them from Vault City. That means filling out five billion lists, submitting them in triplicate, then WAITING.
+VCVAL12 - Hell, I ordered a Super Snap-Off Tool Kit MONTHS ago, but just like always, it won't show until I don't need it anymore. It's a wonder things ever get done around here...
+VCVAL13 - Yes. Why?
+VCVAL14 - I won't hold my breath, but if you want to, go ahead. It's your time, not mine. I might be able to scrape together a little to pay you for your trouble.
+VCVAL15 - You do?
+VCVAL16 - Uh... thanks. I mean, they're not great, but they'll do. Where did you... oh, never mind. It's not important. Here's a few bucks for your trouble.
+VCVAL17 - Yeah, yeah... look, I have some work to do. Come back in a day or two, all right? I'll have time to chat then.
+VCVAL18 - You won't believe this. Not less than a DAY after you gave me those tools, that Super Tool Kit I ordered arrives. But not just one. They send me FIVE. What the hell is wrong with the ordering office?!
+VCVAL19 - Why not?! What am I going to do with FIVE?! Take it! I swear that I'm going to beat the living tar out of the List Office for this.
+VCVAL20 - Oh, I see how it is. Well, what is it you want?
+VCVAL21 - What? I haven't got time to chat all day.
+VCVAL22 - Yeah? What?
+VCVAL23 - Nothing worth mentioning. He came here twenty years ago on one of his caravan trips, knocked up Mom and left. Until he stopped by, I hadn't seen him in about five years. No loss.
+VCVAL24 - No, we don't. We've said all we need to say a long time ago. 
+VCVAL25 - Yes, I'm SURE. Well... except for the fact that I think he should lose some weight. He's got quite a spare tire going. And he should stop wandering all around the wastes selling junk to tribals. That's pretty much it.
+VCVAL26 - Heh-heh. You've got a sarcastic edge. I like that. As for ol' "Dad"... well... hmmm. I'll try and be a little more civil. For a while, anyway. Um... make sure he stays out of trouble, all right?
+VCVAL27 - Heh-heh. You've got a sarcastic edge. I like that. As for ol' "Dad"... well... hmmm. I'll try and be a little more civil. For a while, anyway.
+VCVAL28 - Look, I don't have anything in "stock." This isn't a store. Most of the stuff I fix here ends up in the Amenities Office... it's out the door and to your left.
+VCVAL29 - Like I said BEFORE, this isn't a store. Go to the Amenities Office if you want a gun. Come here if you want something repaired.
+VCVAL30 - Well... maybe. Let's see what you got.
+VCVAL31 - It doesn't look like you have much of anything that I could tinker with. I mostly do pistols, rifles, that sort of thing.
+VCVAL32 - I could put a speed loader on that magnum of yours for $800. Hmmmm. That Desert Eagle you have... I could give it an expanded magazine, if you want. That'll cost $1000.
+VCVAL33 - I could put a speed loader on that magnum of yours for $800.
+VCVAL34 - Hmmmm. That Desert Eagle you have... I could give it an expanded magazine, if you want. That'll cost $1000.
+VCVAL35 - That assault rifle you got there... I can give it an expanded magazine for $1500. Hmmmm. I've got a low-light scope I can put on that FN FAL you got for $3500.
+VCVAL36 - That assault rifle you got there... I can give it an expanded magazine for $1500.
+VCVAL37 - Hmmmm. I've got a low-light scope I can put on that FN FAL you got for $3500.
+VCVAL38 - I suppose I could juice up that cattleprod for you. It'll cost you $750.
+VCVAL39 - I see you've picked up some tricks from my cheapskate father. Give me about an hour, and it'll be good to go...
+VCVAL40 - All right, all right. You sound just like my cheapskate Dad. Give me about an hour, and it'll be good to go...
+VCVAL41 - All right, give me about an hour, and it'll be good to go...
+VCVAL42 - There you go. Anything else?
+VCVAL43 - What do you... uh... Dad?
+VCVAL44 - Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks. You come back here for a little peace and quiet, Mr. Big Hero?
+VCVAL45 - Hey! Glad you made it back. Last I heard, you were traveling down south, gunning up old tankers and blowing up oil derricks. You come back here for a little peace and quiet, Ms. Big Heroine?
+VCVAL46 - Well, you be careful around here, you hear? Don't be blowing up Vault City if you can help it. And... hey, thanks for saving us all.

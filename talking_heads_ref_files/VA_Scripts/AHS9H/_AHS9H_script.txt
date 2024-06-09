@@ -1,0 +1,36 @@
+AHS9H1 - You are in the presence of AHS-9, the Great and Terrible. What is it you desire of him?
+AHS9H2 - Yes, my child?
+AHS9H3 - I can't understand a word you're saying. Perhaps you should see Juan or Vikki about an alignment.
+AHS9H4 - Of course, child. The alignment has cleared your basic neurodynes and aligned them with mine and the spokes of the Great Wheel. What do you need?
+AHS9H5 - If you'll agree to do me a favor, I can help you, child.
+AHS9H6 - My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.
+AHS9H7 - If you change your mind, let me know. Remember, I may be the only way you have of reaching your family.
+AHS9H8 - Good. Let me know when you're done, and I'll begin making inquiries into ways we can achieve your goal at the same time. Farewell, child.
+AHS9H9 - Have you completed your task? Your future and that of the Wheel on this planet depend on it.
+AHS9H10 - Remember, you will need to visit AHS-7 when you have completed your task.
+AHS9H11 - Greetings to you as well. Now, please finish your job so that I may aid you.
+AHS9H12 - I can see by your emanations that you have succeeded in ridding the world of the polluting neurodynes of the Emperor.
+AHS9H13 - If you go to Shi-town's docks, you will find the PMV Valdez. Enter the ship. Head to your right, and up to the captain's station. Hit the Go button, and the tanker will sail you to your destination.
+AHS9H14 - Flying ships? You must be referring to the Enclave and their vertibirds.
+AHS9H15 - Trust me, child, you are referring to the Enclave.
+AHS9H16 - The Enclave are a remnant of the past - a neurodyne that has yet to be aligned. They have hidden bases all over the shards of old California, and their strongest stronghold is off to the west, over the waters.
+AHS9H17 - That, my child, you will have to discover on your own. Ask around and you shall find the truth.
+AHS9H18 - Child, I am AHS-9. I see many things that transpire in the fleshy world. Do you have more questions, or may I return to my meditations?
+AHS9H19 - You have killed the Emperor and destroyed his minions?
+AHS9H20 - Then there is no one who can stand in my way! But I see no need to be beholden to a mere tool. Farewell - and good riddance!
+AHS9H21 - A letter from the Enlightened One? Is that what she calls herself now? Bah. [he takes the letter from you] And she promised a reward? You have a reward - my gratitude. Good day.
+AHS9H22 - Address your questions to AHS-7. I am AHS-9, the Great and Terrible, and I have many matters on my mind. Trouble me not, meat.
+AHS9H23 - Ahh, a letter from my field agent. Pity she calls herself "The Enlightened One" - it shows that she truly is not enlightened. You have my gratitude.
+AHS9H24 - Yes, my child?
+AHS9H25 - My counterpart, The Emperor of Shi-town, has been making my life miserable. I'd like you to end his. In return, I'll make sure you can get where you need to be.
+AHS9H26 - Seek out Badger, whose caustic presence holds those pathetic tanker vagrants together. Rid our fair city of him. When you have done so, visit AHS-7.
+AHS9H27 - I was not aware I had made it a request, child. Kill him!
+AHS9H28 - You disobey the commands of AHS-9, the Great and Terrible? Then you shall die.
+AHS9H29 - Too late, meat. You have shown you cannot be trusted. Die!
+AHS9H30 - Child, there are some things you are not meant to know for now. [He smiles benignly.]
+AHS9H31 - The ESS Quetzel will launch when the stars are right. 
+AHS9H32 - Your enburgled aura tells me that you come here meaning me no good. Tell me, child, do you wish to profit from your venture?
+AHS9H33 - This, then, is my bargain: return to the Shi and eliminate Ken Lee and the Emperor. I will repay you with more money than you have ever dreamed.
+AHS9H34 - Then go and smite those troublesome souls. I await word of your success. [He smiles beatifically.]
+AHS9H35 - Ah, child, how could you stray from the path of truth like this? I see from your aura that you plan to kill me. I am bitterly disappointed. Bitterly. Ah well. Let us proceed.
+AHS9H36 - All our needs have been met. Now it is time for me to meditate.

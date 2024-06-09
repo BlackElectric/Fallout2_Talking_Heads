@@ -1,0 +1,42 @@
+KENSF1 - What would you like, friend?
+KENSF2 - What can I do for you?
+KENSF3 - What do you want?
+KENSF4 - I am Ken Lee, advisor to the Emperor. And you, my friend, appear to be simpleminded, so remember this: if you seek the Enclave, then you must take the Poseidon tanker to it. You'll need fuel for the tanker. You have my blessing.
+KENSF5 - I am Ken Lee. I am the advisor to the Emperor. The Emperor advises me not to talk to you, and so I will not. Good day, fool.
+KENSF6 - Ahh, traveler, I cannot help you. Perhaps you can find the answer to your quest in another way. Good day.
+KENSF7 - I am Ken Lee. I am the advisor to the Emperor of the Shi. I bring forth the wisdom of the Emperor. And who are you?
+KENSF8 - This is the Steel Palace of the Emperor. This is the heart of Shi-town.
+KENSF9 - If you wish to see the Emperor then you must give me your own name.
+KENSF10 - Not everyone is granted a chance to see the Emperor. You must first prove your worth. Are you willing to prove yours?
+KENSF11 - I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.
+KENSF12 - Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.
+KENSF13 - The Emperor remains hidden from prying eyes. It is my job to act as the Emperor's screen. However, you have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.
+KENSF14 - The Emperor remains hidden from prying eyes. As my job is to act as the Emperor's screen, I cannot and will not tell you where he is.
+KENSF15 - We do research that will change the world. For more answers to your questions, you should seek out Dr. Wong Yi Tze. 
+KENSF16 - We were the survivors from the wreck of a submarine. When we ran aground, we stripped the metal from the submarine to create the Palace. Some do not believe this.
+KENSF17 - Ah, yes! I have seen some of your movies. Yet surely this is not your real name?
+KENSF18 - That will be quite impossible. Good day.
+KENSF19 - Surely you must give me more credit than that. I know how the "biz" works. I have traveled to New Reno before.
+KENSF20 - Our spies report that you have given the vertibird plans to the Hubologists. Steal them for us and you shall be rewarded.
+KENSF21 - Excellent. This is what I require of you: there is a small military base north of here, called Navarro. There are numerous vertibirds there. We need plans and blueprints to manufacture some of our own. Fetch those and you will be on your way to seeing the Emperor.
+KENSF22 - Will you reconsider taking our test?
+KENSF23 - Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.
+KENSF24 - You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.
+KENSF25 - No? It saddens me, but I understand. Best of luck in your quest. If you change your mind, you know where to reach me.
+KENSF26 - I am anxious to see the result of your attempt. Good day.
+KENSF27 - Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.
+KENSF28 - It certainly is. And I deal with these people on a daily basis. Alas!
+KENSF29 - You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.
+KENSF30 - Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. 
+KENSF31 - Excellent. I hope to hear of your success soon.
+KENSF32 - Then in that case, you can only be an enemy. Good day.
+KENSF33 - With the death of AHS-9, the Great and Terrible, the Hubologists pose no real threat to us and our researches. Well done. You have our gratitude. Would you like to speak to the Emperor?
+KENSF34 - You have proven yourself to be a friend to the Shi. I believe I can trust you with our secrets. In the back room, you will find the forcefield to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. I hope this will prove useful to you.
+KENSF35 - Yes. It stores our history, our research, and projects possibilities for the future. It is far better than any fallible human- yet we temper its suggestions with our own knowledge of human nature.
+KENSF36 - Thank you for the vertibird plans, traveler. What can I do for you?
+KENSF37 - Once you have obtained the vertibird plans, give them to Dr. Wong Yi Tze. He will put them to good use.
+KENSF38 - Remember, you must take the plans to Dr. Wong Yi Tze.
+KENSF39 - As I have explained, I will need to know your name.
+KENSF40 - I am sorry. But I cannot offer what fuel we have to you. Perhaps if you were to speak to the Emperor?
+KENSF41 - I wish I were able to offer you our fuel, but unfortunately our stores are empty. They have been diverted by some means to the Hubologists. It is possible that you would be able to find someone to divert it back.
+KENSF42 - I respectfully remind you that unless you have given the vertibird plans to Dr. Wong Yi Tze, I cannot grant you access to the Emperor. I hope you understand.

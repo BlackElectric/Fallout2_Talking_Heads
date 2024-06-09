@@ -1,0 +1,24 @@
+Hello! We absolutely loved your voice and are excited to have you voice act the character! Here are some requests we have as you begin to record the lines:
+
+0. When it comes time to submit your lines, reach out to me via discord or email. Some of the character's recordings may be too large to send via email / discord, so I may need to share a google drive to place the files in.
+
+1. The recording should be in .wav, ideally 44100kHz Mono 32-bit but we can post process it on our end to format it.
+
+2. In the folder there is a "_script.txt" file at the top that lists every line we need voiced
+	-We need a separate .wav file recorded for every single line of dialog, saved under the file name before the hyphen (corresponds to one of the .txt files)
+
+3. Please stick to the script verbatim, this is to allow the lip sync tool to work.
+
+4. Please be sure that you record in a quiet environment. Fan / AC noise or anything else in the background will greatly reduce the quality of playback in game.
+	
+5. If you find that a sentence or line seems incomplete (without an ellipses) let me know, it could be something wrong with the script extraction tool.
+
+6. Some lines of dialog will include narration (in parenthesis or brackets), these do not need to be spoken (unless it is a cough, sneeze, etc, e.g.)
+
+7. The game changes the dialog dynamically based on the player's character's intelligence. If there are lines where your character is talking "like a baby", it is probably because they are being condescending.
+	-In this case, the player's character probably has a very low intelligence skill.
+	-For these lines, you'll want to adjust your tone accordingly to the personality of your character and how they might treat an "idiot".
+
+8. If a line is all narration (not spoken dialog, observations from characters, e.g., usually in parenthesis), there is no need to record a line of dialog. You don't have to create a .wav for that line.
+
+Again, we really appreciate the help you are giving us in recording the character. We hope you enjoy voicing the character and look forward to listening to their dialog in game!

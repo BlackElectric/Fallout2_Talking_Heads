@@ -1,0 +1,44 @@
+PHL1 - Oh! Hello, there. I haven't seen you around before... are you a new Citizen?
+PHL2 - Oh! Hello, again.
+PHL3 - Oh my, you are hurt, aren't you? I'm sorry, I should have been paying more attention. Go see Dr. Troy. He'll take care of you.
+PHL4 - Oh! You must be one of the Servants assigned here for the day. You should... uh, hmmm. YOU - GO - MARTIN.
+PHL5 - Uh... hmmm. Listen to me again, closely this time: YOU - GO - MARTIN.
+PHL6 - YES, MARTIN. GO - BOTTOM - LEVEL.
+PHL7 - GO - BOTTOM - LEVEL. LEVEL - THREE. NOW.
+PHL8 - Oh! Well, welcome to Vault City, Captain. We don't see many new faces around here. I'm Phyllis. What's your name?
+PHL9 - Well, welcome to Vault City, fellow Citizen. We don't see many new faces around here. I'm Phyllis. What's your name?
+PHL10 - Why, of all the...! I have NEVER met someone as low-class as yourself. I suggest you leave. Now.
+PHL11 - Guards! Dr. Troy! Help!
+PHL12 - I'm the Resident Medical Assistant. I work for Dr. Troy.
+PHL13 - Welcome back. Anything I can help you with?
+PHL14 - Of course. What is it you would like to know?
+PHL15 - Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.
+PHL16 - Are you certain? That doesn't sound like Dr. Troy at all. Still... he HAS been working hard lately... no, no, that's impossible. You must be mistaken.
+PHL17 - I would be VERY careful about what you say about Dr. Troy in Vault City. He is a respected member of our community.
+PHL18 - It's down on the 3rd level, if I remember correctly. Haven't been down there in ages.
+PHL19 - Oh, I don't know. Not much reason to go down into the Vault. It's mostly used for storage space nowadays. The only one down there is Martin, and... well, just between you and me, he's not a great conversationalist.
+PHL20 - Uh... maybe you SHOULD go speak to him. You two may have more in common than I first thought.
+PHL21 - Vault City? Well, actually, there's not much to say. I mean, I've been a Citizen all my life... but there's not much to do in Vault City. At all.
+PHL22 - Look, I know you're a new Citizen and all, and I don't mean to throw a damper on your Citizenship, but this City can be VERY dull at times.
+PHL23 - I mean, have you noticed how similar everyone is? And OLD? Most of the seminars and extracurricular activities are geared towards octogenarians. I'm barely twenty-five, and this city makes me feel like I'm fifty.
+PHL24 - Uh no... "octogenarian" is an adjective that refers to a person who is eighty years old. 
+PHL25 - Well... yes. Actually, there aren't. Yet. I don't know if anyone told you yet, Vault City is a planned community. We're not due for another pregnancy cycle until a few years from now.
+PHL26 - Yes. Pregnancies are permitted only during certain years established by the Council.
+PHL27 - How would that happen?
+PHL28 - Oh, you mean intercourse? Intercourse is still allowed outside of pregnancy cycles.
+PHL29 - Oh, no, no... you see, our pregnancies don't result from intercourse.
+PHL30 - Male Citizens "donate" to the Auto-Doc here in the Vault and the most favorable matches are chosen by the computer. Then the appropriate female Citizen is seeded by the Auto-Doc.
+PHL31 - Certainly. We'd welcome your contribution. Vault City could use some fresh genetic material.
+PHL32 - Your contribution is impressive... you yourself seem to be quite gifted. How do you feel?
+PHL33 - Excellent! Thank you.
+PHL34 - Hmmm. Maybe your contribution wasn't as valuable as I thought. Thanks anyway, though.
+PHL35 - Well, actually... you see, this is something I've been thinking about recently, but Citizens don't seem to have accidental pregnancies. The only successful pregnancies have been facilitated by the Auto-Doc.
+PHL36 - You know, I was thinking the same thing. Maybe I should mention it to Dr. Troy. He's been too busy to look into it recently, but the next pregnancy cycle IS coming up, so...
+PHL37 - It's like they're all... clones. They all dress alike, act alike, and the worst part is that everybody seems happy with it. I... well, sometimes I worry that I'll end up being just like them. That probably sounds silly, huh?
+PHL38 - Yeah, it can get kind of overwhelming at times. But here I am, bringing down your opinion of Vault City. Don't misunderstand me. It's a great place to live.
+PHL39 - Well, I've been tempted to go outside the gate, but the other Citizens have warned me against it...
+PHL40 - You know, you're right. Maybe I will step outside the gate when I get the chance. I'd like to know more about the outside world.
+PHL41 - Pardon me?
+PHL42 - Oh. I... you know, I'd love to, but I can't.
+PHL43 - Oh. Well, I... I'd love to.
+PHL44 - I'm sorry, but no.

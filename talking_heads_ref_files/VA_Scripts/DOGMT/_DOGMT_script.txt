@@ -1,0 +1,6 @@
+DOGMT1 - The dog gives a low whine when it sees the vault suit. It looks like it wants to come with you.
+DOGMT2 - The dog greedily swallows the iguana on a stick, then looks at you expectantly.
+DOGMT3 - The dog greedily swallows the contents of the can of dog food, then looks at you expectantly.
+DOGMT4 - You see one meeeean-looking dog.
+DOGMT5 - Awooooooooooo
+DOGMT6 - Dogmeat gives a sharp bark, then a low growl.

@@ -1,0 +1,39 @@
+SKERI1 - Mira's the name. What'll ya have, stranger?
+SKERI2 - Hello again. What'll it be?
+SKERI3 - Well, aren't you the one! Just the way I like them.
+SKERI4 - Back again?
+SKERI5 - I don't know what you did to Lenny, but I wouldn't hang around here. It ain't gonna make you to popular.
+SKERI6 - Hey, I warned you. Oh, well. ..
+SKERI7 - Whoa - ya just worked Lenny. Impressive! Have a drink on the house.
+SKERI8 - What ya did to Lenny - it was wicked!
+SKERI9 - Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.
+SKERI10 - You gonna buy a drink? $10.
+SKERI11 - One Rad-A-Waster coming up! $10.
+SKERI12 - Sure, one buck.
+SKERI13 - You might try Merk in the back room.
+SKERI14 - You need to talk to Merk, but he's not here. Come back at night. That's more his time.
+SKERI15 - There's nothing for you here, stranger.
+SKERI16 - So, that it, stranger?
+SKERI17 - Get outta here, ya deadbeat!
+SKERI18 - Sure, I got some time. That's what bartenders are supposed to do. Just don't get no ideas.
+SKERI19 - For you, I always got time, baby. What ya want?
+SKERI20 - Sure.
+SKERI21 - Name's NCR. Used to be Shady Sands, but after the Master's defeat, Aradesh and the others founded the Republic. Now, NCR sits right on the border. Everything south of here's Republic ruled.
+SKERI22 - Word of advice. Keep your nose clean in town. Courts aren't too friendly to our types, if you know what I mean. Citizens got more rights than you.
+SKERI23 - Look, that's all I got to say about that.
+SKERI24 - Ya another one them whackos looking for lost treasure? Ya ought to go see Saltbeef Bob over at Westin's Ranch. He's always talking about treasure. Ya may have to wet his whistle though.
+SKERI25 - Ya tell me how to mix it and I'll pour it for ya.
+SKERI26 - He's a great guy. He's my boss. What ya expect me to say?
+SKERI27 - That bastard....It was just a messy divorce, that's all.
+SKERI28 - Oh, very informative. Look, ya might try Dr. Henry in town, but I got other things to do, Dumbo.
+SKERI29 - Garden of Eden Creation Kit? Sounds technical. Ya might try looking up Dorothy, the city engineer. 
+SKERI30 - Hmm -- work? Want job? Help Mira?
+SKERI31 - Listen -bad man hurt Mira. Bad man name Jack. Hurt bad man. Mira like ya, give ya nice gun. Good?
+SKERI32 - Good! Mira have rope over wall. Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun.
+SKERI33 - Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun. Now go away. Me be seen with ya - not good. Help Mira and come back. Understand?
+SKERI34 - Mira hear Jack got hurt. Good work, Dumbo. Here gun, ya take. Thanks.
+SKERI35 - Screw ya, too. I'm never gonna be free of that bastard.
+SKERI36 - That bastard Jack? What'd he say now?
+SKERI37 - You're kidding? That's the best news I've had all day! I hope his brains made nice wallpaper. Damn psycho deserved it. Have a Rad-a-Waster on me.
+SKERI38 - You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.
+SKERI39 - Dumbo, you've made me the happiest woman around! I got a little present for you, right here behind the bar. It's all yours.

@@ -1,0 +1,33 @@
+MOORE1 - Hello and welcome, traveler! Have you heard the word today?
+MOORE2 - The word, my friend... the word is SELFISHNESS. Mix in a slew of arrogance, and what do you have? Vault City... in all its self-righteous, slave-trading glory.
+MOORE3 - Yes! It is TIME to hear the wailing of our kin outside these walls and let them in! We have more than enough to feed and shelter our brothers... we need not be rich when so MANY are poor.
+MOORE4 - It is TIME to hear the wailing of our kin outside these walls and let them in! We have more than enough to feed and shelter our brothers... we need not be rich when so MANY are poor.
+MOORE5 - Friend... as I look upon you today, I see STRENGTH. I see FAITH. Do my eyes deceive me? Or do they see a kindred soul that shares my cause?
+MOORE6 - Then let me ask you this, my friend - to what LENGTHS would you go to spread the word?
+MOORE7 - Even though it may mean banishment from this oasis?
+MOORE8 - (Leans in.) I have a briefcase... with information vital to our cause. Will you deliver it to New Reno for me? I would do it, but the Citizens here are watching me...
+MOORE9 - Here it is... deliver this to a man, John Bishop, in New Reno. Tread carefully, my child, and carry the word with you.
+MOORE10 - My name? I am Thomas Moore, preacher of the word and the truth. And what brings you to me today, friend? Do YOU seek the word?
+MOORE11 - Even those who appear the most innocent may deceive a messenger of the word... how do I know that you're a TRUE believer?
+MOORE12 - Ignorant heathen! You have ears, but you do not listen! You have eyes, but you are blind! Get from my sight, filthy swine!
+MOORE13 - Hmmmmmm. One must beware serpents that echo the words of truth, yet shelter falsehood within their heart.
+MOORE14 - What?! How DARE you blackmail me, you... you... (Frowns.)... you have my full attention.
+MOORE15 - Why... where better to preach than to those that need to hear the most?
+MOORE16 - Here... this briefcase has my account numbers in it. Deliver it to John Bishop in New Reno, and he will give you access to my accounts.
+MOORE17 - It seems nature has already punished you, slaver. Perhaps one day you shall redeem yourself.
+MOORE18 - Eh... that's not it. Walk carefully in the wastes, my simple friend.
+MOORE19 - So, friend, have you reconsidered?
+MOORE20 - Eh? What are you doing here? Didn't you deliver...
+MOORE21 - Ah! Welcome again, fellow seeker of truth! How can I help you this day?
+MOORE22 - I know that they are striving to revive truth and justice, and we will not lift a hand to help.
+MOORE23 - We can throw our gates wide and welcome them in! They need our help, yet STILL we turn a blind eye!
+MOORE24 - I cannot answer that, for a city built on slavery can never be truly free.
+MOORE25 - I see you are a trader in human flesh. I have NOTHING to say to one such as yourself.
+MOORE26 - The act is the same as the deed. Begone, slaver.
+MOORE27 - I have nothing to say to one of such foul disposition. Leave.
+MOORE28 - Hello again, fellow pilgrim! Did you deliver the information as I asked?
+MOORE29 - Hello again, fellow pilgrim! How can I help you on this day?
+MOORE30 - It pleases me to hear that my words have taken seed in your heart. Perhaps our paths will cross again.
+MOORE31 - The NCR is trying to bring honor and government to all of California, and Vault City has the power to make it happen! Think of the good we could do with access to Vault City's technology!
+MOORE32 - ALL men have the right to the fruits of the old world. Technology is to be shared, not hoarded.
+MOORE33 - What to do? Why, spread the word, and that shall be enough. Walk carefully and with purpose in the wastes, my friend. With the word as your light, you shall not go astray.

@@ -1,0 +1,25 @@
+MARJ1 - (The bald woman doesn't even look up from her clipboard.) Yes?
+MARJ2 - (The woman looks up and glares at you.) Are you one of the control subjects? As if matters anyway... Guards! Detain this slave!
+MARJ3 - Look, I'm VERY busy, so if you don't mind... [Glances up from her clipboard at you, then scowls.] You again? What do you want now?
+MARJ4 - Look, I'm VERY busy, so if you don't mind... [Glances up from her clipboard at you, then scowls.] WHO are you? How did you get in here?
+MARJ5 - This area is not open for... visitors. Leave or I will call the guards.
+MARJ6 - MORE guards. Ha! As if they do any good... look, you SHOULD have received instructions from whoever sent you here. Talk to the other guards to find out your assignment. Now go.
+MARJ7 - You're a RESEARCHER...? Hmmmm. I've never seen you before. How much do you know about pharmaceutical research?
+MARJ8 - Ha! I think I'll just watch you go, period. Leave before I call the guards.
+MARJ9 - Hmmmm. All right then. Let me give you a run-down on what we do here: we test the effects and potency of a metamphetamine called Jet.
+MARJ10 - Not so well. Our schedule is tight, and we need to purify the Jet manufacturing process soon.
+MARJ11 - No one's come out and said it, but it's probably due to Jet distribution in Redding. Jet's potent *enough,* but there's a good deal of room for improvement, and the 'brass' wants to increase Jet addiction in Redding.
+MARJ12 - It's potent *enough,* but there's room for improvement. The 'brass' wants to increase Jet distribution in Redding, and they want the addiction rate as close to 100% as we can get it. It's going to require us pulling some long hours.
+MARJ13 - Addict the miners in Redding to Jet, and whoever controls the Jet, controls Redding. Typical power play.
+MARJ14 - Who controls the drugs? The Mordinos. Of course, Myron laid all the groundwork for Jet's composition. We do mostly clean-up work.
+MARJ15 - You COULD call it that. He's a smart one, I'll give him that, but he doesn't care much about what goes on up here. He mostly stays in the basement vault... no visitors except for the train of prostitutes. Typical project leader.
+MARJ16 - I suppose... let me give you a temporary badge; just show it to the guards. Keep it quick, though, Myron doesn't like people staying long.
+MARJ17 - I suppose... let me give you a temporary badge; just show it to the guards. Keep it quick, though, Myron doesn't like people staying long... though he may make an exception in your case.
+MARJ18 - Look, I'm VERY busy, so if you don't mind...
+MARJ19 - Look, I... I'm, uh, very busy, so if you would please excuse me...
+MARJ20 - This... hmm... I'm VERY flattered, but I'm also very busy at the moment... so... uh...
+MARJ21 - Oh, not THAT busy... heh... well, no, pretty busy. I mean, mostly it's routine drug testing, and occasionally we have a slave go over the edge...
+MARJ22 - Was that some poor attempt at a joke?
+MARJ23 - I'm on THIS side of the stalls, they're on THAT side. Since we're getting into hypotheticals, would YOU like to find out what it's like to be them? We have an extra stall or two.
+MARJ24 - Slave deaths? A few. Mostly accidental overdoses - usually a tech's fault - or self-inflicted injuries. Some ingest too much Jet, and they REALLY want to fly.
+MARJ25 - Try downstairs in the lab. The guarded door. If you see him, tell him to come up here when he has the chance. IF he's not too busy.

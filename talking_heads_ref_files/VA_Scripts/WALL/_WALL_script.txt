@@ -1,0 +1,74 @@
+WALL1 - Hello, Captain. Is there anything I can help you with?
+WALL2 - Hello, Citizen. Is there anything I can help you with?
+WALL3 - Hello, traveler. Welcome to Vault City. Is there anything I can help you with?
+WALL4 - Well, I see I'll have to have to have a talk with the guards in the Courtyard. They seem to be letting just about ANY Outsider into Vault City nowadays. 
+WALL5 - "Daiseee," you say? How fascinating. Why don't you go back to the Courtyard and tell the rest of your inbred Outsider friends all about it?
+WALL6 - Actually, now that I think about it, maybe you better leave your weapons and armor here. Just for the safety of Vault City.
+WALL7 - Better do the armor first, so y... hey... what's that you're wearing beneath your armor?
+WALL8 - Wh--? Why... you're wearing an original vault suit!
+WALL9 - Here, take this Day Pass and go speak with our First Citizen - I'm sure she will have many questions for you.
+WALL10 - What do *you* want?
+WALL11 - Cease bothering me, you fool.
+WALL12 - You were kicked out of Vault City for a reason, Outworlder. No second chances.
+WALL13 - Another one? What happened to the first one?
+WALL14 - I can. But there is a $50 fee for every Day Pass I issue past the first.
+WALL15 - Here you go. PLEASE try and keep this on you at all times. I don't want to have to keep track of multiple Day Passes for everyone.
+WALL16 - Name's Wallace. I'm the Customs Officer for Vault City. I accommodate those who wish to conduct business within our great walls.
+WALL17 - If you want to enter Vault City, then you'll need a good reason. Only a Vault Citizen has the right to come and go as they please. All others must procure a Day Pass.
+WALL18 - This is the Customs Office for Vault City. We're responsible for keeping a log of all the goods that come to us via the caravans and supervising all transactions. All merchants must pass through customs before entering the city.
+WALL19 - Uh... are you certain?
+WALL20 - Wh-? Who are YOU to be accusing a Vault Citizen of anything?
+WALL21 - Those who need to deal directly with the merchants or the First Citizen are given a Day Pass. Only those with Day Passes can enter the city.
+WALL22 - Well, of course. Everyone desires an audience with the First Citizen. Sadly, her time is only for matters of the utmost importance. You don't look important enough to warrant her time, I'm afraid.
+WALL23 - Well, of course. Everyone desires an audience with the First Citizen. Sadly, her time is only for matters of the utmost importance.
+WALL24 - A GECK? Well, that means nothing to me... and if means nothing to me, it will certainly mean nothing to the First Citizen. Now was THAT what you wished to see the First Citizen about or was it something else?
+WALL25 - Oh, do tell. I'll rush right over to the First Citizen to deliver the news personally.
+WALL26 - Well, I didn't say I couldn't help you, it's just that... well... what is the purpose of your visit?
+WALL27 - A... network of Vaults?
+WALL28 - Hmmmm. Well... hmmmm. This is MOST irregular...
+WALL29 - Well... this certainly seems to be a matter for the First Citizen. Here is your Day Pass. It is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.
+WALL30 - Don't waste any more of my time, Outsider. Leave.
+WALL31 - I suggest you leave now, or I will summon the guards.
+WALL32 - And where, may I ask, did you come by this fraudulent Citizenship? These serial numbers are the same as the Citizenship papers stolen last month.
+WALL33 - Hmmmm... very well. If you tell me, I will give you a Day Pass. Now where did you get these papers?
+WALL34 - You Outsider degenerate. I'm not one to be trifled with! You'll never set foot into our city now! Leave before I summon the guards!
+WALL35 - Skeev? This is how I'm repaid for taking him in as my son! He shall be dealt with, I assure you.
+WALL36 - Thank you for your assistance, Outsider.
+WALL37 - Skeev? That ungrateful wretch! This shall be dealt with immediately!
+WALL38 - Well, as promised, here is your Day Pass... but you step out of line, I'll have it revoked. You hear me?
+WALL39 - Very well, you've earned it. Here you go. The pass is only good during the day; at night, you will be asked to leave the city. Citizens also reserve the right to cancel Day Pass privileges at any time, so behave yourself.
+WALL40 - Sorry. Unless you have a pressing reason I cannot help you.
+WALL41 - Why, how SILLY of me. I should have known that someone of YOUR superior breeding came from Vault Dweller stock. Pah! Waste no more of my time, Outsider.
+WALL42 - Very well. What did you want to know?
+WALL43 - Hello, Captain. Is there anything I can help you with?
+WALL44 - Hello, Citizen. Is there anything I can help you with?
+WALL45 - You again. Was there something else you wanted, or...?
+WALL46 - Of course, Captain. What else did you want to know?
+WALL47 - Of course, Citizen. What else did you want to know?
+WALL48 - What else did you want to know?
+WALL49 - Depends on where the caravan is from. We get shipments from many places... Servants from the Den, uranium from Broken Hills, and metal ore from Redding.
+WALL50 - It's a... community to the west of here. We frequently purchase Servants from their traders. It's quite a rough place, from what I've heard.
+WALL51 - I'm sure a... Servant appropriator... such as yourself has a much more thorough knowledge of that place than I.
+WALL52 - A delightful place, really. Killers, thieves... the usual Outsider scum. A place where one such as yourself would feel right at home.
+WALL53 - Broken Hills is a mining town to the south. As I understand it, mutants mine the uranium, and they ship it here by caravan. They seem a bit shifty, but nice enough... well, nice enough for Outsiders, anyway. No offense.
+WALL54 - Broken Hills is a mining town to the south. As I understand it, mutants mine the uranium, and they ship it here by caravan.
+WALL55 - It's a mining town far to the west. The caravans from there were the most pleasant to deal with, but recently the shipments of ore have slowed considerably. It has us a bit worried... we depend on their ore a great deal.
+WALL56 - You have? This is excellent news! Please go tell Councilor McClure right away.
+WALL57 - You have? That is excellent news! Let me give you a Day Pass so you can speak with Councilor McClure. The pass is only good during the day; at night you will be asked to leave. Now go.
+WALL58 - Funny you should mention that. The price has been going up of late... nothing we can't afford, mind you. We're certainly getting a better deal than Gecko. Those filthy scavengers need the uranium much more than we do.
+WALL59 - Our First Citizen is Joanne Lynette. She has done many good things for our city in her ten years of service.
+WALL60 - She has kept our city untainted by the outside world. Even with NCR pressuring us to join the Republic and the raider attacks, she has kept our city strong. Now there are the troubles with Gecko....
+WALL61 - NCR is the "New California Republic." They claim they are attempting to unify all of California under one Government, but we can see right through their pathetic ruse.
+WALL62 - Even if they were sincere, why would we want to share our resources with the cutthroats and thieves that live outside these walls? I think *not.*
+WALL63 - Recently we have experienced a rash of particularly brutal raider attacks. We have had attacks in the past, but nothing like this. I fear these raiders might eventually breach our laser turret defenses.
+WALL64 - Not much. We can't seem to find where they are striking from. Our Citizen Sergeant Stark may know more, but he's in the Corrections Center inside the city.
+WALL65 - Certainly. If you can find the raiders base camp, I'll grant you a Day Pass.
+WALL66 - You have? That is excellent news! Please go tell the First Citizen right away.
+WALL67 - You have? That is excellent news! Let me give you a Day Pass so you can tell the First Citizen. Here you go. The pass is only good during the day; at night you will be asked to leave. Now go.
+WALL68 - Oh, uh, that's not my place to say. You'd have to speak with the First Citizen about such matters.
+WALL69 - You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wasteland lizard skins?  (Glances at your companion.) Or are you looking to sell some Servants?
+WALL70 - You are a merchant? Really. And what would you happen to be selling? Ore? Some of those filthy wasteland lizard skins? 
+WALL71 - Hmmmm. Well, let's see what you have. Once I inspect your stock, I can process the paperwork for your Day Pass. 
+WALL72 - Hmmmm. Very well. There IS a Day Pass fee for merchants, five hundred dollars. That includes full daytime trading privileges within Vault City walls and is good for up to five years after its issue date.
+WALL73 - Well, this sample is adequate. There IS a Day Pass fee for merchants, five hundred dollars. That includes full daytime trading privileges within Vault City walls and is good for up to five years after its issue date.
+WALL74 - Excellent. Here you go... again, it is only good during the day - at night you will be asked to leave the city. Citizens also reserve the right to cancel the Day Pass privileges at any time, so behave yourself.

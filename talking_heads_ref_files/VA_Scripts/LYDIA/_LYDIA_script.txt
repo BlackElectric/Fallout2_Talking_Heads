@@ -1,0 +1,33 @@
+LYDIA1 - Hey there, Chosen One! We were just talking about your adventure... can I get you anything to drink?
+LYDIA2 - Uh... so I smell. Um, thanks again for saving the world and all.
+LYDIA3 - Look, maybe you saved the world and all, but a poet, you're not. Now cut it out.
+LYDIA4 - Look, take these and get out of here, okay? They ought to keep your mouth busy for a while.
+LYDIA5 - Uh... what can I do for you, Captain?
+LYDIA6 - What can I do for you, Citizen?
+LYDIA7 - Yes? Can I help you?
+LYDIA8 - That is perhaps the most fascinating thing I've ever heard. Hold on a second... I want the guards to hear it, too.
+LYDIA9 - Like...?
+LYDIA10 - We have synthetic beers and liquor... vodka-H, tequila derivatives W and W2. Oh, and water. And brahmin milk. Beer or liquor is ten bucks, water or milk's three bucks.
+LYDIA11 - The brahmin milk's not on tap... well, not exactly. I'd have to go out and snag some really quick.
+LYDIA12 - There you go. Anything else?
+LYDIA13 - Oh? Like what?
+LYDIA14 - Uh, First Citizen Lynette... you are a Citizen, aren't you?
+LYDIA15 - First Citizen Lynette. She's in the council building up north if you need to talk to her.
+LYDIA16 - Uh, it's the big hole in the side of the mountain to the east of here... say, you are a Citizen, aren't you?
+LYDIA17 - It's that big hole in the mountain to the east of here. You can't miss it. You also can't get inside unless you're a Citizen, though.
+LYDIA18 - Sure you are. I'd just be careful who you say that to, "Citizen." Somebody's gonna recognize whatever stolen papers you bought from that bloodsucker Skeev. So keep your head down, all right?
+LYDIA19 - Look, first thing I have to say is that you better not call it "slavery" around here or you're going to get yourself in a whole mess of trouble. They're called "servants," not slaves. Just a word of advice.
+LYDIA20 - Not much. Most contact we have with Outsiders is merchants travelling the Big Circle caravan trail from Broken Hills, New Reno, and Redding. Only other place outside the caravan trail that I know of is Gecko.
+LYDIA21 - It's a mining community like Redding, except it's located to the far South. We get many of our uranium shipments from there.
+LYDIA22 - It's a ways to the southwest. I hear conflicting reports about Reno. Some merchants, especially the slavers, really love it there. Other merchants... don't. City with a lot of glitter... and a lot of trouble, I hear.
+LYDIA23 - It's a mining town far to the west. We haven't seen too many caravans from them recently, and it's got some of the high-ups a little worried. Senior Councilman McClure especially.
+LYDIA24 - A town of ghouls less than a day's travel to the northeast, as I understand it. Rumor is they prey on any travelers that enter their territory. Best stay away.
+LYDIA25 - Why? You looking for something with some more kick than these synthetic drinks?
+LYDIA26 - That's for sure. I used to have a... well, I used to know this merchant who had a bottle of Maddog 30/30. Bitter stuff... couldn't feel my tongue afterwards, but it was refreshingly different.
+LYDIA27 - It got drunk. Or so I heard. There were a few other "friends" here in Vault City who helped this merchant friend drink the stash. They were willing to pay a good price to have the real stuff for a change.
+LYDIA28 - Is that so? Well, if you happened to be looking to relieve yourself of some real alcohol, then I could make it worth your while. If you could keep quiet about our deal. And get the contraband past the gate.
+LYDIA29 - Say, a case of ten bottles of premium alcohol, and ten bottles of beer. And none of that radioactive stuff I hear comes out of Gecko. Just good old "booze," all right?
+LYDIA30 - Excellent! Here's something for you... that amount's double the price the cases are worth. And this transaction never happened, all right?
+LYDIA31 - No, those wasteland concoctions they call alcohol are illegal here in Vault City. I don't even want to know how they brew them. Now did you want something to drink, Captain...?
+LYDIA32 - I wouldn't know anything about that. I only serve synthetic alcohol here. If any real alcohol were to enter Vault City, I wouldn't know anything about it.
+LYDIA33 - I... see. Well, uh, take care now. Okay?
