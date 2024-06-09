@@ -115,7 +115,7 @@ procedure Node036;
 procedure Node037;
 procedure Node038;
 procedure Node039;
-procedure Node040;
+//procedure Node040; - Node is not defined from RPU source, commenting out
 procedure Node041;
 
 procedure Node990;
@@ -1008,10 +1008,6 @@ procedure Node039 begin
    Reply(604);
    NOption(605, Node999, 004);
    NOption(606, Node041, 004);
-end
-
-procedure Node040 begin
-
 end
 
 procedure Node041 begin

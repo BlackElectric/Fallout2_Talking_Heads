@@ -89,16 +89,6 @@ procedure Node027;
 
 #define self_family                       family_wright
 
-#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
-                                                         in_dialog := true;                        \
-                                                         start_gdialog(NAME,self_obj,4,HEAD_KEITH,BACKGROUND_SHADY);     \
-                                                         gSay_Start;                               \
-                                                            call x;                                \
-                                                         gSay_End;                                 \
-                                                         end_dialogue;                             \
-                                                         in_dialog := false;                       \
-                                                         end else call x
-
 variable prev_node := 0;
 
 import variable new_reno_keith_wright_obj;
@@ -191,7 +181,7 @@ procedure talk_p_proc begin
    if (wright_dead) then begin
       call Node005;
    end else begin
-      th_start_dialog_at_node(Node006);
+      th_start_dialog_at_node(Node006,HEAD_KEITH,BACKGROUND_SHADY);
    end
    set_herebefore;
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);

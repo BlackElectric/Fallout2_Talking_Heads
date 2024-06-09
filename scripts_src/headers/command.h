@@ -595,6 +595,25 @@ variable forced_node;
                                                          forced_node := 0;                      \
                                                       end
 
+//GoatboyAddendum
+#define th_start_dialog_at_node(x,HEAD,BACKGROUND)    if (in_dialog == false) then begin                     \
+                                                         in_dialog := true;                                  \
+                                                         start_gdialog(NAME,self_obj,4,HEAD,BACKGROUND);     \
+                                                         gSay_Start;                                         \
+                                                            call x;                                          \
+                                                         gSay_End;                                           \
+                                                         end_dialogue;                                       \
+                                                         in_dialog := false;                                 \
+                                                         end else call x
+
+#define th_check_forced_dialog(HEAD,BACKGROUND)       if (forced_node != 0) then begin                         \
+                                                         ndebug("calling forced dialog: "+forced_node);        \
+                                                         th_start_dialog_at_node(forced_node,HEAD,BACKGROUND); \
+                                                         forced_node := 0;                                     \
+                                                         end
+
+//EndAddendum
+
 /*
 FLOAT_MSG_BLACK
 FLOAT_MSG_PURPLE

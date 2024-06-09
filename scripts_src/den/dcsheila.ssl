@@ -75,18 +75,6 @@ procedure Node995;
                                              set_local_var(LVAR_Lucky, game_time + ONE_GAME_DAY);                                \
                                           end
 
-//GoatboyAddendum
-#define th_start_dialog_at_node(x)                    if (in_dialog == false) then begin           \
-                                                         in_dialog := true;                        \
-                                                         start_gdialog(NAME,self_obj,4,HEAD_SHELA,BACKGROUND_RAIDERS);     \
-                                                         gSay_Start;                               \
-                                                            call x;                                \
-                                                         gSay_End;                                 \
-                                                         end_dialogue;                             \
-                                                         in_dialog := false;                       \
-                                                         end else call x
-//EndAddendum
-
 variable sex_cost;
 
 procedure start begin
@@ -147,7 +135,7 @@ end
 procedure talk_p_proc begin
    script_overrides;
    calc_sex_cost
-   th_start_dialog_at_node(Node995);
+   th_start_dialog_at_node(Node995,HEAD_SHELA,BACKGROUND_RAIDERS);
    set_herebefore;
 end
 

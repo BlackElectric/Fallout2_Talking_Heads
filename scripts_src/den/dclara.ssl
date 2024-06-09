@@ -146,18 +146,6 @@ procedure Node045;
 
 #define self_gang                         gang_2
 
-//GoatboyAddendum
-#define th_start_dialog_at_node(x)                    if (in_dialog == false) then begin           \
-                                                         in_dialog := true;                        \
-                                                         start_gdialog(NAME,self_obj,4,HEAD_LARAD,BACKGROUND_HUB);     \
-                                                         gSay_Start;                               \
-                                                            call x;                                \
-                                                         gSay_End;                                 \
-                                                         end_dialogue;                             \
-                                                         in_dialog := false;                       \
-                                                         end else call x
-//EndAddendum
-
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -266,10 +254,10 @@ procedure critter_p_proc begin
                if (not combat_is_initialized) then begin
                   terminate_combat;
                end
-               th_start_dialog_at_node(Node040);
+               th_start_dialog_at_node(Node040,HEAD_LARAD,BACKGROUND_HUB);
             end
          end else if ( (self_distance_from_dude > 8) and (returned_to_church == false) and (gang_war_dude_stray_message == false) ) then begin
-            th_start_dialog_at_node(Node044);
+            th_start_dialog_at_node(Node044,HEAD_LARAD,BACKGROUND_HUB);
          end
       end
    end
@@ -311,9 +299,9 @@ procedure talk_p_proc begin
    end else if (gangwar(state_gangwar_in_fight)) then begin
       //added by killap - expansion
       if (local_var(LVAR_Attack_Tyler_Wait)) then begin
-         th_start_dialog_at_node(Node043);  //end added by killap - expansion
+         th_start_dialog_at_node(Node043,HEAD_LARAD,BACKGROUND_HUB);  //end added by killap - expansion
       end else if ((global_var(gang_1) < 7) and (church_cleared_speech == false)) then begin
-         th_start_dialog_at_node(Node040);
+         th_start_dialog_at_node(Node040,HEAD_LARAD,BACKGROUND_HUB);
       //end added
       end else begin
          call Node039;
@@ -324,33 +312,33 @@ procedure talk_p_proc begin
       //added by killap - expansion
       end else if (cur_map_index == MAP_DEN_RESIDENTIAL) then begin
          if returned_to_church then floater(730);
-         else th_start_dialog_at_node(Node045);
+         else th_start_dialog_at_node(Node045,HEAD_LARAD,BACKGROUND_HUB);
       //end added
       end else if (gave_money) then begin
          call Node032;
       end else begin
-         th_start_dialog_at_node(Node035);
+         th_start_dialog_at_node(Node035,HEAD_LARAD,BACKGROUND_HUB);
       end
    end else if (gangwar(state_gangwar_no_show)) then begin
       call Node031;
    end else if (gangwar(state_gangwar_coward)) then begin
-      th_start_dialog_at_node(Node030);
+      th_start_dialog_at_node(Node030,HEAD_LARAD,BACKGROUND_HUB);
    end else if (gang_1_dead or tyler_dead) then begin //edit by killap - added tyler_dead
       if (node_36) then begin
          call Node038;
       end else begin
-         th_start_dialog_at_node(Node036);
+         th_start_dialog_at_node(Node036,HEAD_LARAD,BACKGROUND_HUB);
       end
    end else if (gangwar(state_gangwar_fight)) then begin
-      th_start_dialog_at_node(Node028);
+      th_start_dialog_at_node(Node028,HEAD_LARAD,BACKGROUND_HUB);
    end else if ((gangwar(state_gangwar_find)) or (gangwar(state_gangwar_weakness))) then begin
-      th_start_dialog_at_node(Node026);
+      th_start_dialog_at_node(Node026,HEAD_LARAD,BACKGROUND_HUB);
    end else if ((gangwar(state_gangwar_ask)) or (gangwar(state_gangwar_permission))) then begin
-      th_start_dialog_at_node(Node019);
+      th_start_dialog_at_node(Node019,HEAD_LARAD,BACKGROUND_HUB);
    end else if (gangwar(state_gangwar_crates)) then begin
-      th_start_dialog_at_node(Node018);
+      th_start_dialog_at_node(Node018,HEAD_LARAD,BACKGROUND_HUB);
    end else begin
-      th_start_dialog_at_node(Node001);
+      th_start_dialog_at_node(Node001,HEAD_LARAD,BACKGROUND_HUB);
    end
    call Node001;
    set_herebefore;

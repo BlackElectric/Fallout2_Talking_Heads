@@ -152,18 +152,6 @@ procedure Node900;
 
 #define vic_price_formula                 (1000 / (metzger_sex + 1))
 
-//GoatboyAddendum
-#define th_start_dialog_at_node(x)                    if (in_dialog == false) then begin           \
-                                                         in_dialog := true;                        \
-                                                         start_gdialog(NAME,self_obj,4,HEAD_METZG,BACKGROUND_HUB);     \
-                                                         gSay_Start;                               \
-                                                            call x;                                \
-                                                         gSay_End;                                 \
-                                                         end_dialogue;                             \
-                                                         in_dialog := false;                       \
-                                                         end else call x
-//EndAddendum
-
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -246,19 +234,19 @@ procedure talk_p_proc begin
    end else begin
       move_obj_inven_to_obj(self_obj,generic_temp_box);
          if ( attacked_slaver_on_run ) then begin
-            th_start_dialog_at_node(Node030);
+            th_start_dialog_at_node(Node030,HEAD_METZG,BACKGORUND_HUB);
          end else if( (tyler_dead) and (metzger_permission == false) ) then begin
             call Node001;
             call Node998;
          end else if (abandon_slave_run) then begin
-            th_start_dialog_at_node(Node043);
+            th_start_dialog_at_node(Node043,HEAD_METZG,BACKGORUND_HUB);
          end else begin
             move_obj_inven_to_obj(den_metzger_box_obj,self_obj);
                if (on_slave_run) then begin
-                  th_start_dialog_at_node(Node028);
+                  th_start_dialog_at_node(Node028,HEAD_METZG,BACKGORUND_HUB);
                   off_on_slave_run;
                end else begin
-                  th_start_dialog_at_node(Node002);
+                  th_start_dialog_at_node(Node002,HEAD_METZG,BACKGORUND_HUB);
                end
             move_obj_inven_to_obj(self_obj,den_metzger_box_obj);
          end

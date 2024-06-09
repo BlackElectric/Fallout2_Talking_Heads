@@ -106,16 +106,6 @@ procedure Node106;
 
 #define angela_in_bed                     ((self_tile == angela_bed_tile) and (self_elevation == angela_self_room_elev))
 
-#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
-                                                         in_dialog := true;                        \
-                                                         start_gdialog(NAME,self_obj,4,HEAD_ABSHP,BACKGROUND_RAIDERS);     \
-                                                         gSay_Start;                               \
-                                                            call x;                                \
-                                                         gSay_End;                                 \
-                                                         end_dialogue;                             \
-                                                         in_dialog := false;                       \
-                                                         end else call x
-
 variable prev_node;
 
 import variable angela_guard_obj;
@@ -235,25 +225,25 @@ procedure talk_p_proc begin
    end else if ((angela_rejected) and (dude_is_male)) then begin
       call Node002;
    end else if (angela_banged) then begin
-      th_start_dialog_at_node(Node027);
+      th_start_dialog_at_node(Node027,HEAD_ABSHP,BACKGROUND_RAIDERS);
    end else if (Fallout2_enclave_destroyed) then begin
       if (dude_is_female) then begin
          call Node003;
       end else begin
-         th_start_dialog_at_node(Node028);
+         th_start_dialog_at_node(Node028,HEAD_ABSHP,BACKGROUND_RAIDERS);
       end
    end else if (dude_wearing_power_armor) then begin
       call Node005;
    end else if (dude_is_male) then begin
       if ((dude_has_porn_star_rep) or (dude_is_prizefighter)) then begin
-         th_start_dialog_at_node(Node028);
+         th_start_dialog_at_node(Node028,HEAD_ABSHP,BACKGROUND_RAIDERS);
       end else begin
-         th_start_dialog_at_node(Node008);
+         th_start_dialog_at_node(Node008,HEAD_ABSHP,BACKGROUND_RAIDERS);
       end
    end else if (herebefore) then begin
       call Node046;
    end else begin
-      th_start_dialog_at_node(Node030);
+      th_start_dialog_at_node(Node030,HEAD_ABSHP,BACKGROUND_RAIDERS);
    end
    set_herebefore;
    nr_add_timer_event_rand(self_obj, 25, 35, float_param);

@@ -148,16 +148,6 @@ procedure Node066;
 #define pissed                               lvar_bit(LVAR_Flags, pissed_bit)
 #define set_pissed                           set_lvar_bit_on(LVAR_Flags, pissed_bit)
 
-#define th_start_dialog_at_node(x)                       if (in_dialog == false) then begin           \
-                                                         in_dialog := true;                        \
-                                                         start_gdialog(NAME,self_obj,4,HEAD_LJMRD,BACKGROUND_HUB);     \
-                                                         gSay_Start;                               \
-                                                            call x;                                \
-                                                         gSay_End;                                 \
-                                                         end_dialogue;                             \
-                                                         in_dialog := false;                       \
-                                                         end else call x
-
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -272,9 +262,9 @@ procedure talk_p_proc begin
       if (pissed) then begin
          call Node036;
       end else if ( (dude_wielding_knife) and (get_knife(knife_none)) and (has_skill(dude_obj, SKILL_MELEE) <= 295) ) then begin //added melee check - killap (so he does not chastise when you have a skill greater than he can teach
-         th_start_dialog_at_node(Node063);
+         th_start_dialog_at_node(Node063,HEAD_LJMRD,BACKGROUND_HUB);
       end else if (dude_family == self_family) then begin
-         th_start_dialog_at_node(Node033);
+         th_start_dialog_at_node(Node033,HEAD_LJMRD,BACKGROUND_HUB);
       end else if (dude_is_prizefighter) then begin
          if (dude_is_sneaking) then begin
             if (dude_is_male) then begin
@@ -283,7 +273,7 @@ procedure talk_p_proc begin
                call Node012;
             end
          end else begin
-            th_start_dialog_at_node(Node032);
+            th_start_dialog_at_node(Node032,HEAD_LJMRD,BACKGROUND_HUB);
          end
       end else if ((dude_has_porn_star_rep) and (dude_is_sneaking)) then begin
          if (dude_is_male) then begin
@@ -295,12 +285,12 @@ procedure talk_p_proc begin
          if (dude_is_sneaking) then begin
             call Node021;
          end else begin
-            th_start_dialog_at_node(Node034);
+            th_start_dialog_at_node(Node034,HEAD_LJMRD,BACKGROUND_HUB);
          end
       end else if (herebefore) then begin
-         th_start_dialog_at_node(Node031);
+         th_start_dialog_at_node(Node031,HEAD_LJMRD,BACKGROUND_HUB);
       end else begin
-         th_start_dialog_at_node(Node030);
+         th_start_dialog_at_node(Node030,HEAD_LJMRD,BACKGROUND_HUB);
       end
       nr_add_timer_event_rand(self_obj, 25, 35, float_param);
    end

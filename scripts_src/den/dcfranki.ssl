@@ -100,19 +100,6 @@ procedure Node984;
 #define home_tile                         (local_var(LVAR_Home_Tile))
 #define sex_time_up                       ((game_time > local_var(LVAR_Next_Sex_Time)) and (local_var(LVAR_Next_Sex_Time) != 0))
 
-//GoatboyAddendum
-#define th_start_dialog_at_node(x)                    if (in_dialog == false) then begin           \
-                                                         in_dialog := true;                        \
-                                                         start_gdialog(NAME,self_obj,4,HEAD_FRANK,BACKGROUND_RAIDERS);     \
-                                                         gSay_Start;                               \
-                                                            call x;                                \
-                                                         gSay_End;                                 \
-                                                         end_dialogue;                             \
-                                                         in_dialog := false;                       \
-                                                         end else call x
-//EndAddendum
-
-
 import variable frankie_obj;
 
 procedure start begin
@@ -165,15 +152,15 @@ procedure talk_p_proc begin
    GetReaction;
    ReactToLevel; //added by killap
    if ((bad_critter_reaction) or (REP_ENEMY_DEN) or (mom_attacked)) then begin
-      th_start_dialog_at_node(Node007);
+      th_start_dialog_at_node(Node007,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else if ( (still_quest(state_still_quest_asked_to_destroy)) or (still_quest(state_still_quest_destroyed)) ) then begin //added (still_quest(state_still_quest_asked_to_destroy)) - by killap
-      th_start_dialog_at_node(Node014);
+      th_start_dialog_at_node(Node014,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else if (still_quest(state_still_quest_serching)) then begin
-      th_start_dialog_at_node(Node012);
+      th_start_dialog_at_node(Node012,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else if (herebefore) then begin
-      th_start_dialog_at_node(Node002);
+      th_start_dialog_at_node(Node002,HEAD_FRANK,BACKGROUND_RAIDERS);
    end else begin
-      th_start_dialog_at_node(Node000);
+      th_start_dialog_at_node(Node000,HEAD_FRANK,BACKGROUND_RAIDERS);
    end
    set_herebefore;
 end
